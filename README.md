@@ -1,8 +1,8 @@
-# 基因编辑相关法律信息检索
+# 基因编辑相关法律信息检索 (Gene Modification)
 
-###########目录结构描述
-├── README.md                  	// help
-├── [pdf附件](附件1[599].pdf)   	// 文献来源出处
-├── source.py                   // 脚本代码
-├── input 						// 文本输入
-└── output 						// 文本输出
+### 目录结构描述
+├── README.md  
+├── [附件1[599].pdf](附件1[599].pdf)    &nbsp;&nbsp; &nbsp; // 文献来源出处  
+├── source.py       &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; // 脚本代码  
+├── input           &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; // 文本输入  
+└── output 			&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; // 文本输出  
