@@ -1,0 +1,8 @@
+Genomic editing is an area of research seeking to modify genes of living organisms to improve our understanding of gene function and advance potential therapeutic applications to correct genetic abnormalities
+Researchers in China have recently described their experiments in a nonviable human embryo to modify the gene responsible for a potentially fatal blood disorder using a gene-editing technology called CRISPR/Cas9
+Genomic editing is already widely studied in a variety of organisms
+In the first clinical application of genomic editing, a related genome editing technique (using a zinc finger nuclease) was used to create HIV-1 resistance in human immune cells, bringing HIV viral load down to undetectable levels in at least one individual
+All of these examples of research using genomic editing technologies can and are being funded by NIH
+However, NIH will not fund any use of gene-editing technologies in human embryos
+Advances in technology have given us an elegant new way of carrying out genome editing, but the strong arguments against engaging in this activity remain
+The Public Health Service Act and the Federal Food, Drug, and Cosmetic Act give the FDA the authority to regulate cell and gene therapy products as biological products and/or drugs, which would include oversight of human germline modification

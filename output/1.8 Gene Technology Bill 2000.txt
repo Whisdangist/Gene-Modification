@@ -1,0 +1,30 @@
+The scheme will operate by identifying and assessing risks posed by, or as a result of, gene technology, and by managing any risks through the regulation of certain dealings with genetically modified organisms (GMOs)
+(b)	operates in conjunction with other Commonwealth and State regulatory schemes relevant to GMOs and genetically modified products (GM products) such as the existing schemes for the regulation of food, therapeutic goods, agricultural and veterinary chemicals and industrial chemicals
+Gene technology involves the modification of organisms by the direct incorporation or deletion of one or more genes to introduce or alter a specific characteristic or characteristics
+Organisms created using gene technology techniques are commonly referred to as "genetically modified organisms (GMOs)
+§	agricultural applications for example, genetic modification of crops to incorporate pesticide resistance or herbicide tolerance, or the slowing of the ripening process in fruit and flowers by inhibiting the action of certain genes;
+§	increased health risks associated with allergenicity in genetically modified foods;
+§	risk to Australia's capacity to maintain diverse farming practices because of the impact of contamination to traditional or organic crops through the use of genetically modified crops in surrounding areas (that is, increased monoculture in farming practices);
+§	increased use of agricultural chemicals associated with genetically modified herbicide tolerant crops resulting in increased environmental damage;
+§	Foods (including genetically modified or GM foods) are regulated under State and Territory Food Acts with the role of developing food Standards resting with the Australia New Zealand Food Authority (ANZFA) under the Australia New Zealand Food Authority Act 1991 (Cth)
+§	Therapeutic goods (including genetically modified therapeutic goods) are regulated under the Therapeutic Goods Act 1989 (Cth), administered by the Therapeutic Goods Administration (TGA) within the Commonwealth Department of Health and Aged Care
+Most field trials have been for genetically modified plants, with the majority being for cotton or canola
+In addition, the NRA has approved, with the advice of GMAC, the release of a genetically modified plant pesticide (in 1989) and a salmonella vaccine (in 1992)
+For example, stockfeed produced from genetically modified agricultural crops
+The proposed Bill regulates all "dealings" (including research, manufacture, production, propagation, commercial release and import) with live viable GMOs that have been modified by techniques of gene technology, including the progeny (or descendants) of such GMOs which also share a genetically modified trait
+Examples include laboratory research involving the genetic modification of animals, plants, bacteria and viruses and the growing of crops, animals and fish
+The disadvantage would be that GM products would be assessed entirely separately from their non-GM counterparts even when the effect of the genetic modification was minimal
+The CSCG prepared a discussion paper entitled "Proposed national regulatory system for genetically modified organisms - How should it work?"
+In relation to most GM products the major risks posed do not relate to the genetically modified qualities of the product but from other qualities and the proposed application of the product
+This clause provides that the object of this Bill is to protect the health and safety of people, and to protect the environment, by identifying risks posed by, or as a result of, gene technology, and by managing those risks through regulating certain dealings with genetically modified organisms (GMOs)
+The terms "environment", "gene technology", "dealings" and "genetically modified organisms" are defined in clause 10
+Furthermore, the regulatory framework is to operate in conjunction with other Commonwealth and State regulatory schemes relevant to GMOs and genetically modified (GM) products
+"gene technology" is defined to cover any technique for the modification of genes or other genetic material, but does not include:
+"genetically modified organism" is defined as:
+(c)	anything declared by the regulations to be a genetically modified organism, or that belongs to a class of things declared by the regulations to be genetically modified organisms;
+(e)	an organism declared by the regulations not to be a genetically modified organism, or that belongs to a class of organisms declared by the regulations not to be a genetically modified organisms
+The ability to prescribe things to be genetically modified organisms in regulations (under (c) of the definition of a GMO) ensures there is capacity to regulate GM products that are not regulated by existing regulatory agencies
+Human beings are excluded from the definition of a GMO to ensure that a person who has undergone somatic cell gene therapy (for example, treatment for cancer) is not a GMO (as defined in this legislation), thus requiring the person to be licensed for the rest of their lives because they have been modified by techniques of gene technology
+For example, the risks posed in relation to an application seeking authorisation to hold two genetically modified cows in a double-fenced holding pen are very different to the risks that may be posed by the extensive growing of genetically modified crops in open fields
+The Regulator must, for example, consider the potential for spread of the GMO, the scale of the proposed dealings, and the effects of the genetic modification on the properties of the organism
+For example, a company who wished to market a flower that had been genetically modified to extend vase life, would initially apply for a licence to do so

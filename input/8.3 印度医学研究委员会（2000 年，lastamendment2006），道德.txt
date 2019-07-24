@@ -1,0 +1,262 @@
+174
+Trends Biomater. Artif. Organs, Vol 18 (2), January 2005 http://www.sbaoi.org
+Introduction :
+The field medical research and health care is
+rapidly expanding. Most medical research is
+not complete, unless experimentation on
+human subjects, including children is
+undertaken. Experimentation on human being
+is subject to ethical standards that promote
+respect for all and protect their health and
+rights. With the rapidly progressing world of
+biomedical research, there are newer
+challenges to ethical standards; as a result the
+ethical guidelines are frequently revised.
+It is widely expected that any new therapeutic,
+diagnostic or preventive product, that is likely
+to be used in humans, should undergo adequate
+safety and efficacy investigations.
+In order that every research on human subject
+is planned with a view to cause maximum
+benefit to the mankind while causing least
+damage to the research subject, it is essential
+that an appropriately constituted ethics
+committee approve all the research proposals.
+Research requiring ethical review:
+Research involving living human subjects and
+use of their medical records.
+Research involving human remains, cadavers,
+biological fluids, tissues, embryos, fetuses etc.
+National and International Ethical
+Instruments and guidelines:
+The Neuremberg Code formulated in 1947 was
+the first international statement on the ethics
+of medical research using human subjects. It
+emphasized consent and voluntariness, The
+Preliminary efforts by the council for
+International organizations of Medical
+Sciences (CIOMS) resulted into the Helsinki
+Declaration formulated in the year 1964. This
+Ethical Guidelines for Biomedical Research on Human Subjects
+Nisha Shah
+Senior Medical Officer
+Indian Institute of Technology, Bombay, Hospital
+Powai, Mumbai-400 076.
+Abstract:
+There have been considerable advances in medical sciences and biotechnology in the recent past. The
+human biomedical research has continued to expand. In order to achieve smooth progress of research,
+while preventing exploitation of human subjects, it is mandatory that every proposal on biomedical
+research involving human subjects be cleared by an appropriately constituted institutional ethical
+committee. The ethics committee is also responsible for regular monitoring of the compliance of the
+ethical guidelines of the approved protocols, till the same are completed.
+The Indian Council of Medical Research has laid down special guidelines for clinical trials of drugs and
+medical devices. There is a proposal for establishment of Indian Medical Devices Regulatory Authority,
+which will regulate the quality control and marketing of medical devices in India. Once established, the
+system will encourage national and international marketing of medical devices.
+Keywords : Indian council of medical research, Ethical guidelines
+175
+Ethical Guidelines for Biomedical Research on Human Subjects
+is considered the fundamental document in the
+field of Ethics, and is revised from time to time.
+In1982, the world Health Organization (WHO)
+and the CIOMS proposed ‘International
+Guidelines for Biomedical Research involving
+Human Subjects.’ Later ‘International Ethical
+Guidelines for Biomedical Research Involving
+Human Subjects’ was brought by CIOMS in
+the year 1993 and was revised in the year 2002
+(2). Over the years many countries developed
+their National Guidelines. The Indian council
+of medical research, in the year 1980, released
+a Policy Statement on ‘Ethical Considerations
+Involved in Research on Human Subjects’ to
+be followed in India for clinical research (1).
+General Ethical Principles:
+The general ethical principles are relevant to
+all areas of biomedical research and are meant
+to benefit all members of human species as
+well as protect the ecological and
+environmental well being. The general
+principles issued by ICMR include principles
+of informed consent, non-exploitation,
+essentiality, privacy and confidentiality,
+precaution and risk minimization, professional
+competence, accountability and transparency,
+distributive justice, institutional arrangements,
+public domain, and compliance.
+Statements of specific principles:
+ICMR has laid down specific principles in the
+following areas
+1. Drug trials
+2. Vaccine trials
+3. Trials on surgical procedures and medical
+devices
+4. Trials on diagnostic agents with special
+reference to radioactive materials and Xrays
+5. Trials with herbal medicines
+Drug trials:
+Trial of any drug should be carried out, only
+after approval of drugs controller general of
+India (DGCI), as is necessary under The
+Schedule –Y of Drugs and Cosmetic Act,
+1940. The investigator should also get the
+approval of ethical committee of the institution
+before submitting the proposal to DCGI.
+Phases of Clinical Trials:
+1. Phase 1: During this phase, the safety of
+the maximum tolerated dose in healthy
+subjects of both sexes is determined. At
+least 2 subjects should be administered a
+specific dose to establish a safe dose range
+and for detailed pharmacological studies.
+The duration between two trials in the same
+volunteer should be minimum of 3 months.
+2. Phase 2: These are controlled studies
+conducted in about 20-25 subjects, for each
+dosage in subjects of both sexes; to
+determine therapeutic uses, effective dose
+range, safety and Pharmacokinetics. The
+studies are limited to 3-4 centers.
+3. Phase 3: These are multicentric trials on
+large number of patients of both sexes
+usually in comparison with a standard drug
+and / or a placebo if a standard drug does
+not exists for the disease under
+consideration. Permission for marketing of
+the drug is granted on successful
+completion of this phase.
+Many investigators at different centers
+following the same protocol and proformae
+conduct a multicentric trial simultaneously.
+Ideally these trials are initiated at the same
+time at all the centers.
+4. Phase 4: These are post-marketing studies
+undertaken to obtain additional information
+about the drugs risks benefits and optimal
+176
+Nisha Shah
+use. Any untoward reaction, observed to
+the drug should be brought to the notice of
+The Ethics Committee.
+Trials of medical devices:
+In last few years several medical devices have
+been developed. There is a well-developed
+system of evaluation and certification of
+medical devices in most developed countries.
+Unfortunately, India lacks any such system
+presently. A proposal has been drafted for
+setting up of a regulatory authority ‘Indian
+Medical Devices Regulatory Authority’
+(IMDRA). Until the guidelines are formulated
+and regulated by this regulatory authority,
+committees constituted for the specific purpose
+should approve clinical trials with biomedical
+devices on case-to-case basis.
+Depending upon the risk involved to the
+subjects, the devices can be classified as
+critical or Non-critical. All the general
+principles of clinical trials described for drug
+trials should also be considered for trials of
+medical devices. However, some important
+factors are unique to evaluation of medical
+devices. They are:
+1. Phase 1 of drug trial is not necessary.
+2. Detailed data of use of medical device in
+animals should be obtained and likely risks
+posed by the device should be considered.
+3. Safety procedures to introduce the device
+should also be followed as the procedure
+itself can cause harm to the patients.
+4. The patient information sheet of informed
+consent should contain information on the
+procedures to be adopted if the patient
+decides to withdraw from the trial.
+5. Critical and non-critical devices may have
+different standards of approval.
+Details of trials on diagnostic agents, vaccines,
+and herbal remedies are not considered in this
+article.
+Institutional Ethics Committee (IEC):
+Most Ethics Committees are formed at the
+institutional level. The institutional ethics
+committees have power to approve a proposal,
+reject it or suggest modifications.
+Ethics committee membership:
+1. Chair person, preferably from outside the
+institution
+2. 1-2 basic medical scientists
+3. 1-2 clinicians from various institutes
+4. One legal expert or retired judge
+5. One social scientist
+6. One philosopher or ethicist
+7. One lay person from community
+8. Member secretary
+Responsibility of IEC:
+To determine;
+Safety of proposed intervention in humans
+Scientific soundness of proposed research
+Ethical correctness of the research
+Compensation and treatment of the subjects
+Adequacy of qualification of investigators
+Good working conditions at the research
+site
+To determine the informed consent
+requirement
+To maintain records of decisions
+Ethical Review Procedures:
+It is mandatory that all proposals on
+biomedical research involving human subjects
+177
+should be presented before, and approved by,
+appropriately constituted Ethics Committee.
+Most ethics committees are constituted at the
+institutional level.
+Informed Consent Process:
+The investigator must obtain the informed
+consent of the prospective subject. If an
+individual is not capable of giving informed
+consent, the consent of legal guardian must
+be obtained. In case of children, the consent
+should be obtained from child’s parent or legal
+guardian. Some children, who have not
+reached the legally established age of consent,
+but are able to understand the nature of
+investigation, can give their agreement to serve
+as research subjects. This agreement is known
+as ‘Assent’. In older children, the consent
+should be supplemented by assent.
+The essential information to be provided to
+the prospective research subjects are detailed
+by ICMR in its document on Ethical
+Guidelines for Biomedical research on Human
+Subjects.
+Waiver of Informed Consent:
+It is considered when
+1. The research design involves not more than
+minimal risk to the subjects, the IEC may
+waive off, some of the elements of the
+informed consent.
+2. During conditions of emergency informed
+consent requirement can be waived off, if
+the ethical committee has already approved
+the study for trial.
+Marketing of Medical Device:
+After conceptualization of the medical device,
+following steps are involved before it can be
+marketed.
+1. Animal and biocompatibility studies
+2. Approval by controlling authority for
+clinical trials
+3. Clearance from IEC
+4. Two stage premarketing evaluation /
+Clinical trials
+5. Certification by specially constituted
+certifying authority
+6. Permission for marketing
+7. Continuous post marketing evaluation
+References:
+1. Ethical guidelines for biomedical research on human subjects. Indian Council of Medical
+Research. New Delhi. 2000
+2. International ethical guidelines for biomedical research involving human subjects. Council for
+International Organizations of Medical Sciences. Geneva. 2002
+Ethical Guidelines for Biomedical Research on Human Subjects

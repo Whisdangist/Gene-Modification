@@ -1,0 +1,1057 @@
+BIOETHICS AND SAFETY ACT
+Wholly Amended by Act No. 11250, Feb. 1, 2012
+Amended by Act No. 11690, Mar. 23, 2013
+Act No. 12447, Mar. 18, 2014
+Act No. 12844, Nov. 19, 2014
+Article 1 (Purpose)
+The purpose of this Act is to ensure bioethics and biosafety, thereby contributing to the promotion of
+citizens' health and the improvement of their quality of life by preventing the violation of human dignity
+and values or the infliction of harm on human body in the course of researching on human beings and
+human materials or of handling embryos, genes, etc.
+Article 2 (Definitions)
+The terms used in this Act shall be defined as follows:
+1. The term "human subjects research project" means a research project specified by Ordinance of the
+Minister of Health and Welfare, such as a research project physically involving a human being as a
+subject, a research project carried on through communication, physical contact or other means of
+interaction, a research project carried out by using information with which individuals can be identified;
+2. The term "human subject of research" means a person who is the subject of a human subjects
+research project;
+3. The term "embryo" means a fertilized human ovum or a group of cells divided during a period from
+the time such ovum is fertilized until the time all organs are embryologically formed;
+4. The term "residual embryo" means an embryo remaining after embryos produced as a consequence of
+artificial insemination are used for pregnancy;
+5. The term "residual ovum" means a human ovum left over after ova are used for artificial
+insemination;
+6. The term "somatic-cell nuclear transplantation" means that a human somatic nucleus is transplanted
+into a human ovum with its own nucleus removed;
+7. The term "parthenogenesis" means a process through which a human ovum is divided into cells aside
+from the process of fertilization;
+8. The term "somatic-cell cloning embryo" means a group of cells produced by somatic-cell nuclear
+transplantation;
+9. The term "parthenogenic embryo" means a group of cells produced by parthenogenesis;
+10. The term "embryonic stem cell line" means a cell line derived from an embryo, somatic-cell cloning
+embryo, or parthenogenic embryo, which can constantly multiply in culturable conditions and can be
+divided into various cells;
+11. The term "human material" means a component of the human body, such as a tissue, a cell, blood,
+or body fluid collected or extracted from the human body, or serum, plasma, chromosomes, DNA
+(Deoxyribonucleic Acid), RNA (Ribonucleic Acid), protein, etc. isolated from such component;
+12. The term "human materials research project" means a research project on human materials through
+direct examination and analysis;
+13. The term "human material bank" means an institution that extracts and preserves human materials or
+genetic information, relevant epidemiological information, and clinical information so as to directly use
+such derivatives or information or provide them to other persons;
+14. The term "genetic information" means information obtained by analyzing the genetic characteristics
+of human materials of an individual;
+15. The term "genetic test" means a test conducted to obtain genetic information from a human material
+for identifying an individual or for preventing, diagnosing, or treating a disease;
+16. The term "gene therapy" means a series of procedures to alter genes for the purpose of preventing or
+treating a disease;
+17. The term "personally identifiable information" means information with which an individual can be
+identified, such as the name, resident registration number, etc. of a human subject of research or the
+donor of an embryo, ovum, sperm, or human material (hereinafter referred to as "human subject of
+research or donor");
+18. The term "personal information" means information about an individual, such as personally
+identifiable information, genetic information, or information about health;
+19. The term "anonymization" means the deletion of personally identifiable information permanently or
+full or partial substitution of personally identifiable information with an identification code given by an
+institution involved.
+Article 3 (Basic Principles)
+(1) No activity regulated under this Act shall be conducted in any manner that violates the dignity and
+values of a human being, and priority shall be given to human rights and welfare of each human subject of
+research or donor.
+(2) Self-determination of each human subject of research or donor shall be respected, and the voluntary
+consent of a human subject of research or donor shall be supported by adequate information.
+(3) Privacy of each human subject of research or donor shall be protected, and personal information likely
+to lead to the invasion of privacy shall be protected as confidential information, except where the relevant
+party consents to disclosure or an Act expressly permits disclosure.
+(4) Full consideration shall be given to the safety of each human subject of research or donor, and risks
+shall be minimized.
+(5) An individual or group in vulnerable conditions shall be specially protected.
+(6) International cooperation shall be promoted as necessary to ensure bioethics and biosafety, and a
+person conducting such activities shall endeavor to adopt universal norms.
+Article 4 (Scope of Application)
+(1) Except as expressly provided for in any other Act, bioethics and biosafety shall be governed by this
+Act.
+(2) When it is intended to enact or amend any other Act providing for bioethics and biosafety, endeavors
+shall be made to ensure that such Act accords with this Act.
+Article 5 (Responsibilities of State and Local Governments)
+(1) The State and local governments shall formulate policies necessary to efficiently address bioethics and
+biosafety issues.
+(2) The State and local governments shall formulate schemes to provide administrative and financial
+support to research and activities relating to bioethics and biosafety.
+(3) The State and local governments shall ensure that educational institutions at various levels provide
+educational programs for bioethics and biosafety, develop educational programs, and assist such
+educational programs in developing good educational conditions for such purpose.
+Article 6 (Designation of Bioethics Policy Research Centers)
+(1) In order to conduct specialized surveys, research, education, etc. with respect to policies on bioethics,
+the Minister of Health and Welfare may designate an institution, organization, or facility as a bioethics
+policy research center, if he/she finds that the institution, organization, or facility is capable of conducting
+such activities.
+(2) Matters necessary for the designation, operation, etc, of a bioethics policy research center under
+paragraph (1) shall be prescribed by Ordinance of the Ministry of Health and Welfare.
+Article 7 (Establishment and Functions of National Bioethics Committee)
+(1) In order to deliberate on the following matters regarding bioethics and biosafety, the National
+Bioethics Committee (hereinafter referred to as the "National Committee") shall be established as a
+presidential committee:
+1. Establishment of basic national policies on bioethics and biosafety;
+2. Affairs assigned to joint institutional bioethics committees under Article 12 (1) 3;
+3. Exemption from the examination of a human subjects research project under Article 15 (2);
+4. Making and preservation of records and disclosure of information under Article 19 (3);
+5. Research for which it is permitted to use residual embryos under Article 29 (1) 3;
+6. Categories, subject-matter, and the scope of research under Article 31 (2);
+7. Research for which it is permitted to use embryonic stem cell lines under Article 35 (1) 3;
+8. Exemption from the examination of research on human materials under Article 36 (2);
+9. Restrictions on genetic test under Article 50 (1);
+10. Other matters tabled by the chairperson of the National Committee deemed likely to substantially
+affect society in connection with bioethics and biosafety.
+(2) The chairperson of the National Committee shall introduce a bill, submitted by at least one-third of
+current members with regard to a matter specified in any provision of paragraph (1) 1 through 9, to a
+meeting of the National Committee.
+Article 8 (Composition of National Committee)
+(1) The National Committee shall be comprised of at least 16 and not more than 20 members, including
+one chairperson and one vice chairperson. <Amended by Act No. 11690, Mar. 23, 2013>
+(2) The chairperson shall be appointed or commissioned by the President of the Republic of Korea from
+among members, and the vice chairperson shall be elected by and from among members.
+(3) The National Committee shall be comprised of the following members: <Amended by Act No. 11690,
+Mar. 23, 2013; Act No. 12844, Nov. 19, 2014>
+1. The Minister of Education, the Minister of Science, ICT and Future Planning, the Minister of
+Education, the Minister of Justice, the Minister of Trade, Industry and Energy, the Minister of Health
+and Welfare, and the Minister of Gender Equality and Family;
+2. Not more than seven persons commissioned by the President of the Republic of Korea from among
+persons who have abundant expertise and experience in research on bioscience, biomedical science, or
+social science;
+3. Not more than seven persons commissioned by the President of the Republic of Korea from among
+representatives of religions, ethics circles, judicial circles, non-governmental organizations (referring to
+nonprofit non-governmental organizations defined in Article 2 of the Assistance for Non-Profit, NonGovernmental Organizations Act) or women.
+(4) Each member specified in paragraphs (3) 2 and 3 shall hold office for a term of three years and may be
+appointed consecutively for further terms: Provided, That the term of office of a member newly
+commissioned to fill a vacancy shall be the remaining term of his/her predecessor.
+(5) The National Committee shall have two secretaries, comprised of the Minister of Science, ICT and
+Future Planning and the Minister of Health and Welfare, and the Minister of Health and Welfare shall also
+serve as senior secretary. <Amended by Act No. 11690, Mar. 23, 2013>
+(6) In order to support the business affairs, including the management of administrative affairs, of the
+National Committee, the Minister of Health and Welfare may designate a specialized institution related to
+bioethics and safety and require the institution to serve as a secretariat, as prescribed by Ordinance of the
+Ministry of Health and Welfare. <Newly Inserted by Act No. 12447, Mar. 18, 2014>
+Article 9 (Operation of National Committee)
+(1) The National Committee may organize specialized committees for its efficient operation.
+(2) The senior secretary shall take charge of administrative affairs of the National Committee.
+(3) Meetings and activities of the National Committee shall be independent and generally open to the
+public.
+(4) The National Committee may request parties to a case to make an appearance and make oral
+statements or submit information. A person so demanded shall comply with such request, unless justifiable
+grounds exist.
+(5) Except as provided for in this Act, the organization and operation of the National Committee and
+special committees and other necessary matters shall be prescribed by Presidential Decree.
+Article 10 (Establishment and Functions of Institutional Bioethics Committees)
+(1) An institution specified in any of the following subparagraphs shall establish an institutional bioethics
+committee (hereinafter referred to as "institutional committee") so as to ensure bioethics and biosafety:
+1. An educational institution, research institute, or hospital, to which a person who conducts a human
+subjects research project (hereinafter referred to as "human subjects researcher") belongs;
+2. An educational institution, research institute, or hospital, to which a person who conducts a human
+materials research project (hereinafter referred to as "human materials researcher") belongs;
+3. A medical institution designated under Article 22 (1) as specializing in producing embryos;
+4. A research institute registered pursuant to Article 29 (2) as specializing in embryos;
+5. A research institute registered pursuant to Article 31 (3) as specializing in somatic-cell cloning
+embryos, etc.;
+6. A human material bank with permission from the Minister of Health and Welfare under Article 41
+(1);
+7. Other institutions specified by Ordinance of the Ministry of Health and Welfare as institutions likely
+to substantially affect society in connection with bioethics and biosafety.
+(2) Notwithstanding paragraph (1), an institution shall be deemed to have an institutional committee, if it
+has entered into an agreement with the institutional committee of an institution or a joint institutional
+bioethics committee under Article 12 (1) to entrust the execution of affairs assigned to its institutional
+committee established pursuant to paragraph (3) and Article 11 (4), as prescribed by Ordinance of the
+Ministry of Health and Welfare.
+(3) An institutional committee shall take charge of the following affairs:
+1. Examination of the following matters:
+(a) Ethical and scientific validity of a research plan;
+(b) Whether consent has been duly obtained from human subjects of research or donors;
+(c) Matters regarding the safety of human subjects of research or donors;
+(d) Measures for protecting personal information of human subjects of research or donors;
+(e) Other matters regarding bioethics and biosafety in the relevant institution;
+2. Inspection and supervision of the progress and outcomes of research projects executed by the relevant
+institution;
+3. The following activities for bioethics and biosafety:
+(a) Education of researchers and employees of the relevant institution;
+(b) Formulation of measures for protecting human subjects of research or donors in a vulnerable
+position;
+(c) Establishment of ethical guidelines for researchers.
+(4) An institution that has established an institutional committee pursuant to paragraph (1) shall register
+the institutional committee with the Minister of Health and Welfare.
+(5) Functions of an institutional committee and matters necessary for the registration under paragraphs (3)
+and (4) shall be prescribed by Ordinance of the Ministry of Health and Welfare.
+Article 11 (Composition, Operation, etc. of Institutional Committees)
+(1) An institutional committee shall be comprised of at least five members, including one chairperson,
+with mixed gender, and shall include at least one person who has sufficient experience and knowledge to
+evaluate social and ethical validity and at least one person from outside of the relevant institution.
+(2) Members of an institutional committee shall be commissioned by the head of the relevant institution
+specified in any subparagraph of Article 10 (1), and the committee chairperson shall be elected by and
+from among the members.
+(3) No member involved in a case of research, development, or use subject to examination shall participate
+in the examination of the relevant case of research, development, or use.
+(4) If the head of an institution specified in any subparagraph of Article 10 (1) finds that a serious accident
+has occurred, or is likely to occur, to affect bioethics or biosafety, he/she shall convene a meeting of the
+competent institutional committee promptly for deliberation and shall report to the Minister of Health and
+Welfare on the results of the deliberation.
+(5) The head of an institution specified in any subparagraph of Article 10 (1) shall ensure that the
+competent institutional committee maintains independence and shall provide administrative and financial
+support to the committee.
+(6) An institution that has two or more institutional committees established pursuant to Article 10 (1) may
+integrate such institutional committees for efficient operation, as prescribed by Ordinance of the Ministry
+of Health and Welfare.
+(7) Except as provided for in paragraphs (1) through (6), matters necessary for the organization and
+operation of an institutional committee shall be prescribed by Ordinance of the Ministry of Health and
+Welfare.
+Article 12 (Designation of Joint Institutional Bioethics Committee and Joint Operation of Institutional
+Committees)
+(1) In order to permit an institutional committee established pursuant to Article 10 (1) to execute the
+following affairs, the Minister of Health and Welfare may designate such institutional committee as a joint
+institutional bioethics committee that institutions or researchers may jointly use (hereinafter referred to as
+"joint committee"):
+1. Affairs entrusted by an institution under an agreement made with the joint committee pursuant to
+Article 10 (2);
+2. Affairs requested by a human subjects researcher or human materials researcher affiliated with any
+educational institution, research institute, or hospital;
+3. Other affairs specified by Ordinance of the Ministry of Health and Welfare through deliberation by
+the National Committee.
+(2) Where two or more institutions execute a joint research project and it is found inappropriate for the
+institutional committee of each institution involved in the research project to examine the project
+separately, the institutions involved may select one of their institutional committees to authorize it to
+exclusively examine the research project.
+(3) Matters necessary for the designation, functions, and operation of a joint committee and the joint
+operation of an institutional committee under paragraphs (1) and (2) shall be prescribed by Ordinance of
+the Ministry of Health and Welfare.
+Article 13 (Support, etc. to Institutional Committees)
+(1) In order to appropriately supervise and support the operation of institutional committees, the Minister
+of Health and Welfare shall take charge of the following affairs:
+1. Inspection of institutional committees;
+2. Education of members of institutional committees;
+3. Other affairs specified by Ordinance of the Ministry of Health and Welfare as necessary to supervise
+and support institutional committees.
+(2) Matters necessary for inspection of institutional committees and support to education shall be
+prescribed by Ordinance of the Ministry of Health and Welfare.
+Article 14 (Evaluation and Accreditation of Institutional Committees)
+(1) The Minister of Health and Welfare may evaluate and accredit the organization, operation
+performance, etc. of each institutional committee on a regular basis.
+(2) The Minister of Health and Welfare may publish the results of accreditation of an institutional
+committee accredited under paragraph (1) through a web-site or by other means.
+(3) The head of a central administrative agency may subsidize an institution's budget or take a measure to
+restrict subsidization for research expenses, based on the results of accreditation under paragraph (1).
+(4) If an institutional committee accredited under paragraph (1) falls under any of the following
+subparagraphs, the Minister of Health and Welfare may revoke its accreditation: Provided, That the
+Minister of Health and Welfare shall revoke accreditation in cases falling under subparagraph 1:
+1. If an institutional committee obtains accreditation by fraud or other misconduct;
+2. If an institutional committee ceases to meet a standard for accreditation under paragraph (5) because
+of a significant change in the organization or operation of the institutional committee.
+(5) Matters necessary for the standards for accreditation referred to in paragraph (1) and the period of
+validity of such accreditation shall be prescribed by Ordinance of the Ministry of Health and Welfare.
+Article 15 (Examination of Research on Human Subjects)
+(1) A person who intends to conduct research on human subjects shall prepare a research plan and submit
+it for examination by the competent institutional committee before commencing research on human
+subjects.
+(2) Notwithstanding paragraph (1), a research project may be exempted from examination by the
+competent institutional committee, if a risk to human subjects of research and the general public is
+insignificant and the research project meets the standards prescribed by Ordinance of the Ministry of
+Health and Welfare through deliberation by the National Committee.
+Article 16 (Consent to Research on Human Subjects)
+(1) A human subjects researcher shall obtain written consent (including consent by an electronic
+document; hereinafter the same shall apply) with regard to the following matters from human subjects of
+research before commencing a human subjects research project:
+1. Objectives of the human subjects research project;
+2. Duration, procedure for, and methods of participation of human subjects of research;
+3. Foreseen risks and benefits to human subjects of research;
+4. Protection of personal information;
+5. Compensation for losses incurred through participation in the research project;
+6. Provision of personal information;
+7. Withdrawal of consent;
+8. Other matters the competent institutional committee deems necessary.
+(2) Notwithstanding paragraph (1), where a research project is to involve a person incapable of, or
+incompetent for, giving consent as a human subject of research, as specified by Ordinance of the Ministry
+of Health and Welfare, his/her representative specified in any of the following subparagraphs shall consent
+thereto in writing. A representative's consent in such cases must not be contrary to the intention of the
+relevant human subject of research:
+1. The legal representative;
+2. If no legal representative is appointed, the spouse or a lineal ascendant or descendant shall act as an
+agent for such person in the abovementioned order, but if there are two or more lineal ascendants or
+descendants, the representative for such person shall be appointed under agreement by and between
+such ascendants or descendants, or the oldest person among them shall act as the representative for such
+person if they fail to reach an agreement.
+(3) Notwithstanding paragraph (1), a research project may be exempted from obtaining written consent of
+a human subject of research, subject to approval from the competent institutional committee, if the
+research project satisfies all the following prerequisites. In such cases, a research project shall not be
+exempted from obtaining written consent of the representative under paragraph (2):
+1. If it is determined that obtaining consent from a human subject of research is impracticable in the
+course of research or is likely to seriously affect the validity of research;
+2. If there is no ground to find that a human subject of research will decline consent or the risk to a
+human subject of research is very low even if the project is exempted from consent.
+(4) A human subjects researcher shall fully explain the matters specified in paragraph (1) to a person
+having the right to consent before obtaining written consent from him/her pursuant to paragraphs (1) and
+(2).
+Article 17 (Measures for Safety of Human Subjects of Research)
+(1) A human subjects researcher shall assess the physical and mental impact of a research project and the
+research environment on human subjects of research and prepare safety measures before commencing the
+research project, and if he/she finds that a research project in progress is likely to cause a serious harm to
+an individual or society, he/she shall immediately report thereon to the head of the institution, to which
+he/she belongs, and take appropriate measures therefor.
+(2) No human subjects researcher shall delay medical treatment necessary to a human subject of research
+or deprive a human subject of research of an opportunity for diagnosis or prevention of a disease in the
+course of research relating to the diagnosis, treatment, or prevention of a disease.
+Article 18 (Provision of Personal Information)
+(1) When a human subject of research consents in writing to providing his/her personal information to a
+third party pursuant to Article 16 (1), the relevant human subjects researcher may provide his/her personal
+information to a third party, subject to examination thereof by the competent institutional committee.
+(2) When a human subjects researcher intends to provide personal information about a human subject of
+research to a third party under paragraph (1), he/she shall anonymize such personal information: Provided,
+That the foregoing shall not apply where a human subject of research consents to leaving his/her
+personally identifiable information therein.
+Article 19 (Preservation of Records and Disclosure of Information)
+(1) A human subjects researcher shall keep and preserve records about matters regarding a human subjects
+research project.
+(2) A human subject of research may request the relevant human subjects researcher to disclose
+information about him/her, and the human subjects researcher so requested shall disclose relevant
+information, except in exceptional circumstances.
+(3) Further details about the keeping and preservation of records and the disclosure of information under
+paragraphs (1) and (2) shall be prescribed by Ordinance of the Ministry of Health and Welfare, subject to
+prior deliberation by the National Committee.
+Article 20 (Prohibition of Human Cloning)
+(1) No person shall implant a somatic-cell cloning embryo or parthenogenic embryo (hereinafter referred
+to as "somatic-cell cloning embryo") into a human or animal womb or keep such embryo implanted or
+bear a child therefrom.
+(2) No person shall solicit another person to conduct an activity referred to in paragraph (1) or act as a
+broker for such activity.
+Article 21 (Prohibition on Implantation between Different Species)
+(1) No person shall implant a human embryo into an animal womb or implant an animal embryo into a
+human womb.
+(2) No person shall engage in the following activities:
+1. Fertilizing a human ovum with an animal spermatozoon or an animal ovum with a human
+spermatozoon: Provided, That medical tests for examining the activity of human spermatozoa shall be
+excluded herefrom;
+2. Implanting an animal somatic nucleus into a human ovum with its nucleus removed or a human
+somatic nucleus into an animal ovum with its nucleus removed;
+3. Fusing a human embryo with an animal embryo;
+4. Fusing human embryos with different genetic information.
+(3) No person shall implant a thing produced from a procedure referred to in any subparagraph of
+paragraph (2) into a human or animal womb.
+Article 22 (Designation, etc. of Medical Institutions Producing Embryos)
+(1) A medical institution that intends to extract and preserve ova or spermatozoa or to produce embryos
+through fertilization shall obtain designation as a medical institution producing embryos from the Minister
+of Health and Welfare.
+(2) A medical institution that intends to be designated as a medical institution producing embryos shall
+secure facilities and secure human resources, as prescribed by Ordinance of the Ministry of Health and
+Welfare.
+(3) Matters necessary for the standards and procedure for the designation of medical institutions producing
+embryos shall be prescribed by Ordinance of the Ministry of Health and Welfare.
+(4) When a medical institution producing embryos designated under paragraph (1) (hereinafter referred to
+as "medical institution producing embryos") intends to change an important matter specified by Ordinance
+of the Ministry of Health and Welfare, it shall report to the Minister of Health and Welfare on such
+change.
+(5) If a medical institution producing embryos temporarily or permanently closes its business, the head of
+such medical institution shall report thereon to the Minister of Health and Welfare, as prescribed by
+Ordinance of the Ministry of Health and Welfare.
+(6) When a medical institution producing embryos temporarily or permanently closes its business, the
+head of such medical institution shall transfer embryos, reproductive cells, and relevant documents in its
+custody to the Korea Centers for Disease Control and Prevention or another medical institution producing
+embryos, as prescribed by Ordinance of the Ministry of Health and Welfare.
+Article 23 (Rules on Production of Embryos)
+(1) No person shall produce an embryo for any purpose other than pregnancy.
+(2) No person shall conduct any of the following procedures in producing an embryo:
+1. Selecting an ovum and spermatozoon for fertilization with intent to choose a particular gender;
+2. Fertilizing with a decedent's ovum or spermatozoon;
+3. Fertilizing with a minor's ovum or spermatozoon: Provided, That cases where a married minor
+attempts to fertilize in order to have a child shall be excluded herefrom.
+(3) No person shall provide or use an embryo, ovum, or spermatozoon for money, an interest in property,
+or any other consideration, solicit another person to provide or use an embryo, ovum, or spermatozoon for
+such consideration, or act as a broker for providing or using an embryo, ovum, or spermatozoon.
+Article 24 (Consent to Production, etc. of Embryos)
+(1) When a medical institution producing embryos intends to extract ova or spermatozoa in order to
+produce embryos, it shall obtain written consent to the following matters from the donor of the ova or
+spermatozoa, the person into whom an externally fertilized ovum is to be implanted and the spouse of the
+donor or the person to receive such implantation, if the donor or the person to receive such implantation
+has a spouse: Provided, That if a person involved has a disability, heed shall be given to the person's
+particular conditions in seeking for consent to such activity:
+1. Objectives of producing embryos;
+2. Preservation period of embryos, ova, or spermatozoa and other matters regarding preservation;
+3. Disuse of embryos, ova, or spermatozoa;
+4. Use of residual embryos or ova for the purpose of research;
+5. Alteration to, or withdrawal of, consent;
+6. Protection of rights of the person with the right to consent and information about such person and
+other matters specified by Ordinance of the Ministry of Health and Welfare.
+(2) A medical institution producing embryos shall fully explain matters specified in paragraph (1) to
+persons with the right to consent before obtaining written consent pursuant to paragraph (1).
+(3) Matters necessary for the form of the written consent specified in paragraph (1) and the preservation of
+such consent shall be prescribed by Ordinance of the Ministry of Health and Welfare.
+Article 25 (Preservation and Discard of Embryos)
+(1) The period for preservation of embryos shall be five years: Provided, That if the period set by a person
+with a right to consent is less than five years, embryos shall be preserved only for such period.
+(2) Notwithstanding paragraph (1), the person with a right to consent may extend the preservation period
+beyond five years in cases specified by Ordinance of the Ministry of Health and Welfare, such as an
+anticancer therapy.
+(3) A medical institution producing embryos shall discard embryos that will not be used for the purpose of
+research pursuant to Article 29, among embryos for which the preservation period set under paragraph (1)
+or (2) ends.
+(4) A medical institution producing embryos shall keep and preserve records of details about the
+discarding of embryos.
+(5) The procedure and methods for discarding embryos under paragraphs (3) and (4) and matters necessary
+for the keeping and preservation of records of details about the discarding of embryos shall be prescribed
+by Ordinance of the Ministry of Health and Welfare.
+Article 26 (Provision of Residual Embryos or Ova)
+(1) Where a medical institution producing embryos provides residual embryos necessary to research to an
+embryo research institute with an embryo research plan approved pursuant to Article 30 (1) or residual ova
+to a research institute with a research plan approved with regard to somatic-cell cloning embryos pursuant
+to Article 31 (4), it shall provide such research institute with embryos or ova free of charge: Provided,
+That a medical institution producing embryos may request a research institute, to whom residual embryos
+or ova are provided, to reimburse it for expenses incurred in preserving and providing such embryos or
+ova, as prescribed by Ordinance of the Ministry of Health and Welfare.
+(2) The procedure for providing residual embryos or ova under paragraph (1), the calculation of expenses
+therefor, and other necessary matters shall be prescribed by Ordinance of the Ministry of Health and
+Welfare.
+(3) A medical institution producing embryos shall report details about the preservation and provision of
+residual embryos or ova to the Minister of Health and Welfare, as prescribed by Ordinance of the Ministry
+of Health and Welfare.
+Article 27 (Protection, ect. of Donors of Ova)
+(1) A medical institution producing embryos shall examine the health of an ova donor before it extracts
+ova from her, as prescribed by Ordinance of the Ministry of Health and Welfare.
+(2) No medical institution producing embryos shall extract ova from a person whose health fails to meet a
+standard prescribed by Ordinance of the Ministry of Health and Welfare.
+(3) No medical institution producing embryos shall extract ova from one and the same donor in excess of
+the frequency specified by Presidential Decree.
+(4) A medical institution producing embryos may pay an ova donor an amount specified by Ordinance of
+the Ministry of Health and Welfare for the items specified by Ordinance of the Ministry of Health and
+Welfare, including compensation for the time required for the operation necessary to donate ova and for
+recovery from the operation and travel expenses.
+Article 28 (Compliance of Medical Institutions Producing Embryos)
+A medical institution producing embryos shall comply with the following rules:
+1. A medical institution producing embryos shall comply with the terms and conditions of the written
+consent obtained pursuant to Article 24 in handling embryos, ova, or spermatozoa;
+2. A medical institution producing embryos shall strictly adhere to the Ordinance of the Ministry of
+Health and Welfare in preserving, handling, discarding, and managing residual embryos or ova;
+3. Other rules prescribed by Ordinance of the Ministry of Health and Welfare as necessary to ensure
+bioethics and biosafety.
+Article 29 (Research on Residual Embryos)
+(1) A residual embryo for which the preservation period set under Article 25 ends may be used externally
+for any of the following purposes of research only until the primitive streak appears embryologically:
+1. Research for the development of therapies for infertility and technology for contraception;
+2. Research on therapies for muscular dystrophy or other rare or incurable diseases specified by
+Presidential Decree;
+3. Research for other purposes specified by Presidential Decree through deliberation by the National
+Committee.
+(2) A person who intends to conduct research on residual embryos under paragraph (1) shall secure
+facilities and human resources specified by Ordinance of the Ministry of Health and Welfare and shall
+register his/her establishment as an embryo research institute with the Minister of Health and Welfare.
+(3) If an embryo research institute registered pursuant to paragraph (2) (hereinafter referred to as "embryo
+research institute") intends to change an important matter specified by Ordinance of the Ministry of Health
+and Welfare or close its business permanently, it shall report thereon to the Minister of Health and
+Welfare.
+Article 30 (Approval of Plans for Research on Embryos)
+(1) If an embryo research institute intends to conduct research on residual embryos, it shall submit a plan
+for research on embryos to the Minister of Health and Welfare for approval. The same shall apply when it
+intends to change an important matter specified in Presidential Decree and included in a plan for research
+on embryos.
+(2) A plan for research on embryos under paragraph (1) shall be accompanied by documents about the
+results of examination by the competent institutional committee.
+(3) Upon receipt of a plan for research on embryos from an embryo research institute that the head of any
+other central administrative agency subsidizes for research expenses, the Minister of Health and Welfare
+shall consult thereon with the head of the central administrative agency before determining whether to
+approve the plan.
+(4) The standards and procedure for approval of a plan for research on embryos, documents required
+therefor, and other necessary matters shall be prescribed by Ordinance of the Ministry of Health and
+Welfare.
+Article 31 (Research on Somatic-Cell Cloning Embryos, etc.)
+(1) No person shall engage in somatic-cell nuclear transplantation or parthenogenesis for any purpose
+other than research on a therapy for a rare or incurable disease under Article 29 (1) 2.
+(2) The categories, targets, and scope of research under paragraph (1) shall be prescribed by Presidential
+Decree through deliberation by the National Committee.
+(3) A person who intends to produce, or conduct research on, somatic-cell cloning embryos shall secure
+facilities and human resources specified by Ordinance of the Ministry of Health and Welfare and register
+its establishment with the Minister of Health and Welfare.
+(4) If an institution registered pursuant to paragraph (3) (hereinafter referred to as "research institute for
+somatic-cell cloning embryos") intends to produce, or conduct research on, somatic-cell cloning embryos,
+it shall submit a research plan (hereinafter referred to as "plan for research on somatic-cell cloning
+embryos") to the Minister of Health and Welfare for approval, as prescribed by Ordinance of the Ministry
+of Health and Welfare.
+(5) Article 30 shall apply mutatis mutandis to approval of a plan for research on somatic-cell cloning
+embryos. In such cases, the term "residual embryos" shall be construed as "somatic-cell cloning embryos",
+and the term "plan for research on embryos" as "plan for research on somatic-cell cloning embryos",
+respectively.
+Article 32 (Compliance of Embryo Research Institutes)
+(1) When a serious accident occurs, or is likely to occur, to bioethics or biosafety as a consequence of
+research executed by an embryo research institute or a research institute for somatic-cell cloning embryos,
+the research institute shall discontinue research or take other appropriate measures.
+(2) Article 25 (3) through (5) shall apply mutatis mutandis where an embryo research institute or a
+research institute for somatic-cell cloning embryos intends to disuse residual embryos or ova for the
+purpose of research after it acquires such embryos or ova. In such cases, the term "embryos" shall be
+construed as "residual embryos or ova".
+(3) Article 28 shall apply mutatis mutandis where an embryo research institute manages residual embryos
+or where a research institute for somatic-cell cloning embryos manages residual ova or somatic-cell
+cloning embryos.
+Article 33 (Registration of Embryonic Stem Cell Lines)
+(1) A person who establishes or imports embryonic stem cell lines shall either provide such embryonic
+stem cell lines to a third person pursuant to Article 34 or register such embryonic stem cell lines with the
+Minister of Health and Welfare pursuant to Article 35 before using them, as prescribed by Ordinance of
+the Ministry of Health and Welfare.
+(2) If a person who applies for the registration of embryonic stem cell lines has successfully passed a
+scientific test conducted by the head of any other central administrative agency, the Minister of Health and
+Welfare shall utilize data from the test in accepting the registration under paragraph (1).
+(3) The Minister of Health and Welfare may fully or partially subsidize a person who registers embryonic
+stem cell lines pursuant to paragraph (1) for expenses incurred in testing the embryonic stem cell lines.
+Article 34 (Provision of Embryonic Stem Cell Lines)
+(1) When a person who has established an embryonic stem cell line intends to provide it to a third person,
+he/she shall undergo examination by the competent institutional committee, as prescribed by Ordinance of
+the Ministry of Health and Welfare.
+(2) A person who provides an embryonic stem cell line to a third person pursuant to paragraph (1) shall
+report the current status of the provided embryonic stem cell line to the Minister of Health and Welfare, as
+prescribed by Ordinance of the Ministry of Health and Welfare.
+(3) An embryonic stem cell line provided pursuant to paragraph (1) shall be free of charge: Provided, That
+a person who provides an embryonic stem cell line may demand the person to whom it is provided to
+reimburse him/her for expenses incurred in preserving and providing the embryonic stem cell line, as
+prescribed by Ordinance of the Ministry of Health and Welfare.
+(4) Matters necessary for the provision and reporting of embryonic stem cell lines under paragraphs (1)
+through (3) and the method for calculating expenses therefor shall be prescribed by Ordinance of the
+Ministry of Health and Welfare.
+Article 35 (Use of Embryonic Stem Cell Lines)
+(1) Embryonic stem cell lines registered pursuant to Article 33 (1) may be used externally only for any of
+the following research objectives:
+1. Research for diagnosis, prevention, or treatment of a disease;
+2. Basic research on characteristics and division of stem cells;
+3. Other objectives of research specified by Presidential Decree through deliberation by the National
+Committee.
+(2) A person who intends to use an embryonic stem cell line pursuant to paragraph (1) shall submit the
+relevant research plan to be examined by the competent institutional committee and obtain approval
+thereof from the head of the relevant institution, as prescribed by Ordinance of the Ministry of Health and
+Welfare. The same shall also apply where it is intended to change an important matter specified by
+Presidential Decree in the details of an approved research plan.
+(3) A person who has obtained approval of a plan or revised a plan pursuant to paragraph (2) shall report
+relevant facts to the Minister of Health and Welfare, as prescribed by Ordinance of the Ministry of Health
+and Welfare.
+(4) A person who has obtained approval of a plan pursuant to paragraph (2) shall prepare a plan for the use
+of the provided embryonic stem cell line and shall submit the plan to the person who has provided the
+embryonic stem cell line.
+(5) The head of the institution who approves a research project pursuant to paragraph (2) shall supervise
+the person who executes the research project so as to ensure that the person complies with the relevant
+plan in executing the research project.
+Article 36 (Examination of Research on Human Materials)
+(1) A person who intends to conduct research on human materials shall undergo examination of the
+relevant research plan by the competent institutional committee before commencing the research on
+human materials.
+(2) Notwithstanding paragraph (1), if a hazard that is likely to be caused by a research project to donors of
+a human material and to the general public is insignificant and if the research project meets the standards
+prescribed by Ordinance of the Ministry of Health and Welfare through deliberation by the National
+Committee, such research project may be exempted from examination by the competent institutional
+committee.
+Article 37 (Consent to Research on Human Materials)
+(1) A human materials researcher shall obtain written consent with regard to the following matters from
+donors of a human material before commencing the research on human materials:
+1. Objectives of the research on human materials;
+2. Protection and management of personal information;
+3. Preservation and discarding of human materials;
+4. Provisions of human materials and genetic information obtained from human materials (hereinafter
+referred to as "human materials, etc.");
+5. Withdrawal of consent, disposal of human materials if consent is withdrawn, the right of the donor of
+a human material, change of objectives, and other matters specified by Ordinance of the Ministry of
+Health and Welfare.
+(2) Notwithstanding paragraph (1), if a human materials researcher conducts research with a human
+material provided by a person who is not a human materials researcher, but extracted the human material,
+the human materials researcher shall be deemed to have obtained written consent pursuant to paragraph (1)
+at the time the person who extracted the human material obtained written consent from the donor of the
+human material with regard to matters specified in paragraph (1).
+(3) Article 16 (3) shall apply to the exemption of research on human materials from written consent. In
+such cases, the term "human subject of research" shall be construed as "donor of a human material".
+(4) A human materials researcher shall fully explain the matters specified in paragraph (1) to a donor of a
+human material before obtaining written consent from him/her pursuant to paragraph (1).
+(5) Matters necessary for the form of written consent under paragraph (1) shall be prescribed by Ordinance
+of the Ministry of Health and Welfare.
+Article 38 (Provision of Human Materials, etc.)
+(1) If a human materials researcher has obtained written consent from a donor of a human material, etc.
+pursuant to Article 37 (1) with regard to the provision of human materials, he/she may provide the human
+material, etc. to a human material bank or another researcher, subject to examination thereof by the
+competent institutional committee.
+(2) When a human materials researcher provides a human material, etc. to another researcher pursuant to
+paragraph (1), he/she shall anonymize the human material, etc.: Provided, That the foregoing shall not
+apply where the donor of the human material consents to leaving personally identifiable information
+therein.
+(3) A human material, etc. provided pursuant to paragraph (1) shall be free of charge: Provided, That the
+institution to which the researcher providing a human material, etc, may demand the person who conducts
+research with the provided human material, etc. to reimburse it for expenses incurred in preserving and
+providing the human material, etc., as prescribed by Ordinance of the Ministry of Health and Welfare.
+(4) If a human materials researcher provides a human material, etc. to any person or acquires a human
+material, etc. provided by any person pursuant to paragraph (1), he/she shall keep and preserve records
+about the provision of the human material, etc., as prescribed by Ordinance of the Ministry of Health and
+Welfare.
+(5) The method and procedure for providing human materials, etc., the calculation of expenses therefor,
+and other necessary matters shall be prescribed by Ordinance of the Ministry of Health and Welfare.
+Article 39 (Preservation and Discarding of Human Materials, etc.)
+(1) A human materials researcher shall discard a human material, etc. at the lapse of the duration set in the
+relevant written consent: Provided, That if a donor of a human material requests the relevant human
+materials researcher to amend the duration of preservation or discard the human material, the human
+materials researcher shall comply with such request.
+(2) A human materials researcher shall keep and preserve records of details about the discarding of human
+materials, etc. under paragraph (1), as prescribed by Ordinance of the Ministry of Health and Welfare.
+(3) If a human materials researcher is unable to preserve human materials, etc. due to inevitable
+circumstances, he/she shall dispose of, or transfer, human materials, etc., subject to examination thereof by
+the competent institutional committee.
+(4) Matters necessary for the preservation, discarding, disposal, or transfer of human materials, etc. shall
+be prescribed by Ordinance of the Ministry of Health and Welfare.
+Article 40 (Compliance by Human Materials Researchers)
+@Article 17 and 19 shall apply mutatis mutandis to measures for safety of donors of a human material by
+human materials researchers and preservation of records and disclosure of information of donors of a
+human material by human materials researchers, respectively. In such cases, the term “human subjects
+research project” shall be construed as “human materials research project”, and the term “human subject
+of research” as “donors of a human material”, respectively.
+Article 41 (Permission for, and Reporting of, Human Material Banks)
+(1) A person who intends to establish a human material bank shall obtain permission therefor from the
+Minister of Health and Welfare, as prescribed by Ordinance of the Ministry of Health and Welfare:
+Provided, That the foregoing shall not apply to a state agency that intends to directly establish a human
+material bank.
+(2) Notwithstanding paragraph (1), if a person who intends to establish a human material bank with
+approval from the head of a central administrative agency for subsidizing research expenses pursuant to
+any other Act and subordinate statutes reports thereon to the Minister of Health and Welfare after he/she
+obtains the approval from the head of the central administrative agency for subsidizing research expenses,
+such person shall be deemed to have obtained the permission required under paragraph (1). In such cases,
+the head of the competent central administrative agency shall consult thereon with the Minister of Health
+and Welfare in advance.
+(3) If a human material bank established pursuant to paragraphs (1) and (2) intends to change any
+important matter specified by Presidential Decree or temporarily or permanently closes its business, it
+shall report thereon to the Minister of Health and Welfare.
+(4) The standards for facilities and equipment of human material banks, the procedures for the permission
+for, and the reporting of, a human material bank, and other necessary matters shall be prescribed by
+Presidential Decree.
+Article 42 (Consent to Extraction of Human Materials)
+(1) When a human material bank intends to directly extract a human material for research on the human
+material or request a third person to extract a human material for such purpose, it shall obtain written
+consent with regard to the following matters from the donor of the human material:
+1. Objectives of research on the human material (only applicable where a human material bank directly
+conduct research on the human material);
+2. Protection and disposal of personal information;
+3. The scope of researchers and institutions to which the human material, etc. shall be provided;
+4. Preservation, management, and discarding of the human material, etc.;
+5. Withdrawal of consent, disposal of the human material, etc. when consent is withdrawn, rights of the
+donor of the human material, and other matters specified by Ordinance of the Ministry of Health and
+Welfare.
+(2) A human material bank shall fully explain the matters specified in paragraph (1) to a donor of a human
+material before obtaining written consent pursuant to paragraph (1).
+(3) Matters necessary for the form of the written consent pursuant to paragraph (1) shall be prescribed by
+Ordinance of the Ministry of Health and Welfare.
+Article 43 (Provision of Human Materials, etc.)
+(1) The head of a human material bank shall require a person who intends to acquire a human material,
+etc. to submit a plan for the use of the human material, etc. and examine the plan to determine whether to
+provide the human material, etc.
+(2) Where the head of a human material bank provides a human material, etc. to a person, he/she shall
+anonymize the human material, etc.: Provided, That the foregoing shall not apply where the donor of a
+human material consents to leaving his/her personally identifiable information therein.
+(3) A human material, etc. provided to a person by the head of a human material bank shall be free of
+charge: Provided, That the head of a human material bank may demand a person, to whom a human
+material, etc. are provided, to reimburse him/her for expenses incurred in preserving and providing the
+human material, etc., as prescribed by Ordinance of the Ministry of Health and Welfare.
+(4) An institutional committee shall formulate guidelines necessary to provide human materials, etc. and
+shall regularly review whether human materials, etc. are provided properly in compliance with the
+guidelines.
+(5) Descriptions of a plan for the use of human materials, etc. the procedure for the submission of such
+plan, the guidelines to provide human materials, etc., the review by an institutional committee, and other
+matters necessary for the provision and management of human materials, etc. shall be prescribed by
+Ordinance of the Ministry of Health and Welfare.
+Article 44 (Compliance of Human Material Banks)
+(1) The head or an employee of a human material bank shall not use, discard, or destroy human materials,
+etc. in its custody without justification.
+(2) When a human material bank receives a human material, etc. provided pursuant to Article 38 (1) or 53
+(1), it shall anonymize the human material, etc.
+(3) Article 39 shall apply mutatis mutandis to the preservation and discarding of human materials, etc. by
+a human material bank.
+(4) The head of a human material bank shall formulate guidelines for the protection of personal
+information, including schemes for anonymizing human materials, etc., as prescribed by Ordinance of the
+Ministry of Health and Welfare, and shall designate a manager in charge of the management and security
+of personal information.
+Article 45 (Support to Human Material Banks)
+The State or a local government may subsidize a human material bank, within budgetary limits, for
+expenses incurred in operation.
+Article 46 (Prohibition, etc. of Discrimination Based on Genetic Information)
+(1) No person shall discriminate against any person on the ground of genetic information in education,
+employment, promotion, insurance, or any other social activity.
+(2) Except as expressly provided for in any other Act, no person shall compel any person to undergo a
+genetic test or to submit the results of a genetic test.
+(3) No medical institution shall include genetic information in medical records or therapy records provided
+to any person other than the patient him/herself pursuant to Article 21 (2) of the Medical Service Act:
+Provided, That the foregoing shall not apply where another medical request to provide such records for the
+purpose of diagnosis or treatment of the same disease as the disease of the patient involved and measures
+for protecting personal information are taken.
+Article 47 (Gene Therapy)
+(1) Research on a gene therapy may be conducted in cases that meet both of the following conditions:
+Provided, That the foregoing shall not apply where it is deemed necessary for prevention or treatment of a
+disease specified by the Minister of Health and Welfare:
+1. Research on a therapy for a hereditary disease, Acquired Immune Deficiency Syndrome (AIDS), or
+any other disease that threatens one's life or causes a severe disability;
+2. Research on a therapy where there is no applicable therapy at present or the effect of a gene therapy
+is expected to be significantly better than other therapies.
+(2) No gene therapy shall be applied to an embryo, ovum, or fetus.
+Article 48 (Gene Therapy Institutions)
+(1) A medical institution that intends to apply a gene therapy shall report thereon to the Minister of Health
+and Welfare. The same shall also apply where it is intended to change an important matter specified by
+Presidential Decree.
+(2) A medical institution that reported on its business to the Minister of Health and Welfare pursuant to
+paragraph (1) (hereinafter referred to as "gene therapy institution") shall explain the following matters to
+each patient to whom it intends to apply a gene therapy and shall obtain written consent thereto:
+1. Objectives of the therapy;
+2. Expected results and side-effects of the therapy;
+3. Other matters specified by Ordinance of the Ministry of Health and Welfare.
+(3) The conditions and procedure for the reporting of gene therapy institutions, the form of the written
+consent, and other necessary matters shall be prescribed by Ordinance of the Ministry of Health and
+Welfare.
+Article 49 (Genetic Testing Institutions)
+(1) A person who intends to conduct genetic tests shall secure facilities, human resources, etc. specified by
+Ordinance of the Ministry of Health and Welfare and report his/her business to the Minister of Health and
+Welfare: Provided, That the foregoing shall not apply to a State agency that intends to conduct genetic
+tests.
+(2) A change to an important matter specified by Presidential Decree, among matters reported pursuant to
+paragraph (1), shall be also reported.
+(3) The Minister of Health and Welfare may require a genetic testing institution that reported on its
+business pursuant to paragraph (1) (hereinafter referred to as "genetic testing institution") to undergo the
+evaluation of accuracy of genetic tests, as prescribed by Ordinance of the Ministry of Health and Welfare,
+and may disclose the results thereof to the public.
+(4) Where a genetic testing institution intends to close its genetic testing business temporarily or
+permanently, it shall report thereon to the Minister of Health and Welfare, as prescribed by Ordinance of
+the Ministry of Health and Welfare.
+(5) If a genetic testing institution has filed a business closure report with the head of the competent tax
+office pursuant to Article 5 of the Value-Added Tax Act or if the head of the competent tax office has
+cancelled the business registration of a genetic testing institution, the Minister of Health and Welfare may
+ex officio delete records of the reporting of the genetic testing institution.
+Article 50 (Restrictions, etc. on Genetic Tests)
+(1) No genetic testing institution shall conduct any genetic test for physical appearance or character, which
+has no reliable scientific proof and is likely to mislead the testee, or any other genetic test specified by
+Presidential Decree through deliberation by the National Committee.
+(2) A genetic testing institution may conduct a genetic test for an embryo or fetus only for diagnosing
+muscular dystrophy or any other hereditary disease specified by Presidential Decree.
+(3) No genetic testing institution, other than a medical institution, shall conduct a genetic test in
+connection with the prevention, diagnosis, or treatment of a disease: Provided, That the foregoing shall not
+apply to a genetic test conducted at the request of a medical institution.
+(4) No genetic testing institution shall make a misrepresentation or an exaggerative advertisement with
+regard to genetic tests. The standards and procedure for judgment on misrepresentation or exaggerative
+advertising and other necessary matters shall be prescribed by Ordinance of the Ministry of Health and
+Welfare.
+Article 51 (Consent to Genetic Testing)
+(1) When a genetic testing institution intends to extract a material to be used for a genetic test on a testee
+or request a third person to extract such material from a testee, it shall obtain written consent from the
+testee with regard to the following matters before extracting the material for testing: Provided, That if a
+testee has a disability, heed shall be given to the person's particular conditions in seeking for consent:
+1. Objectives of the genetic test;
+2. Management of the material for testing;
+3. Withdrawal of consent, the protection of rights and information of the test, and other matters
+specified by Ordinance of the Ministry of Health and Welfare.
+(2) If a genetic testing institution intends to provide a material for testing to a human material researcher
+or a human material bank, it shall obtain written consent with regard to the following matters in addition
+to the consent under paragraph (1):
+1. Protection and disposal of personal information;
+2. Preservation, management, and discarding of the material for testing;
+3. Provision of the material for testing;
+4. Withdrawal of consent, disposal of the material for testing when consent is withdrawn, rights of the
+testee, and other matters specified by Ordinance of the Ministry of Health and Welfare.
+(3) When any person, other than a genetic testing institution, extracts a material for testing and requests a
+genetic testing institution to conduct a genetic test, he/she shall present written consent obtained for the
+test to the genetic testing institution pursuant to paragraph (1) and shall take measures for protecting
+personal information, as prescribed by Ordinance of the Ministry of Health and Welfare.
+(4) Article 16 (2) shall apply mutatis mutandis to consent by an agent where a testee is incompetent or
+quasi-incompetent to consent. In such cases, the term "human subject of research" shall be construed as
+"testee", and the term "research" as "testing", respectively.
+(5) Consent is not required for genetic testing in either of the following cases:
+1. Where it is urgently or specially required to identify who is a corpse or an unconscious person;
+2. Where any other Act requires genetic testing.
+(6) A person who intends to obtain written consent pursuant to paragraphs (1) through (4) shall fully
+explain the objectives and method of the genetic test and the expected results and significance of the
+genetic test to the testee or his/her representative by law.
+(7) The method for consenting to a genetic test, the exemption from consent, and other necessary matters
+shall be prescribed by Ordinance of the Ministry of Health and Welfare.
+Article 52 (Preservation of Records and Disclosure of Information)
+(1) A genetic testing institution shall record and preserve the following documents, as prescribed by
+Ordinance of the Ministry of Health and Welfare:
+1. A written consent under Article 51;
+2. Reports on the results of genetic tests;
+3. Records about the provision of materials for testing under Article 53 (2).
+(2) Where a testee or his/her legal representative requests a genetic testing institution to allow him/her to
+inspect the records specified in paragraph (1) or provide copies of such records, the genetic testing
+institution shall comply with such request.
+(3) The procedure for applying for the inspection of records or the issuance of copies under paragraph (2)
+and the form of such application shall be prescribed by Ordinance of the Ministry of Health and Welfare.
+Article 53 (Provision, Discarding, etc. of Materials for Testing)
+(1) If a genetic testing institution obtains written consent to the provision of a material for testing from a
+testee under Article 51 (2), it may provide the material for testing to a human material researcher or human
+material bank.
+(2) Article 38 (2) through (5) shall apply mutatis mutandis to the provision of materials for testing under
+paragraph (1). In such cases, the term "human materials, etc." shall be construed as "materials for testing",
+and "donor of a human material" as "testee", respectively.
+(3) Except materials for testing to be provided under paragraph (1), a genetic testing institution shall
+discard materials for testing after it obtains results of a genetic test.
+(4) A genetic testing institution shall make and preserve records of the details about the discarding of
+materials for testing.
+(5) If a genetic testing institution is unable to preserve materials for testing due to temporary or permanent
+closure of business or other inevitable circumstances, it shall dispose of materials for testing, or transfer
+such materials to other person, as prescribed by Ordinance of the Ministry of Health and Welfare.
+(6) Matters necessary for the discarding of materials for testing, the making and preservation of records of
+discarding, the disposal or transfer of materials for testing shall be prescribed by Ordinance of the Ministry
+of Health and Welfare.
+Article 54 (Reporting and Inspection)
+(1) If the Minister of Health and Welfare deems it necessary to ensure bioethics and biosafety, he/she may
+order an institution specified in any subparagraph of Article 10 (1) or a genetic testing institution
+(hereinafter referred to as "institution subject to supervision") or an employee of any of such institutions to
+submit a report or data necessary to the enforcement of this Act, as prescribed by Ordinance of the
+Ministry of Health and Welfare, and may order any of such institutions to discontinue research or the use
+of outcomes of research, or may take other necessary measures, if a serious accident to bioethics or
+biosafety has occurred or is likely to occur.
+(2) If the Minister of Health and Welfare deems it necessary to ascertain compliance with the provisions of
+this Act or a violation of any provision of this Act, the Minister of Health and Welfare may authorize an
+appropriate public official to enter an institution subject to supervision or its office to inspect its facilities,
+equipment, relevant accounting books or documents, or other things or to query people involved, and may
+collect the minimum quantity of samples necessary for testing. In such cases, public officials shall carry an
+identification certificate indicating their authority and produce it to people involved.
+(3) An institution subject to supervision or an employee of such institution shall comply with an order
+issued, an inspection conducted, or a query raised under paragraph (1) or (2), unless such institution or
+such employee has justification to the contrary.
+Article 55 (Order for Discarding or Improvement)
+(1) The Minister of Health and Welfare may order an institution subject to supervision or any of its
+employees and a person who registers, provides, or uses an embryonic stem cell line pursuant to Articles
+33 through 35 to discard any of the following materials. In such cases, Articles 25 (5), 39 (4), and 53 (6)
+shall apply mutatis mutandis to the procedure and methods for the discarding:
+1. An embryo, somatic-cell cloning embryo, embryonic stem cell line, or ovum extracted, produced,
+preserved, used for research, or provided in violation of Articles 22 (1) through (3), 23, 24 (1), 25 (3)
+(including cases to which the aforesaid paragraph shall apply mutatis mutandis under Article 32 (2)), 26
+(1), 27 (1) through (3), 29 (1) and (2), 30 (1) through (3), 31 (1), (3), and (4), 33 (1), 34 (1) and (3), and
+35 (2);
+2. A material for testing or a human material, extracted, preserved, or provided in violation of Articles
+39 (1), 41 (1), 43 (2), 49 (1), 50 (1) through (3), 51 (1), (2), and (4), and 53 (1) through (3).
+(2) If the Minister of Health and Welfare finds that an institution subject to supervision fails to meet the
+standards prescribed in Article 22 (2), 29 (2), 31 (3), or 41 (4) for facilities, human resources, etc. and has
+caused or is likely to cause serious harm to bioethics or biosafety if it continues research, extraction,
+preservation, or production of embryos, he/she may order the institution subject to supervision to improve
+its facilities or discontinue the use of its facilities entirely or partially.
+Article 56 (Revocation of Registration and Suspension of Operation)
+(1) In any of the following cases, the Minister of Health and Welfare may revoke the designation or
+registration of an institution subject to supervision or the permission granted to an institution subject to
+supervision or may order an institution subject to supervision to completely or partially suspend its
+operation for a specified period not exceeding one year:
+1. If an institution subject to supervision violates Articles 10 (1) (excluding cases where an institution
+falls under subparagraphs 1 and 2 of the aforesaid paragraph), 20, 21, 22 (1) through (3), 23, 24 (1) and
+(2), 25 (3) and (4) (including cases to which the aforesaid paragraph shall apply mutatis mutandis
+pursuant to Article 32 (2)), 26 (1) and (3), 27 (1) through (3), 28 (including cases to which the aforesaid
+Article shall apply mutatis mutandis pursuant to Article 32 (3)), 29 (2), 30 (1), 31 (1), 32 (1), 43 (2), and
+44 (1), the latter part of Article 48 (1), Articles 48 (2), 50, 51 (1) through (4), 52 (1) and (2), 53 (2)
+through (5);
+2. If an institution subject to supervision fails to comply with an order issued under Article 54 (1) or 55;
+3. If an institution subject to supervision fails to cooperate in an inspection conducted, a query raised, or
+collection executed pursuant to Article 54 (2).
+(2) Detailed guidelines for administrative actions under paragraph (1) shall be prescribed by Ordinance of
+the Ministry of Health and Welfare, taking into consideration the type and degree of each violation.
+Article 57 (Hearings)
+When the Minister of Health and Welfare intends to revoke the designation or registration of an institution
+or the permission granted to an institution under Article 56, he/she shall hold a hearing.
+Article 58 (Penalty Surcharges)
+(1) If the Minister of Health and Welfare finds that an institution subject to supervision falls under any of
+the following subparagraphs and he/she shall order it to suspend its operation but suspending its operation
+is likely to cause severe inconvenience to users of its business or undermine public interests, he/she may
+impose a penalty surcharge not exceeding 200 million won upon such institution in lieu of suspending its
+operation, as prescribed by Presidential Decree:
+1. If an institution subject to supervision violates Articles 22 (1) through (3), 24 (1) and (2), 25 (3) and
+(4) (including cases to which the aforesaid paragraph shall apply mutatis mutandis under Article 32 (2)),
+and 27 (1) through (3);
+2. If an institution subject to supervision violates any rule prescribed in Article 28 (including cases to
+which the aforesaid paragraph shall apply mutatis mutandis under Article 32 (3)) or 32 (1);
+3. If an institution subject to supervision fails to comply with an order issued under Article 54 (1) or 55;
+4. If an institution subject to supervision fails to cooperate in an inspection conducted, a query raised, or
+collection executed under Article 54 (2).
+(2) The amount of a penalty surcharge to be imposed under paragraph (1), based on the type and degree of
+each violation, shall be prescribed by Ordinance of the Ministry of Health and Welfare.
+(3) If a person obligated to pay a penalty surcharge imposed under paragraph (1) fails to pay it by the
+payment deadline, such penalty surcharge shall be collected in the same manner as delinquent national
+taxes are collected.
+Article 59 (Fees)
+The Minister of Health and Welfare may require a person who intends to obtain designation, permission,
+registration, or approval under the provisions of this Act, who files a report, or who intends to revise a
+report to pay fees, as prescribed by Ordinance of the Ministry of Health and Welfare.
+Article 60 (Subsidies from National Treasury)
+In order to develop and support research projects and education that can contribute to securing bioethics
+and biosafety pursuant to this Act, the Minister of Health and Welfare may fully or partially subsidize an
+appropriate institution or an employee of such institution for expenses incurred in such projects or
+education, as prescribed by Ordinance of the Ministry of Health and Welfare.
+Article 61 (Delegation, Entrustment, etc.)
+(1) The Minister of Health and Welfare may partially delegate his/her authority granted under this Act to
+the head of an affiliated agency, as prescribed by Presidential Decree.
+(2) The Minister of Health and Welfare may partially entrust any of the following affairs to an appropriate
+specialized institution or organization, as prescribed by Presidential Decree:
+1. Education of members of an institutional committee established pursuant to Article 13 (1) 2;
+2. Evaluation and accreditation of an institutional committee established pursuant to Article 14;
+3. Evaluation of the accuracy of gene tests referred to in Article 49 (3).
+(3) Where the Minister of Health and Welfare entrusts affairs to an appropriate specialized institution or
+organization pursuant to paragraph (2), he/she may subsidize such institution or organization for necessary
+budgetary funding.
+(4) Matters necessary for the subsidization of an appropriate specialized institution or organization under
+paragraph (2) for its budget, the recouping of subsidies, the ban on subsidization, etc. shall be prescribed
+by Presidential Decree.
+Article 62 (Legal Fiction of Public Officials for Purpose of Application of Penal Provisions)
+Executives and employees of an institution or organization that engages in affairs entrusted pursuant to
+Article 61 shall be deemed public officials for the purpose of applying Articles 129 through 132 of the
+Criminal Act thereto.
+Article 63 (Prohibition of Divulgence of Confidential Information)
+An institution subject to supervision or an employee or former employee of such institution shall not
+divulge personal information or other confidential information which it or he/she has learned in the course
+of conducting duties or use such information without authorization.
+Article 64 (Penal Provisions)
+(1) Any person who implants a somatic-cell cloning embryo to a womb, maintains the state of
+implantation, bears a child, in violation of Article 20 (1), shall be punished by imprisonment with prison
+labor for not more than ten years.
+(2) Any person who attempts to commit a crime specified in paragraph (1) shall also be punished.
+Article 65 (Penal Provisions)
+(1) Any person who implants a human embryo into an animal womb or implants an animal embryo into a
+human womb, in violation of Article 21 (1), or any person who implants a thing produced from an activity
+referred to in any subparagraph of Article 21 (2) into a human or animal womb, in violation of Article 21
+(3), shall be punished by imprisonment with prison labor for not more than five years.
+(2) Any person who attempts to commit a crime specified in paragraph (1) shall also be punished.
+Article 66 (Penal Provisions)
+(1) Any of the following persons shall be punished by imprisonment with prison labor for not more than
+three years:
+1. A person who solicits another person to implant a somatic-cell cloning embryo into a womb or to
+keep such embryo implanted or to bear a child therefrom or who acts as a broker for such activity, in
+violation of Article 20 (2);
+2. A person who conducts an activity specified in any subparagraph of Article 21 (2);
+3. A person who produces an embryo for any purpose other than pregnancy, in violation of Article 23
+(1);
+4. A person who provides or uses an embryo, ovum, or spermatozoon for money, an interest in property,
+or any other consideration, who solicits another person to provide or use an embryo, ovum, or
+spermatozoon for such consideration, or who acts as a broker for providing or using an embryo, ovum,
+or spermatozoon, in violation of Article 23 (3);
+5. A person who engages in somatic-cell nuclear transplantation or parthenogenesis for any purpose
+other than research on a therapy for a rare or incurable disease, in violation of Article 31 (1);
+6. A person who divulges confidential information or who uses confidential information without
+authorization, in violation of Article 63.
+(2) Any person who uses a residual embryo, in violation of Article 29 (1), shall be punished by
+imprisonment with prison labor for not more than three years or by a fine not exceeding 50 million won.
+(3) Any person who attempts to commit a crime specified in paragraph (1) or (2) shall also be punished.
+Article 67 (Penal Provisions)
+(1) Any of the following persons shall be punished by imprisonment with prison labor for not more than
+two years or by a fine not exceeding 30 million won:
+1. A person who conducts an activity referred to in any subparagraph of Article 23 (2) in producing an
+embryo;
+2. A person who extracts ova or spermatozoa without written consent, in violation of Article 24 (1);
+3. A person who omits to examine the health of a an ova donor, in violation of Article 27 (1), or who
+extracts ova in violation of Article 27 (2) or (3);
+4. A person who discriminates against another person on the ground of genetic information, who
+compels another person to undergo a genetic test or to submit the results of a genetic test, or who leaves
+genetic information in records provided to any person other than the patient, in violation of Article 46
+(1) through (3);
+5. A person who conducts research on a gene therapy or practices a gene therapy, in violation of Article
+47 (1) or (2);
+6. A person who conducts a genetic test, in violation of Article 50 (1) through (3);
+7. A person who fails to comply with an order issued for discarding or improvement under Article 55.
+(2) Any person who fails to transfer embryos or reproductive cells, in violation of Article 22 (6), shall be
+punished by imprisonment with prison labor for not more than two years or by a fine not exceeding ten
+million won.
+Article 68 (Penal Provisions)
+Any of the following persons shall be punished by imprisonment with prison labor for not more than one
+year or by a fine not exceeding 20 million won:
+1. A person who extracts and preserves ova or spermatozoa or produces embryos through fertilization
+without designation, in violation of Article 22 (1) through (3);
+2. A person who fails to discard embryos, in violation of Article 25 (3) (including cases to which the
+aforesaid paragraph shall apply mutatis mutandis pursuant to Article 32 (2));
+3. A person who provides residual embryos or ova for consideration, in violation of Article 26 (1);
+4. A person who omits to report relevant details to the Minister of Health and Welfare, in violation of
+Article 26 (3);
+5. A person who conducts research on residual embryos without registering his/her establishment as an
+embryo research institute, in violation of Article 29 (2);
+6. A person who conducts research on embryos without obtaining approval of the relevant plan for
+research on embryos, in violation of Article 30 (1) (including cases to which the aforesaid paragraph
+shall apply mutatis mutandis pursuant to Article 31 (5));
+7. A person who produces, or conducts research on, somatic-cell cloning embryos without registering
+his/her establishment with the Minister of Health and Welfare, in violation of Article 31 (3);
+8. A person who establishes a human material bank without permission, in violation of Article 41 (1);
+9. A person who directly extracts a human material, or requests another person to extract a human
+material, without written consent, in violation of Article 42 (1);
+10. A person who makes a misrepresentation or an exaggerative advertisement with regard to genetic
+tests, in violation of Article 50 (4);
+11. A person who extracts a material to be used for a genetic test without written consent to the genetic
+test, in violation of Article 51 (1), (2), or (4), or a person who requests a genetic testing institution to
+conduct a genetic test without presenting written consent or without taking measures for protecting
+personal information, in violation of Article 51 (3).
+Article 69 (Joint Penal Provisions)
+(1) If the representative of a legal entity or an agent, employee, or worker of a legal entity or individual
+commits an offense specified in any provision of Articles 64 through 66 in the course of business of the
+legal entity or individual, not only shall such an offender be punished accordingly, but the legal entity or
+individual also shall be punished by a fine not exceeding 50 million won: Provided, That the foregoing
+shall not apply where the legal entity or individual has not neglected due care and supervision over the
+business to prevent such offense.
+(2) If the representative of a legal entity or an agent, employee, or worker of a legal entity or individual
+commits an offense specified in Article 67 or 68 in the course of business of the legal entity or individual,
+not only shall such an offender be punished accordingly, but the legal entity or individual also shall be
+punished by the fine specified in the relevant Article: Provided, That the foregoing shall not apply where
+the legal entity or individual has not neglected due care and supervision over the business to prevent such
+offense.
+Article 70 (Fines for Negligence)
+(1) Any of the following persons shall be punished by a fine for negligence not exceeding five million
+won:
+1. A person who omits to establish an institutional committee, in violation of Article 10 (1);
+2. A person who provides or uses an embryonic stem cell line without registration, in violation of
+Article 33 (1);
+3. A person who uses an embryonic stem cell line, in violation of Article 35 (1);
+4. A person who provides a human material, etc. to any other researcher without anonymizing the
+human material, etc., in violation of Article 38 (2);
+5. A person who fails to discard, dispose of, or transfer a human material as referred to in the main
+sentence of Article 39 (1) or Article 39 (3) (including cases to which any of the aforesaid paragraphs
+shall apply pursuant to Article 44 (3));
+6. A person who omits to report his/her establishment as required in Article 41 (2);
+7. A person who omits to formulate guidelines for the protection of personal information, including
+schemes for anonymizing human materials, etc., or omits to designate a manager to be in charge of the
+management and security of personal information, in violation of Article 44 (4);
+8. A person who practices a gene therapy without reporting his/her practice, in violation of Article 48
+(1);
+9. A person who omits to report his/her business pursuant to the main sentence of Article 49 (1);
+10. An institution subject to supervision or its employee who fails to comply with an order issued, an
+inspection conducted, or a query raised by the Minister of Health and Welfare, in violation of Article 54
+(3).
+(2) Any of the following persons shall be punished by a fine for negligence not exceeding three million
+won:
+1. A person who fails to report a change to the Minister of Health and Welfare, in violation of Article 22
+(4) or (5) or 29 (3);
+2. A person who fails to transfer relevant documents, in violation of Article 22 (6).
+(3) Any of the following persons shall be punished by a fine for negligence not exceeding two million
+won:
+1. A person who fails to register an institutional committee with the Minister of Health and Welfare, in
+violation of Article 10 (4);
+2. A person who fails to report to the Minister of Health and Welfare on the results of deliberation, in
+violation of Article 11 (4);
+3. A person who provides an embryonic stem cell line for consideration, in violation of Article 34 (3);
+4. A person who provides a human material, etc. for consideration, in violation of Article 38 (3);
+5. A person who fails to report a change in compliance with Article 41 (3);
+6. A person who fails to report a change in compliance with Article 49 (2) or (4).
+(4) Fines for negligence specified in paragraphs (1) through (3) shall be imposed and collected by the
+Minister of Health and Welfare, as prescribed by Presidential Decree.
+ADDENDA
+Article 1 (Enforcement Date)
+This Act shall enter into force one year after the date of its promulgation.
+Article 2 (Transitional Measures concerning Consent to Research on Human Materials)
+Human materials that have been already used in research on human materials, other than research on
+genes, before this Act enters into force may be continuously used in research without written consent
+otherwise required under Article 37 (1): Provided, That the foregoing shall not apply where a human
+material is provided to any third person.
+Article 3 (Transitional Measures concerning Permission for Human Material Banks)
+A gene bank with permission granted under previous provisions before this Act enters into force shall
+be construed as a human material bank with permission granted under this Act.
+Article 4 (Transitional Measures concerning Administrative Actions)
+The previous provisions shall apply to an administrative action (including the imposition of a penalty
+surcharge) to be taken against an offense committed before this Act enters into force.
+Article 5 (Transitional Measures concerning Fines for Negligence)
+The previous provisions shall apply to a fine for negligence to be imposed upon a person for his/her
+fault committed before this Act enters into force.
+Article 6 Omitted.
+Article 7 (Relationship to other Acts and Subordinate Statutes)
+A citation of any provision of the former Bioethics and Safety Act by any other Act or subordinate
+statute in force as at the time this Act enters into force shall be construed as a citation of the relevant
+provision of this Act in lieu of the previous provision, if this Act contains such relevant provision.
+ADDENDA <Act No. 11690, Mar. 23, 2013>
+Article 1 (Enforcement Date)
+(1) This Act shall enter into force on the date of its promulgation.
+(2) Omitted.
+Articles 2 through 7 Omitted.
+ADDENDUM <Act No. 12447, Mar. 18, 2014>
+This Act shall enter into force three months after the date of its promulgation.
+ADDENDA <Act No. 12844, Nov. 19, 2014>
+Article 1 (Enforcement Date)
+This Act shall enter into force on the date of its promulgation: Provided, That the Act amended by
+Article 6 of the Addenda to the Government Organization Act, which was promulgated before the
+Government Organization Act enters into force but the enforcement date of which has not arrived yet
+shall enter into force on the enforcement date of such Act.
+Articles 2 through 7 Omitted.

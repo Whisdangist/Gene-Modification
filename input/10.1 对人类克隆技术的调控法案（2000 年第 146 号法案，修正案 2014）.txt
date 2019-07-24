@@ -1,0 +1,459 @@
+-1-
+このヒトに関するクローン技術等の規制に関する法律（平成１３年６月６日施行）の翻
+訳は 「法令用語日英標準対訳辞書 （平成１８年３月版）に準拠して作成したものです。 、 」
+なお、この法令の翻訳は公定訳ではありません。法的効力を有するのは日本語の法令自
+体であり、翻訳はあくまでその理解を助けるための参考資料です。この翻訳の利用に伴っ
+て発生した問題について、一切の責任を負いかねますので、法律上の問題に関しては、官
+報に掲載された日本語の法令を参照してください。
+This English translation of the Act on Regulation of Human Cloning Techniques Effective June 6, (
+2001 has been prepared in compliance with the Standard Bilingual Dictionary March 2006 ) (
+edition . )
+This is an unofficial translation. Only the original Japanese texts of laws and regulations have
+legal effect, and the translations are to be used solely as reference material to aid in the
+understanding of Japanese laws and regulations.
+The Government of Japan shall not be responsible for the accuracy, reliability or currency of the
+legislative material provided in this Website, or for any consequence resulting from use of the
+information in this Website. For all purposes of interpreting and applying law to any legal issue or
+dispute, users should consult the original Japanese texts published in the Official Gazette.
+Act on Regulation of Human Cloning Techniques (Act No. 146 of
+2000)
+Article 1 (Purpose)
+The purpose of this Act is, in light of the risk that certain techniques including the
+Cloning Techniques (hereinafter referred to as the “Cloning Techniques, etc.”) among
+the techniques for manipulating Embryos or Germ Cells of a human or an Animal
+could, depending on the way they are applied, create an individual with the same
+gene structure as a certain individual (hereinafter referred to as a “Human Clone
+Individual”) or an individual which cannot be clearly classified as a human or an
+Animal (hereinafter referred to as an “Hybrid Individual”), or artificially create other
+similar individuals, and have a serious influence on the preservation of human
+dignity, safety for human life and body, and maintenance of public order (hereinafter
+referred to as the “Preservation of Human Dignity, etc.”), to prevent creation of
+Human Clone Individuals and Hybrid Individuals and to regulate artificial creation
+of individuals similar to them by means of prohibiting transfer of Embryos produced
+by the Cloning Techniques or Specified Fusion/Aggregation Techniques among
+Cloning Techniques, etc. into a human or Animal uterus, regulating production,
+receipt by assignment and import of Embryos created by Cloning Techniques, etc.,
+and taking other measures for securing appropriate handling of such Embryos,
+thereby ensuring the development of science and technology in harmony with society
+and citizens lives.
+Article 2 (Definitions)
+(1) In this Act, the meanings of the terms listed in the following items shall be as
+-2-
+prescribed respectively in those items:
+(i) Embryo-A cell (except for a Germ Cell) or a cell group which has the
+potential to grow into an individual through the process of development in utero
+of a human or an Animal and remains at a stage prior to placental formation
+(ii) Germ Cell A sperm (including a spermatid and a spermatocyte whose ―
+number of chromosomes is equal to the number of chromosomes of the sperm;
+the same shall apply hereinafter) and an Unfertilized Egg
+(iii) Unfertilized Egg An unfertilized ovum and oocyte (limited to an oocyte ―
+whose number of chromosomes is equal to the number of chromosomes of the
+ovum)
+(iv) Somatic Cell A cell (except for a Germ Cell) taken from an individual ―
+(including a dead individual) or a Fetus (including a dead Fetus) belonging to the
+class Mammalia, or a cell produced by division of such a cell, excluding an
+Embryo or a cell constituting an Embryo
+(v) Embryonic Cell A cell taken from an Embryo or a cell produced by ―
+division of such a cell, excluding an Embryo
+(vi) Human Fertilized Embryo An Embry ― o produced by fertilization between a
+human Sperm and a human Unfertilized Egg (including each Embryo which is
+produced successively by single or multiple splitting of such an Embryo and is
+not a Human Split Embryo)
+(vii) Fetus A cell group lying of a human or an Animal which has the ― in utero
+potential to grow into an individual through the process of development in utero
+and has begun formation of a placenta, and which shall include the placenta and
+other appendages
+(viii) Human Split Embryo An Embryo produced by splitting of a ― ex utero
+Human Fertilized Embryo or a Human Embryonic Nuclear Transfer Embryo
+(ix) Human Embryonic Nuclear Transfer Embryo An Embryo produced by ―
+Fusion between a Human Enucleated Egg and a Human Fertilized Embryo or
+Human Split Embryo at the one-cell stage or an Embryonic Cell with a cell
+nucleus of a Human Fertilized Embryo, Human Split Embryo or Human-Human
+Chimeric Embryo
+(x) Human Somatic Cell Nuclear Transfer Embryo An Embryo produced by ―
+Fusion between a Human Enucleated Egg and a human Somatic Cell with a cell
+nucleus (including each Embryo produced successively by single or multiple
+splitting of such an Embryo)
+(xi) Cloning Techniques The techniqu ― es for producing a Human Somatic
+Nuclear Transfer Embryo
+(xii) Human-Human Chimeric Embryo Any of the following Embryos ―
+(including each Embryo produced successively by single or multiple splitting of
+such an Embryo):
+-3-
+(a) An Embryo produced as a result of aggregation of two or more of Human
+Fertilized Embryos, Human Split Embryos, Human Embryonic Nuclear
+Transfer Embryos or Human Somatic Cell Nuclear Transfer Embryos
+(including an Embryo produced as a result of aggregation of such an Embryo
+and either a Human Somatic Cell or an Embryonic Cell of a Human Fertilized
+Embryo, Human Split Embryo, Human Embryonic Nuclear Transfer Embryo
+or Human Somatic Cell Nuclear Transfer Embryo)
+(b) An Embryo produced as a result of aggregation of a Human Fertilized
+Embryo, Human Split Embryo, Human Embryonic Nuclear Transfer Embryo,
+or Human Somatic Cell Nuclear Transfer Embryo and either a human Somatic
+Cell or an Embryonic Cell of a Human Fertilized Embryo, Human Split
+Embryo, Human Embryonic Nuclear Transfer Embryo or Human Somatic Cell
+Nuclear Transfer Embryo
+(xiii) Human-Animal Hybrid Embryo Any of the following Embryos (including ―
+each Embryo produced successively by single or multiple splitting of such an
+Embryo):
+(a) An Embryo produced by fertilization between a human Germ Cell and an
+Animal Germ Cell
+(b) An Embryo produced by Fusion between a human or Animal Enucleated Egg
+and an Embryo at the one-cell stage described in (a) or an Embryonic Cell with
+a cell nucleus of an Embryo described in (a)
+(xiv) Human-Animal Clone Embryo Any of the following Embryos (including ―
+each Embryo produced successively by single or multiple splitting of such an
+Embryo):
+(a) An Embryo produced by Fusion between an Animal Enucleated Egg and
+either a human Somatic Cell or a Human Fertilized Embryo, Human Split
+Embryo, Human Embryonic Nuclear Transfer Embryo or Human Somatic Cell
+Nuclear Transfer Embryo at the one-cell stage or an Embryonic Cell with a
+cell nucleus of a Human Fertilized Embryo, Human Split Embryo, Human
+Embryonic Nuclear Transfer Embryo, Human Somatic Cell Nuclear Transfer
+Embryo or Human-Human Chimeric Embryo
+(b) An Embryo produced by Fusion between a Human Enucleated Egg and an
+Embryo at the one-cell stage described in (a) or an Embryonic Cell with a cell
+nucleus of an Embryo described in (a)
+(xv) Human-Animal Chimeric Embryo Any of the following Embryos which is ―
+not a Human-Human Chimeric Embryo, Animal Embryo or Animal-Human
+Chimeric Embryo (including each Embryo produced successively by single or
+multiple splitting of such an Embryo):
+(a) An Embryo produced as a result of aggregation of two or more Embryos
+(including an Embryo produced as a result of aggregation of such an Embryo
+-4-
+and a Somatic or Embryonic Cell)
+(b) An Embryo produced as a result of aggregation of an Embryo and a Somatic
+or Embryonic Cell
+(c) An Embryo produced by Fusion between an Embryonic Cell with a cell
+nucleus of an Embryo listed in (a) or (b) and a human or Animal Enucleated
+Egg
+(xvi) Specified Fusion/Aggregation Techniques Techni ― ques to produce a
+Human-Animal Hybrid Embryo, Human-Animal Clone Embryo or
+Human-Animal Chimeric Embryo
+(xvii) Animal An individual except ― for a Human belonging to the class
+Mammalia
+(xviii) Animal Embryo Any of the follo ― wing Embryos (including each Embryo
+produced successively by single or multiple splitting of such an Embryo):
+(a) An Embryo produced by fertilization between an Animal sperm and an
+Animal Unfertilized Egg
+(b) An Embryo produced by Fusion between an Animal Enucleated Egg and
+either an Animal Somatic Cell or an Embryo at the one-cell stage described in
+(a) or an Embryonic Cell with a cell nucleus of an Embryo described in (a)
+(c) An Embryo produced as a result of aggregation of two or more Embryos listed
+in (a) or (b) (including an Embryo produced as a result of aggregation of such
+an Embryo and either an Animal Somatic Cell or an Embryonic Cell of an
+Embryo listed in (a) or (b))
+(d) An Embryo produced as a result of aggregation of an Embryo listed in (a) or
+(b) and either an Animal Somatic Cell or an Embryonic Cell of an Embryo
+listed in (a) or (b)
+(xix) Animal-Human Clone Embryo Any of the following Embryos (including ―
+each Embryo produced successively by single or multiple splitting of such an
+Embryo):
+(a) An Embryo produced by Fusion between a Human Enucleated Egg and either
+an Animal Somatic Cell or an Animal Embryo at the one-cell stage or an
+Embryonic Cell with a cell nucleus of an Animal Embryo
+(b) An Embryo produced by Fusion between an Animal Enucleated Egg and
+either an Embryo at the one-cell stage described in (a) or an Embryonic Cell
+with a cell nucleus of an Embryo described in (a)
+(xx) Animal-Human Chimeric Embryo Any of the following Embryos ―
+(including each Embryo produced successively by single or multiple splitting of
+such an Embryo):
+(a) An Embryo produced as a result of aggregation of two or more
+Animal-Human Clone Embryos (including an Embryo produced as a result of
+aggregation of such an Embryo and a Somatic or Embryonic Cell)
+-5-
+(b) An Embryo produced as a result of aggregation of one or more
+Animal-Human Clone Embryos and one or more Animal Embryos or Somatic
+or Embryonic Cells
+(c) An Embryo produced as a result of aggregation of one or more Animal
+Embryos and Human Somatic Cells or Embryonic Cells of a Human Fertilized
+Embryo, Human Split Embryo, Human Embryonic Nuclear Transfer Embryo,
+Human Somatic Cell Nuclear Transfer Embryo, Human-Human Chimeric
+Embryo, Human-Animal Hybrid Embryo, Human-Animal Clone Embryo,
+Human-Animal Chimeric Embryo or Animal-Human Clone Embryo (including
+an Embryo produced as a result of aggregation of such an Embryo and either
+an Animal Somatic Cell or an Embryonic Cell of an Animal Embryo)
+(d) An Embryo produced by Fusion between a Human or Animal Enucleated Egg
+and an Embryonic Cell with a cell nucleus of an Embryo listed in (a) to (c)
+inclusive
+(xxi) Fusion Production of a single ce ― ll through combination of more than one
+cell without fertilization, which includes transfer of the nucleus of a single cell to
+another enucleated cell
+(xxii) Enucleation Removal of the nucleus from a cell or destruction of the ―
+nucleus of a cell
+(xxiii) Human Enucleated Egg An enucleated human Unfertilized Egg or an ―
+enucleated Human Fertilized Embryo or Human Split Embryo at the one-cell
+stage
+(xxiv) Animal Enucleated Egg An enucle ― ated Animal Unfertilized Egg or an
+enucleated Animal Embryo at the one-cell stage
+(2) With regard to application of the provisions shown in Column A of the following
+table, an Embryo or cell shown in Column B of the same table shall be regarded as
+an Embryo or cell shown in Column C of the same table which is mentioned in the
+said provisions.
+Column A Column B Column C
+(i) Article 2(1)(viii) Human Split Embryo Human Fertilized Embryo
+(ii) Article 2(1)(ix) Human Embryonic Nuclear Human Fertilized Embryo
+Transfer Embryo
+(iii) Article 2(1)(x) Human Somatic Cell Nuclear Human Somatic Cell
+Transfer Embryo at the
+one-cell stage, or Embryonic
+Cell of a Human Somatic Cell
+Nuclear Transfer Embryo
+(iv) Article 2(1)(xii) E m b r y o n i c C e l l o f a Embryonic Ce ll of a
+(a) and (b) H um a n -H um a n C h im e r i c Human Somat ic Ce l l
+-6-
+Embryo Nuclear Transfer Embryo
+(v) Article 2(1)(xiii) Human-Animal Hybrid Embryo Embryo described in (a)
+(b)
+(vi) Article 2(1)(xiv) Human-Animal Clone Embryo Human Somat ic Ce l l
+(a) Nuclear Transfer Embryo
+(vii) Article 2(1)(xiv) Human-Animal Clone Embryo Embryo described in (a)
+(b)
+(viii) A r t i c l e Animal Embryo Embryo described in (a)
+2(1)(xviii)(b)
+(ix) A r t i c l e Embryonic Cell of an Animal Embryonic Cell of an
+2(1)(xviii)(c) and Embryo Embryo described in (a)
+(d)
+(x) Article 2(1)(xix) Animal-Human Clone Embryo Animal Embryo
+(a)
+(xi) Article 2(1)(xix) Animal-Human Clone Embryo Embryo described in (a)
+(b)
+(xii) A r t i c l e E m b r y o n i c C e l l o f a n Embryonic Cell of an
+2(1)(xx)(c) A n im a l -H um an C h im e r i c Animal Embryo
+Embryo
+(xiii) Article 2(1)(xxiii) Human Embryonic Nuclear Human Fertilized Embryo
+Transfer Embryo or Human
+Somatic Cell Nuclear Transfer
+Embryo
+(xiv) Article 2(1)(xxiv) H u m a n - A n i m a l H y b r i d Animal Embryo
+Embryo, Human-Animal Clone
+Embryo or Animal-Human
+Clone Embryo
+Article 3 (Prohibited acts)
+No person shall transfer a Human Somatic Cell Nuclear Transfer Embryo,
+Human-Animal Hybrid Embryo, Human-Animal Clone Embryo or Human-Animal
+Chimeric Embryo into a human or Animal uterus.
+Article 4 (Guidelines)
+(1) The Minister of Education, Culture, Sports, Science and Technology (hereinafter
+referred to as the “Minister”) shall, in light of the risk that a Human Split Embryo,
+Human Embryonic Nuclear Transfer Embryo, Human Somatic Cell Nuclear
+Transfer Embryo, Human-Human Chimeric Embryo, Human-Animal Hybrid
+Embryo, Human-Animal Clone Embryo, Human-Animal Chimeric Embryo,
+Animal-Human Clone Embryo or Animal-Human Chimeric Embryo (hereinafter
+-7-
+referred to as a “Specified Embryo”) could, when transferred into a human or
+Animal uterus, develop into a Human Clone Individual or Hybrid Individual or an
+individual that has a similar influence on the Preservation of Human Dignity, etc.,
+establish guidelines on the handling of Specified Embryos (hereinafter referred to
+as the “Guidelines”) while taking into consideration scientific knowledge related to
+the clarification of the phenomenon of life, in order to secure appropriate
+production, receipt by assignment or import and subsequent handling of Specified
+Embryos (hereinafter referred to as the “Handling of Specified Embryos”).
+(2) The Guidelines shall prescribe the following matters:
+(i) Matters concerning the requirement of consent by the donor of the Embryos
+or cells necessary for production of a Specified Embryo and other requirements
+for allowable production of Specified Embryos
+(ii) In addition to what is listed in the preceding item, matters concerning the
+requirements for allowable Handling of Specified Embryos
+(iii) In addition to what is listed in the preceding two items, procedures and
+other matters to be considered in the Handling of Specified Embryos
+(3) When the Minister intends to establish or change the Guidelines, he or she shall
+consult the heads of the relevant administrative organs and hear the opinions of
+the Council for Science and Technology Policy in advance.
+(4) When the Minister establishes or changes the Guidelines, he or she shall
+announce such establishment or change without delay.
+Article 5 (Compliance obligation)
+The Handling of Specified Embryos shall be conducted in accordance with the
+Guidelines.
+Article 6 (Notification of production, receipt by assignment or import of Specified
+Embryo)
+(1) A person who intends to produce, receive by assignment or import a Specified
+Embryo shall notify the following matters to the Minister pursuant to the
+provisions of an Ordinance of the Ministry of Education, Culture, Sports, Science
+and Technology (hereinafter referred to as an “Ordinance of MEXT”):
+(i) The name and domicile and, in the case of a juridical person, the name of its
+representative
+(ii) The type of the Embryo to be produced, to be received by assignment, or to
+be imported
+(iii) The purpose of production, receipt by assignment or import and, in the case
+of production, its method
+(iv) The scheduled date of production, receipt by assignment or import
+-8-
+(v) The method of the handling after the production, receipt by assignment or
+import
+(vi) In addition to what is listed in the preceding items, matters specified by an
+Ordinance of MEXT
+(2) If a person who has made the notification under the preceding paragraph
+intends to change any matters pertaining to the notification, he or she shall notify
+such change to the Minister pursuant to the provisions of an Ordinance of MEXT.
+Article 7 (Order to change or abolish the plan, etc)
+(1) Where the notification under paragraph 1 or 2 of the preceding Article has been
+made, if the Minister finds that the Handling of the Specified Embryo pertaining to
+the notification does not conform to the Guidelines, he or she may, within sixty
+days from the date of acceptance of the notification, order the person who has
+made the notification to change or abolish the plan concerning the method of the
+said Handling of the Specified Embryo or to take other necessary measures.
+(2) If the Minister finds that the contents of the matters pertaining to the
+notification under paragraph 1 or 2 of the preceding Article are reasonable, he or
+she may shorten the period prescribed in the preceding paragraph. In this case, the
+Minister shall give notice of the shortened period to the person who has made the
+notification, without delay.
+Article 8 (Limitation on execution)
+A person who has made the notification under Article 6, paragraph 1 or 2 shall not
+produce, receive by assignment or import the Specified Embryo pertaining to the
+notification, or change any matters pertaining to the notification until sixty days (if
+the notice under the second sentence of paragraph 2 of the preceding Article has been
+served, the period pertaining to the notice) have passed from the date of acceptance
+of the notification.
+Article 9 (Notification of production of Specified Embryo by chance cause)
+A person who has made the notification under Article 6, paragraph 1 shall, in the
+case the Specified Embryo pertaining to the notification has produced a different type
+of Specified Embryo by a chance cause, promptly notify the following matters to the
+Minister pursuant to the provisions of an Ordinance of MEXT; provided, however,
+that this shall not apply to the case where such produced Specified Embryo is
+immediately disposed of:
+(i) The name and domicile and, in the case of a juridical person, the name of its
+representative
+(ii) The type of the produced Embryo
+(iii) The date of the production
+-9-
+(vi) In addition to what is listed in the preceding three items, matters specified
+by an Ordinance of MEXT
+Article 10 (Record)
+(1) A person who has made the notification under Article 6, paragraph 1 or the
+preceding Article shall make a record of the following matters with regard to the
+Specified Embryo pertaining to the notification, pursuant to an Ordinance of
+MEXT:
+(i) The type of the Embryo which has been produced, received by assignment or
+imported
+(ii) The date of production, receipt by assignment or import
+(iii) The process of the handling after production, receipt by assignment or
+import
+(iv) In addition to what is listed in the preceding three items, matters specified
+by an Ordinance of MEXT
+(2) The record prescribed in the preceding paragraph shall be preserved pursuant to
+the provisions of an Ordinance of MEXT.
+Article 11 (Notification of assignment, etc. of Specified Embryo)
+A person who has made the notification under Article 6, paragraph 1 or Article 9
+shall, in the case he or she has assigned, exported, destroyed or disposed of the
+Specified Embryo pertaining to the notification, notify the following matters to the
+Minister without delay, pursuant to the provisions of an Ordinance of MEXT:
+(i) The name and domicile and, in the case of a juridical person, the name of its
+representative
+(ii) The type of the Embryo which has been assigned, exported, destroyed or
+disposed of
+(iii) The date of the assignment, export, destruction or disposal and, in the case
+of destruction or disposal, the manner of destruction or disposal
+(iv) In addition to what is listed in the preceding three items, matters specified
+by an Ordinance of MEXT
+Article 12 (Order to take measures with regard to the Handling of Specified Embryo)
+If the Minister finds that the Handling of a Specified Embryo by a person who has
+made the notification under Article 6, paragraph 1 or Article 9 does not conform to
+the Guidelines, he or she may order the person who has made the notification to
+discontinue or improve the method of the Handling of the Specified Embryo or to
+take other necessary measures.
+Article 13 (Protection of personal information)
+- 10 -
+A person who has made the notification under Article 6, paragraph 1 or Article 9
+shall endeavor to take necessary measures for the prevention of leakage of Personal
+Information (information about an individual, which can identify the specific
+individual by name, date of birth or other description contained in such information
+[including information that can be compared with other information and thereby
+identify the specific individual]; hereinafter the same shall apply in this Article) of
+the donor of the Embryos or cells used for producing the Specified Embryo pertaining
+to the notification, and for the proper management of the Personal Information.
+Article 14 (Collection of report)
+The Minister may, within the limit necessary for enforcement of this Act, ask a
+person who has made the notification under Article 6, paragraph 1 or Article 9 to
+report on the state of the Handling of the Specified Embryo pertaining to the
+notification and of other necessary matters.
+Article 15 (Entry and Inspection)
+(1) The Minister may, within the limit necessary for enforcement of this Act, have
+officials of the ministry enter the office or research facility of a person who has
+made the notification under Article 6, paragraph 1 or Article 9, inspect documents
+and other necessary materials of the said person, and ask questions of the persons
+concerned.
+(2) When an official enters the office or research facility pursuant to the provisions
+of the preceding paragraph, he or she shall carry a certificate for identification and
+produce it upon request of the persons concerned.
+(3) The authority under paragraph 1 shall not be construed as that approved for the
+purpose of criminal investigation.
+Article 16 (Penal Provisions)
+A person who has violated the provisions of Article 3 shall be punished by
+imprisonment with work for not more than ten years or a fine of not more than ten
+million yen, or both.
+Article 17
+A person who falls under any of the following items shall be punished by
+imprisonment with work for not more than one year or a fine of not more than one
+million yen:
+(i) A person who has, without making the notification under Article 6,
+paragraph 1 or by making false notification, produced, received by assignment or
+imported a Specified Embryo
+(ii) A person who has, without making the notification under Article 6,
+- 11 -
+paragraph 2 or by making false notification, changed the matters prescribed in
+the same paragraph
+(iii) A person who has violated the order prescribed in Article 7, paragraph 1
+(iv) A person who has violated the order prescribed in Article 12
+Article 18
+A person who has violated the provisions of Article 8 shall be punished by
+imprisonment with work for not more than six months or a fine of not more than five
+hundred thousand yen.
+Article 19
+A person who falls under any of the following items shall be punished by a fine of
+not more than five hundred thousand yen:
+(i) A person who has failed to make the notification under Article 9 or has
+made false notification
+(ii) A person who has failed to make the record under Article 10, paragraph 1 or
+has made a false record
+(iii) A person who has violated the provisions of Article 10, paragraph 2
+(iv) A person who has failed to make the notification under Article 11 or has
+made false notification
+(v) A person who has failed to make the report under Article 14 or has made a
+false report
+(vi) A person who has defied, obstructed or evaded the entry or inspection, or
+has failed to make a statement or has made a false statement in response to the
+question under Article 15, paragraph 1
+Article 20
+When the representative of a juridical person, or an agent, employee or other
+worker of a juridical person or individual has committed an act in violation of the
+provisions from Article 16 to the preceding Article inclusive with regard to the
+business of said juridical person or individual, not only the offender shall be punished
+but also said juridical person or individual shall be punished by the fine prescribed in
+the respective Articles.
+Supplementary Provisions
+Article 1 (Effective Date)
+This Act shall come into force as from the day on which six months from the day of
+promulgation have elapsed; provided, however, that the following provisions shall
+come into force as from the date described in each item:
+- 12 -
+(i) The provisions of Article 4, paragraph 3 of this Act and Article 3 of the
+Supplementary Provisions the day of promulgation ―
+(ii) The provisions of Article 4, paragraphs 1, 2 and 4, from Articles 5 to 15
+inclusive, from Articles 17 to 19 inclusive and Article 20 (limited to the portion
+pertaining to Articles 17 to 19 inclusive) of this Act the date specified by a ―
+Cabinet Order within a period not exceeding one year from the day of
+promulgation
+Article 2 (Review)
+The Government shall, within three years of enforcement of this Act, review the
+provisions of this Act based on the results of study by the Council for Science and
+Technology Policy and others on how Human Fertilized Embryos should be handled
+as the emerging potential of human life, while taking into consideration the state of
+enforcement of this Act and changes in the circumstances surrounding the Cloning
+Techniques, etc., and take necessary measures based on the results of the review.
+Article 3 (Transitional measures)
+With regard to application of the provisions of Article 4, paragraph 3, during the
+period from the day of promulgation of this Act until the day before the effective date
+(January 6, 2001) of the Act for Partial Revision of the Cabinet Act (Act No. 88 of
+1999), the term “Minister of Education, Culture, Sports, Science and Technology” in
+the same paragraph shall be deemed to be replaced with “Prime Minister,” and the
+term “Council for Science and Technology Policy” shall be deemed to be replaced with
+“Council for Science and Technology”.
+Article 4 (Partial revision of the Act for Punishment of Organized Crimes, Control of
+Crime Proceeds and Other Matters)
+A part of the Act for Punishment of Organized Crimes, Control of Crime Proceeds
+and Other Matters (Act No. 136 of 1999) shall be revised as follows.
+The following item shall be added to the appended table:
+lxi An offense prescribed in Article 16 (Transfer of a Human Somatic Clone
+Embryo or other Specified Embryo into a human or Animal uterus) of the Act on
+Regulation of Human Cloning Techniques, etc. (Act No. 146 of 2000)

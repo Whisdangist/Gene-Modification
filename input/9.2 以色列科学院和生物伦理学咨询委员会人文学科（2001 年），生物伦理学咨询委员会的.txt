@@ -1,0 +1,965 @@
+United Nations Educational, Scientific and Cultural Organization
+Organisation des Nations Unies pour l’éducation, la science et la culture
+International Bioethics
+Committee (IBC)
+Comité international
+de bioéthique (CIB)
+Distribution: limited
+BIO-7/00/GT-1/2 (Rev. 3)
+Paris, 6 April 2001
+Original: English
+The Use of
+Embryonic Stem Cells
+In Therapeutic Research ______________
+REPORT OF THE IBC ON THE
+ETHICAL ASPECTS OF HUMAN EMBRYONIC STEM CELL RESEARCH
+Rapporteurs:
+Alexander McCall Smith and Michel Revel
+This Report was discussed at the Seventh Session of the International
+Bioethics Committee (Quito, Ecuador, 7-9 November 2000) and
+finalized after the meeting of the Extended Working Group on the
+Ethical Aspects of Embryonic Stem Cell Research (UNESCO
+Headquarters, 29 January and 2 February 2001).
+Division of Human Sciences, Philosophy
+and the Ethics of Sciences and Technology
+TABLE OF CONTENTS
+I. THE ISSUE
+II. THE SCIENTIFIC BACKGROUND
+III. POSSIBLE APPLICATIONS OF EMBRYONIC STEM CELL RESEARCH
+IV. SOME EXISTING PROVISIONS
+V. PHILOSOPHICAL AND RELIGIOUS VIEWS
+VI. ETHICAL ARGUMENTS: THE STATUS OF THE HUMAN EMBRYO
+VII. THE DIRECTION OF THE DEBATE
+VIII. THE USE OF HUMAN EMBRYOS FOR EMBRYONIC STEM CELL RESEARCH:
+OPTIONS
+IX. EMBRYOS CREATED FOR RESEARCH
+X. ETHICAL RESTRAINTS
+XI. SUMMARY AND CONCLUSIONS
+Bibliography and Sources
+Annex Composition of the Working Group of the IBC on the ethical aspects of
+embryonic stem cell research. 
+I. The Issue
+1. There is at present a considerable body of researchers who wish to engage in
+research on a type of human cell known as the stem cell. This research, they argue,
+will bring great benefits in that it might lead to the development of transplantable
+tissues as therapies for a wide range of human illnesses, which are currently
+considered difficult or impossible to treat. However, the stem cells in which they are
+particularly interested are derived from the human embryo, and this gives rise to the
+question: is it ethically acceptable to derive cells from a human embryo prior to its
+implantation in utero in order to cultivate and investigate these cells in the laboratory
+for therapeutic research? This is the issue which a Working Group of the International
+Bioethics Committee of UNESCO (IBC) considered at a meeting at UNESCO
+Headquarters in Paris in April 2000. Later the same year, the IBC debated the matter
+at its Seventh Session (Quito, Ecuador, 7-9 November 2000). At this Session, the
+exchange of views underlined the diversity of opinion which surrounds this question.
+It was decided that any report which the IBC might adopt on this matter should reflect
+this pluralism. This report, therefore, recognises that there are very marked differences
+of opinion relating to embryo research. It aims to highlight the various ethical
+arguments with a view to facilitating the resolution, at national and international level,
+of a controversial matter. It recognises that the solutions adopted by national ethical
+committees or national legislatures may well be different. Such differences are
+inevitable in a pluralistic world where people may sometimes adopt ethical positions
+which are unacceptable to others.
+II. The Scientific Background
+2. Stem cells are cells which have the ability to develop into more than one form
+of human tissue. They may be totipotent (such as the early embryo cells, able to
+develop into all the different types of cells needed for a complete and functioning
+organism), pluripotent (such as embryonic stem cell lines, able to give rise to most
+types of tissue but not capable of bringing a functioning organism into existence) or
+multipotent (being able to give rise to a limited number of tissue types). These latter
+stem cells are still present in the adult human body, but their potential to develop is
+less than those of pluripotent embryonic stem cells, which form the focus of the
+discussion in this report. Examples of adult stem cells are certain bone marrow cells
+that give rise to all blood lineages but can turn also into liver cells or cardiac muscle
+cells. Neural stem cells give rise to neurones and glial cells but can turn also into
+heart, lung or liver cells. However, for preparation of tissues for transplantation, adult
+stem cells do not offer of such wide potential to researchers as embryonic stem cells
+and the ethical issues they may raise are not the same. This report shall therefore
+concentrate on embryonic stem cells.
+3. Embryonic stem cells may be derived from the embryo at the preimplantation
+stage of its development. The extraction procedure will end the ability of that
+particular embryo to develop through implantation in the uterus. The removal of the
+cells, then, brings the existence of the embryo to an end. The embryo-derived cells are
+not in themselves an embryo - they cannot develop into a human being; they are
+therefore just like any other human tissue. 
+- 2 -
+4. The embryonic stem cells can be kept alive in an artificial medium and will
+proliferate more or less indefinitely. It is suggested that in the future it will be possible
+to facilitate the development of these cells into specific tissue types, thus affording the
+possibility of growing “spare cells or tissue” which can then be injected or
+transplanted into recipients. It is possible that, at some future stage, this tissue will be
+used to construct part of or even entire organs for grafting into human hosts whose
+organs are destroyed or impaired. Such products will have been derived in the first
+place from embryos, hence the ethical question: is it acceptable to use embryonic stem
+cell research for therapeutic purposes?
+III. Possible Applications of Embryonic Stem Cell Research
+5. Many scientists take the view that the benefits which might flow to humanity
+from this form of research are so great that it is important that it be allowed to
+proceed.
+6. As far as transplant rejection is concerned, this risk could be avoided by
+preparing the stem cells from “embryos” created by nuclear transfer (transfer of a
+nucleus from the patient’s own cells). In this process, sometimes called “therapeutic
+cloning”, there is a reprogramming of the donor cell nucleus in the recipient egg,
+yielding again totipotent embryo cells. The tissues derived from such stem cells would
+then be autologous to the recipient and not subject to immune rejection.
+7. The benefits from embryonic stem cell technologies may also entail some risks,
+which will have to be carefully weighed. One risk may be uncontrolled proliferation
+of the transplanted cells and another may be transmission of infectious agents, but the
+latter risk would be smaller with embryo stem cells than with adult stem cells.
+8. Embryo stem cell research could indeed lead to substantial progress in the
+treatment of various conditions, a few of which are indicated below only for purposes
+of example.
+Nervous System Diseases
+9. Many of the conditions which afflict the human nervous system cannot
+currently be treated or, if treatment is available, can only be treated with difficulty and
+with disappointing results. The use of embryonic stem cells may significantly change
+our ability to combat diseases such as Parkinson’s, Alzheimer’s, Multiple Sclerosis
+and other neurodegenerative diseases. Laboratory grown tissues derived from
+embryonic stem cell lines could be used to replace the nervous tissue cells which are
+lost or damaged in such diseases. It would be possible to transplant neurones that
+insert themselves in the brain or spinal cord or produce various neurotransmitters that
+are missing. It would also be possible to transplant glial cells that produce the myelin
+coating around the nerves. Preliminary work of this nature in animal models has
+yielded encouraging results. In the clinic, treatment of Parkinson’s patients by
+transplantation of foetal brain cells has been practised on a limited scale but the
+embryonic stem cell technology could allow many more patients to benefit from
+neurone transplantation. 
+- 3 -
+Heart Infarction
+10. The heart muscle cells that are destroyed when infarction prevents the blood
+flowing through coronary arteries could be replaced by “patches” of cardiac smooth
+muscle cells produced by in vitro differentiation of embryonic stem cell lines.
+Bone and Cartilage Diseases
+11. Conditions such as osteoarthritis, which involve damage to cartilage, might be
+corrected by the insertion of cells, which repair the damaged section. Missing bone,
+resulting from trauma or surgery, might be replaced by newly-generated bone cells.
+Cancer and Immune Diseases
+12. Blood and immune cell transplantations are part of cancer treatment allowing
+more intensive use of cytotoxic anticancer drugs. Bone marrow or cord blood
+employed today for such transplantations could be more efficiently replaced by
+injections of hematopoietic stem cells derived from embryonic stem cells with defined
+immunogenetic potential or autologous to the patients. Repair to the immune system
+by this method would also be highly beneficial in the treatment of
+immunodeficiencies such as AIDS, or auto-immune diseases such as Lupus or
+Multiple Sclerosis.
+Diabetes
+13. The implantation of insulin-producing cells from pancreatic islets has already
+met with limited success. Xenotransplantation provides some prospects here, but there
+are major issues of public safety which restrict this option. The cultivation of beta islet
+cells, derived from embryonic stem cells, could provide a useful solution to the
+current shortage of transplantable tissue and rejection problems.
+IV. Some Existing Provisions
+14. At the international level, there are few regulatory provisions concerning
+research on human embryos. Many texts proclaim the right to life in general, e.g. the
+Universal Declaration of Human Rights of 1948 (Art. 3), the International Covenant
+on Civil and Political Rights of 1966 (Art. 1) or the African Charter on Human and
+Peoples’ Rights of 1981 (Art. 4). Others more specifically proclaim the right to life of
+the conceived child, e.g. the American Convention on Human Rights of 1969, which
+stipulates that “every person has the right to have his life respected. This right shall be
+protected by law and, in general, from the moment of conception” (Art. 4)(1).
+15. At the European level, the Council of Europe’s Convention for the Protection of
+Human Rights and Dignity of the Human Being with regard to the Application of
+Biology and Medicine of 1997 does not resolve the matter of the permissibility of
+embryo research and leaves each country responsibility for legislating on this matter,
+while stipulating two conditions: the prohibition of producing human embryos for
+
+1. Twenty-six countries have ratified the American Convention: Argentina, Barbados, Bolivia, Brazil,
+Chile, Colombia, Costa Rica, Dominica (Commonwealth), Dominican Republic, Ecuador, El Salvador, Grenada,
+Guatemala, Haiti, Honduras, Jamaica, Mexico, Nicaragua, Panama, Paraguay, Peru, Suriname, Trinidad and
+Tobago, United States of America, Uruguay and Venezuela. 
+- 4 -
+research purposes and the adoption of rules designed to assure adequate protection for
+the embryo(2). An Additional Protocol to the Convention on the Prohibition of Cloning
+Human Beings was approved in 1998 and took effect on 3 January 2001 in five
+Member States(3).
+16. The Charter of Fundamental Rights of the European Union, adopted in Nice,
+France, in December 2000, expressly prohibits eugenic practices and reproductive
+cloning, but does not comment explicitly on embryo research. In a Resolution of 7
+September 2000, the European Parliament stated its opposition to the creation of
+supernumerary embryos and to therapeutic cloning. More recently, the European
+Group on Ethics in Science and New Technologies to the European Commission
+(EGE) adopted Opinion No. 15 of 14 November 2000 on the ethical aspects of human
+stem cell research and use, in which it states that “stem cell research based on
+alternative sources (spare embryos, foetal tissues and adult stem cells) requires a
+specific Community budget”, while pointing out that “it is up to each Member State to
+forbid or authorise embryo research”. On the other hand, the Group considers
+“ethically unacceptable” the creation of embryos with donated gametes for the purpose
+of deriving stem cells, and “premature” the creation of embryos by somatic nuclear
+transfer.
+17. At the national level, research on human embryos is permitted in some
+countries (with varying degrees of supervision), while it is expressly prohibited in
+others. The second category includes Ireland, where Article 40, par. 3, of the
+Constitution implicitly prohibits research on the embryo by stating the right to life of
+the “unborn child” equal to that of the mother. In Germany, the Law of 13 December
+1990 on Embryo Protection regards as an offence the fertilization of an ovum for
+purposes other than its reimplantation in the donor; it takes the same position on the
+fertilization of a larger number of ova than can be implanted. The situation is similar in
+Austria, where Law No. 275 of 1992 authorises the creation of embryos only for
+reproductive purposes. In Hungary (Law No. LXXIX of 1992) and Poland (Law of 7
+January 1993 as amended on 30 August 1996), the life of the unborn child must be
+respected and protected from its conception. In Norway, the Law N.°56 of 5 August
+1994 prohibits research on embryos and bans their use for any purpose other than
+reimplantation in the donor. In Tunisia, the National Medical Ethics Committee has
+stated its opposition to all experimentation on the embryo which is regarded as a
+“potential person” (Opinion No.1 of 12 December 1996) and also to any form of
+cloning (Opinion No. 3 of 22 May 1997). In Switzerland, the Constitution (1999)
+prohibits the use of medically assisted reproduction for research purposes and the
+fertilization of more ova than are capable of being immediately implanted (Art. 119, 2c).
+In Italy, the bill on medically assisted reproduction specifically prohibits the creation of
+embryos for research purposes and the early splitting of the embryo for therapeutic or
+research purposes. The Italian National Committee on Bioethics has opposed
+reproductive cloning, but was unable to reach a consensus on matters relating to the use
+of supernumerary embryos and on therapeutic cloning (Opinion of 27 October 2000).
+
+2. Six countries have ratified the European Convention: Denmark, Greece, San Marino, Slovakia, Slovenia
+and Spain.
+3. Georgia, Greece, Slovakia, Slovenia and Spain. 
+- 5 -
+18. As far as Latin America is concerned, in Brazil Law No. 8974/95 on genetic
+engineering prohibits the production, storage and manipulation of human embryos
+with a view to their use as biological material. Peru specifically prohibits the
+fertilization of human ova for purposes other than reproduction, and human cloning
+(Law No. 26.842). The right to life from the moment of conception is recognised in
+Peru by the Children and Adolescent Code (Law No. 27.337), in Costa Rica by Law
+No. 7739 of 1998 and in Ecuador by Article 49, par. 1, of the Constitution (1998).
+19. In a number of other countries, the use for research purposes of embryos
+donated by persons following a treatment against sterility and not intended for
+implantation (supernumerary embryos) is permitted. In general, the conditions
+imposed are the prohibition of research after the 14th day of existence of the embryo
+and the consent of the couple who supplies the embryo. That is the case, for example,
+in Canada, Sweden (Law No. 115) and Finland (Law No. 488/1999). In Spain (Law
+No. 35/1988), research on supernumerary embryos is permitted under rigorous
+restrictions, but their creation for this specific purpose is prohibited. In September
+2000, the Observatory of Law and Bioethics of Barcelona did, however, express its
+support for the creation of embryos for research purposes, both by donation and by
+cloning techniques. In Australia, the law varies between different States and
+Territories and, in some, the subject is not regulated by law. For such cases, the
+Australian National Health and Medical Council has formulated guidelines (The
+Ethical Guidelines on Assisted Reproductive Technology, par. 6) which, although not
+legally binding, are influential.
+20. Finally, other countries are envisaging authorization of the creation of embryos
+for research purposes. In the United Kingdom, since 1990 the Human Fertilisation and
+Embryology Act authorises the use of supernumerary embryos for restricted research
+purposes - in particular concerning reproductive medicine and for the diagnosis of
+genetic and chromosomal disorders - and the production of embryos for these
+purposes. On 22 January 2001, the House of Lords passed a law (already approved in
+December 2000 by the House of Commons), which permits the cloning of human
+embryos to derive stem cells, thus allowing the possibility of therapeutic cloning. In
+France, Law No. 94-654 of 1994, which prohibits embryo research, is currently under
+review. In accordance with the opinions delivered by the National Ethics Consultative
+Committee(4) and the Conseil d’Etat(5), the draft bill permits the production for research
+purposes of stem cell lines from supernumerary embryos and therapeutic cloning. In
+November 2000, Japan adopted a law prohibiting reproductive cloning and prescribing
+the adoption of directives, which should permit the use of stem cells derived from
+supernumerary embryos and therapeutic cloning. In the Netherlands, a bill is currently
+being prepared, which prohibits the production of embryos for research purposes, with
+many exceptions. However, the bill authorises research into stem cells obtained from
+supernumerary embryos. In Belgium, similar bills are being debated in the Senate.
+21. In the United States of America, although the Federal financing of such
+activities is prohibited, the authorization of research on the embryo is left to the
+discretion of each State. To this date, nine States prohibit such research. However, in a
+
+4. CCNE Opinion No. 53 of 11 March 1997.
+5. Report to the Council of State, November 1999 «Les lois de bioéthique: cinq ans après » (The laws on
+bioethics: five years on). 
+- 6 -
+number of States, there is effectively no control over private research of this sort. In
+1999, the National Bioethics Advisory Commission recommended that Federal
+regulations should permit research into embryonic stem cells obtained from
+supernumerary embryos. However, it remains opposed to therapeutic cloning and to
+the deliberate production of embryos for the purpose of obtaining stem cells. In August
+2000, the National Institutes of Health issued guidelines on the circumstances in which
+Federally supported scientists might engage in such research. One of the conditions to
+be met is that no such scientist might destroy an embryo to derive cells: this will have
+to be done by privately-funded scientists, who will then pass the cells on to their
+publicly-funded colleagues.
+V. Philosophical and Religious Views
+22. The debates about bioethics occur in a context of philosophical and religious
+reflection about the nature of human life, from its commencement to its conclusion, and
+the respect due to human life as such. Modern international human rights principles,
+beginning with the Universal Declaration of Human Rights of 1948, attach fundamental
+significance to the human being and respect for his or her dignity as such. Such
+principles themselves reflect longstanding debates amongst philosophers and scholars of
+every cultural tradition in the world.
+23. Amongst modern philosophers, there is an active debate about the
+philosophical foundation for research into, and use of, embryonic cells precisely
+because of the potential of the human embryo to develop into a human being with the
+unique and special qualities inherent in that status. Such debates are not confined to a
+religious and spiritual context. Philosophers of no religious opinion, and humanists
+approaching the issues in a wholly secular way, have expressed the need for the
+development of principles to guide the ethical permissibility of embryonic stem cell
+research and use.
+24. The opinions expressed by some major religions have indeed contributed
+greatly to these debates. Because bioethics concerns itself with fundamental issues of
+human life, these opinions play an important role in the issue. This has been very
+much apparent in the discussion of embryo research in general, where it is clear that
+there are fundamental disagreements as to the extent to which embryo research is
+compatible with religious beliefs as to the sanctity of human life.
+25. On the basis of religious beliefs, there is a broad range of positions on the
+status of the embryo and on the permissibility of using the embryo for any form of
+research (including stem cell therapeutic research). Pending an ideal systematic
+consultation of each and every culture and religion on this issue, suffice it to indicate
+that some of these consider permissible the use of embryos for therapeutic purposes,
+or for the purposes of research, while others do not accept the use of embryos for such
+purposes.
+26. The theological basis of these positions itself varies, and it must also be borne
+in mind that these religious traditions also have a range of views within them. In
+general, though, it is possible to identify a position which represents an area of broad
+agreement within that tradition. 
+- 7 -
+27. For example, in the case of Islam, the use of embryos for therapeutic or
+research purposes may be acceptable provided that it takes place before the point at
+which the embryo is ensouled, i.e from the 40th day after fertilization.
+28. Some branches of Christian thought (in the Protestant tradition) regard full
+human status as something which is acquired gradually, and which might therefore not
+be present in the early embryo. Protestant theology, however, is very diverse, and it is
+more difficult to find a single source of authority on this issue to which reference
+might be made. It is, in fact, part of the Protestant ethos that moral questions are
+determined by the individual conscience, and there is therefore room for a variety of
+stances on this point. Protestant thought, therefore, may accept that this is an issue on
+which Christians may have very differing views, with these differing views being
+compatible with Christian beliefs.
+29. In Judaism, the Biblical and Talmudic law holds that the full status of a human
+being is not present at the moment of fertilization, but is acquired after a period of
+post-implantation development. An important feature of Jewish thinking in this area is
+that embryos outside the womb, in analogy to gametes, have no legal status unless
+parental intent gives them life potential by implantation and pregnancy. An embryo
+made for IVF treatment and maintained in vitro without potential for implantation
+could therefore be donated and used for therapeutic research. This would be in line
+with the life-saving duty, which is a strong one in Judaism.
+30. The most strongly argued opposition to the use of embryos for therapeutic or
+research purposes is to be found within the Roman Catholic tradition. In the Catholic
+view, a human being comes into existence at the time of fertilization, and the embryo
+is therefore considered as a human individual having the right to its own life(6). An
+individual embryo should therefore be given the opportunity to develop into a mature
+human being. It is an implication of this position that it is necessary to strictly control
+the fertilization of ova in vitro, and it is impermissible to use supernumerary embryos
+for therapeutic purposes. This is because the life of that embryo is sacred and it cannot
+be ended by any human agency.
+31. This brief statement of some of the major religious positions on the use of
+embryos reveals a stark contrast between religious notions of the status of the embryo.
+If the question is defined as the embryo moral status, the various religious traditions
+are prone to take opposite positions. If it is defined in a broader perspective, then there
+may be room for some agreement.
+VI. Ethical Arguments: The Status of the Human Embryo
+32. The ethical legitimacy of performing human embryonic stem cell research
+depends, in large measure, on the status which is attributed to the embryo. Although
+there are other considerations having a bearing on the ethical question - such as the
+consent of the “owners” or creators of the embryo (the parents) -, the categorising of
+the embryo is crucial to the question of what can be done with it. Much of the ethical
+debate in this area has been taken up with the question of just what the embryo is. If
+
+6. The IBC was provided by the Holy See with a note dated 2 August 2000 on embryonic stem cells and
+the status of the embryo. 
+- 8 -
+the embryo is a human being (or person), then our treatment of it is limited to that
+which we are allowed to do to other human beings. If, by contrast, it is no more than a
+collection of human cells, then there are far fewer restraints on our handling of it.
+Mid-way views on the embryo allow for varying degrees of restraint on its use.
+33. It is clear that the human embryo has a unique status in biological terms. Unlike
+any other cluster of living cells, it has the capacity to develop into a functioning
+complex organism that will be substantially differentiated from the entity it once was.
+This difference may be described as the embryo’s potential - the potential to become a
+fully-developed human being. That is, of course, only a biological fact, but it is a
+biological fact in the face of which we stand in moral awe. In so far as our ethical
+notions depend upon the valuing of human life, then the human embryo demands
+respect as the source of the human life to which we attach such significance. But how
+far should this respect go? Much in nature is respected, but is still used by humankind
+for its benefit. The real issue is whether the embryo can be brought within full
+membership of the moral community to which we exclusively admit human persons
+and human persons alone. If the embryo can be admitted to this community, then it
+becomes ethically impermissible to use it as a means to an end, and not as an end in
+itself. More problematic is potential for membership of this community. In one view,
+the fact that the embryo has the potential to become a human being gives it a
+particular status, which should protect it from destruction.
+34. Arguments about whether the human embryo can be considered a person have
+been prolonged and marked by a failure to reach agreement. In one view, personhood
+begins with the fertilisation of the ovum by the sperm; from that moment on, the
+admittedly primitive organism has an identity which will link it continuously to the
+infant, to the child, and later to the adult human being it will become. To end the life
+of the embryo, then, amounts to an ending of the future life of the infant and, indeed,
+of the child and the adult. Personhood in this view is an ethically significant quality,
+which human beings have at every stage of their lives, beginning with the embryo and
+surviving until death brings it to an end.
+35. This view of personhood has been challenged by those moral philosophers who
+see personhood as being dependent on an ability to experience those features of life
+which lend to life its value and meaning. From the biological point of view, personal
+individuality can be attributed to the embryo only after the day in its early
+development when division into normal twins is not possible any more (up to 13 days
+after-fertilization). Embryos are therefore entitled to respect, but would not enjoy the
+personhood.
+36. A major subject of debate is that of the potentiality of the embryo. The human
+embryo has the potential to become a person even if it is not yet a person. For this
+reason, the defenders of a protected embryo status argue that it is wrong to do to the
+embryo anything that will prevent it from fulfilling this potential. Opponents of this
+view argue in turn that the potential to become a thing does not give one that status
+which goes with having become that thing. Ova and sperm are components of the
+zygote, which later becomes an embryo and then a fetus, but that does not mean that
+they can enjoy the status appropriate to a zygote or a fetus until that stage of
+development has been reached. We do not accord fetal status to sperm; why, then,
+accord human being status to an embryo? Moreover, an embryo resulting from in vitro
+- 9 -
+fertilization, but which will not be implanted in a uterus, has no potential to develop
+into a human being. The same applies to “embryos” made by nuclear transfer, which
+should not be implanted for the purposes of human reproductive cloning.
+VII. The Direction of the Debate
+37. Any perusal of the debate which has been ongoing over the past few decades
+about the status of the embryo will reveal that this is an area in which strong
+convictions have been pitted against one another, and that consensus has usually
+eluded those who enter the debate from opposing starting points. In these
+circumstances, one might ask whether it is possible for a body such as the IBC to
+pronounce on the subject, or whether one might simply conclude that the use of
+embryos for research purposes is a matter of private conviction. From such a
+perspective, it might be argued that at a national level, each society should determine
+what appears to be an acceptable national position and regulate the matter
+accordingly. This might involve the choosing of that position - facilitative or
+otherwise - which reflects the majority view, or it might involve a compromise
+between prohibition and permission, perhaps allowing for embryo research in
+exceptional circumstances and under very strict control. An alternative is to have no
+laws on the subject at all and indeed no official ethical position. This would mean that
+embryo research is left a matter of individual conscience, with the organs of society
+taking no position on the matter. This last option does not appear at present to attract a
+great deal of support: there is a widespread view that this area of research needs at
+least some degree of regulation, and this view is reflected in the increasing tendency
+for national legislative and governmental bodies and national ethics committees to
+take a position on human embryo research. In these circumstances, it is appropriate for
+the International Bioethics Committee to clarify the different positions and indicate
+their ethical implications.
+VIII. The Use of Human Embryos for Embryonic Stem Cell Research: Options
+38. In relation to the question of embryonic stem cell research, the IBC confined its
+attention to the human embryo in its early stages of development and before
+implantation in the uterus: it did not consider the status of the human fetus implanted
+in the uterus and further along the line of development that will normally result in
+birth. This is a separate question on which it was not necessary for the IBC to take a
+view in this Report.
+39. Three principal positions have emerged in the national and international debate
+on the issue of embryonic stem cell research. These are: (a) the position which holds
+that use of human embryos for deriving embryonic stem cells is intrinsically unethical,
+(b) the position which holds that such use is ethically acceptable for certain medical
+purposes and subject to rigorous safeguards; and (c) the position which considers that,
+taking into account the present risks linked with this research and its possible ethical
+drifts (inter alia, the risks of instrumentalization of the embryo), embryonic stem cell
+research should not be allowed. The IBC recognises that all these positions are
+ethically intelligible positions to adopt and deserve deeper discussion. 
+- 10 -
+40. If, at national level, there is no possibility of conducting research on embryos,
+then embryonic stem cell research is a fortiori excluded. If it is considered that
+embryo research is in principle ethically permissible, the following ethical
+considerations will have to be taken into account.
+41. Several sources of embryo may be identified, with different ethical
+considerations applying in each case. The various cases are:
+(1) the embryo which is created by in vitro fertilization (IVF) in order to be
+implanted in the uterus and identified as suitable for this purpose;
+(2) the embryo which has been created in vitro to be implanted as in (1), but
+which is supernumerary (excess embryos having to be created to insure
+successful pregnancy in infertility treatments);
+(3) the embryo which is created by oocyte-sperm fertilisation for purposes
+of research or for purposes of the development of stem cell lines; and
+(4) the “embryo” which is created through the transfer of the nucleus of a
+donor cell into the denucleated oocyte.
+42. The IBC took account of the view that what gave the embryo a status in this
+context was its individual potential to develop into a person. If this potential were not
+present in a particular case, because there is no possibility of implantation (e.g., for
+medical reasons or due to parental decision, excluding any commercial incentive),
+then it is ethically defensible to use the embryo for medical and therapeutic research
+needs because it has no potential to develop into a person. The only other option is its
+destruction.
+43. A further consideration is the benefit that flows from deriving stem cell lines
+from “non-implantable” embryos for medical applications, i.e. use of such embryos
+for the good of others. Although benefit to others will rarely, of itself, be sufficient to
+justify a course of action which may be ethically doubtful, this altruistic therapeutic
+intention can contribute moral legitimacy to the ethical choice of authorising the use
+of human embryos.
+44. If we apply these considerations to the cases listed above, we see that:
+(a) an embryo in (1) has a special status as the likely precursor of a human
+being and should not, in general, be treated in any way likely to prevent
+the fulfilment of that potential (subject to the exception that some moral
+traditions and some legal systems allow abortion, especially to protect
+the mother’s right to life);
+(b) embryos in (2) have no future. If IVF is allowed, as it is in many
+countries, then it is ethically permissible to use these supernumerary
+embryos for research and for therapeutic purposes, the only other option
+being their destruction;
+(c) embryos in (3) and (4) have been created specifically for research
+purposes. Their use requires special consideration, as expanded below. 
+- 11 -
+IX. Embryos Created for Embryonic Stem Cell Research
+45. The creation of human embryos specifically for research purposes is to be
+distinguished from the research use of embryos which have been created with a view
+to their implantation but which have not been able to be implanted and have therefore
+become supernumerary. In the case of the specially-created embryo, the act of
+creation is intended to fulfil a purpose, which is unrelated to any interest which the
+created organism might have; in the case of the supernumerary embryo, the organism
+has not initially been seen as a means to another end, but has been created as an end in
+itself.
+46. Is there any justification for allowing the creation of human embryos in order to
+derive from them stem cells, which will be used for therapeutic purposes? If the
+embryo is considered to have a status which goes with personhood, then this would
+offend the principle prohibiting the instrumentalization of persons. If it is not
+considered to have such a status, however, there may be no objection to its use for the
+benefit of others and the potential gains should be weighed against any damage that
+such a use would entail to any recognised value.
+47. Assuming that the embryo is not to be given the status which goes with
+personhood, it would be permissible to use the embryo for purposes which did not
+demean it. It would clearly be unacceptable for human embryos to be used for
+purposes which would reflect contempt for the class of embryos in general (given that
+some human embryos, those that are either implanted or are to be implanted, are
+accorded particular respect and protection). If we cherish human life, then we must
+cherish all manifestations of the body; hence the universal habit of according
+reverence to human remains and the widespread ethical prohibitions against the casual
+abuse of the human body. To endorse any use of the human embryo which was not
+consistent with a reverence for human life would be widely regarded as wrong. Those
+who believe that therapeutic research on embryos is ethically permissible, might argue
+that the creation and use of a human embryo outside the context of human
+reproduction does not necessarily undermine the attitude of respect for the human
+body and human dignity, provided that the purposes involved in such creation and use
+are purposes which we would recognise as beneficial ones. Medical uses fall into this
+category. In this view, it would appear to be quite consistent with an attitude of
+respect for human life to allow the use of human embryos at an early stage of
+development, well before the stage at which anything resembling a self can be said to
+come into existence. Such use promises to provide the possibility of the relief of a
+great deal of human suffering, a goal which in no sense calls into question respect for
+the human body.
+48. Nuclear transfer provides an alternative way of creating human “embryos” with
+the purpose of deriving stem cells, although at present this technique is unproven. This
+is a form of cloning, but it is not reproductive cloning, as the resulting “embryo” is not
+created for implantation. Because of its purpose, it is sometimes called “therapeutic
+cloning”. The attraction of this method of producing embryonic stem cells lies in the
+fact that these cells would be compatible with the cells of the donor of the nucleus.
+This presents major possibilities for autologous transplantation, in which the problem
+of rejection is largely overcome. 
+- 12 -
+49. The IBC considered arguments that it may be ethically acceptable to create
+“embryos” by nuclear transfer in order to produce embryonic stem cells for
+therapeutic purposes. The implantation of an “embryo” created in this way would not
+be permissible under the Universal Declaration on the Human Genome and Human
+Rights and is, indeed, prohibited in many national legislations. Those who argue that
+nuclear transfer should be allowed point out that benefits of the procedure can take
+precedence over the fears deriving from this “slippery slope” argument. This
+procedure puts to the front the same ethical questions as those raised by research
+involving supernumerary embryos.
+50. The IBC also considered arguments of those who strongly oppose nuclear
+transfer, seeing in it the first steps towards human reproductive cloning. They argue
+that even if such embryos are not going to be allowed to develop beyond a very
+limited stage, such steps will assist the development of techniques which could be
+used one day in reproductive cloning.
+X. Ethical Restraints
+51. If research is allowed on human embryos with the purpose of deriving
+embryonic stem cells, then it must be subjected to strict supervision and to severe
+basic constraints. These include the obtaining of full consent on the part of the donors
+of the biological material and the requirement that the research be justifiable in terms
+of the benefit which it offers humanity. The IBC considers that research for nonmedical purposes would clearly be unethical, as would research which persisted
+beyond the very early stages of embryonic development. As expanded upon in section
+III, the medical applications of embryonic stem cell research must be well-identified
+therapeutic applications and not trivial or cosmetic non-medical desires, nor a fortiori
+for eugenic enhancement. Imperatives of social justice must be upheld, and the
+altruistic nature of this research must be reasonably recognised in the process of
+embryo donation as well as in the commercial applications of the new therapeutic
+means. Under no circumstances should human embryo donation be a commercial
+transaction, and steps should be taken to discourage financial incentives.
+XI. Summary and Conclusions
+52. As seen throughout this report, the underlying ethical concern in human
+embryonic stem cell research is, for many, the status of human embryos and their use
+for therapeutic purposes. This issue has complex ramifications and the various views
+are obviously influenced by the concept of human life and personhood particular to
+each culture, religion or philosophy. There is very serious disagreement on the ethical
+questions raised by embryonic stem cell research. One view is that the use of human
+embryos for deriving embryonic stem cells is intrinsically unethical: to use embryos in
+this way is to instrumentalise human life and seriously to weaken the respect which is
+accorded to a vulnerable category of persons, namely, human embryos. Another view
+is that such use is ethically acceptable for certain medical purposes and subject to
+rigorous safeguards: although the human embryo has a unique status because of its
+individual potential to develop into a person, it does not entail the respect and
+protection which goes with personhood. Finally, a mid-way view can be identified 
+- 13 -
+according to which, taking into account the present risks linked with this research and
+its possible ethical drifts, embryonic stem cell research should not be allowed. The
+conclusions of this Report need to reflect these differences of opinion.
+53. Every society has the right and duty to debate and decide upon ethical issues
+with which it is confronted. Where there is fundamental disagreement, the society will
+have to decide where it stands on an issue either because the question involved relates
+to some fundamental value of that society or because practical considerations demand
+that the matter be resolved. The use of human embryos for deriving stem cells would
+appear to be one such issue.
+54. Human embryonic stem cell research – and embryo research in general – is a
+matter which each community (and this will usually mean a State) will have to decide
+itself. If the decision is reached after serious ethical debate, which allows for the
+expression of views in different directions, then this must be accepted if one believes
+in the principle of the democratic resolution of public issues. Examples of this process
+are afforded by IVF for fertility treatment and by pre-implantation diagnosis with
+embryo selection: there are differences of opinion on the ethical values involved and
+yet many States have decided that these medical practices are permissible.
+55. The International Bioethics Committee of UNESCO therefore by consensus
+adopts the following conclusions:
+A. The IBC recognises that human embryonic stem cell research is a subject on
+which it is desirable for a debate to occur at national level to identify which
+position on this issue is to be adopted, including abstaining from this research.
+It urges that debates be conducted at appropriate national regulatory levels,
+enabling expression of a range of views, and whenever possible allowing a
+consensus to be reached on the limits of the permissible in this important new
+therapeutic research field. There should be an on-going process of education
+and information in this area. States should take appropriate measures to initiate
+an on-going dialogue within society on the ethical issues raised by such
+research, involving all actors concerned.
+B. Whatever form of research involving embryos is allowed, steps should be taken
+to ensure that such research be carried out within the framework of a Statesponsored regulatory system that would give due weight to ethical
+considerations, and set up appropriate guidelines. When authorisation of
+donations of supernumerary pre-implantation embryos from IVF treatments for
+therapeutic embryonic stem cell research is under consideration, particular
+attention should be given to the dignity and rights of both parental donors of
+embryos. Thus, it is essential that the donation be made only after the donors
+should have been given full information as to the implications of the research
+and have given their prior, free and informed consent. The purposes for which
+such research is carried out, and the way of its performance, should be subject
+to assessment by the appropriate ethics committees, which should be
+independent of the researchers involved. This assessment should include ex post
+facto ethical evaluation of such research. 
+- 14 -
+C. Alternative new technologies for obtaining human stem cell lines, from
+genetically compatible sources for transplantation therapeutic research, should
+be considered. These new technologies include cells taken from an existing
+adult individual, i.e. adult stem cells, or nuclear transfer. The advantages and
+risks of these new technologies should be carefully weighed: in this respect, it
+should be recalled that nuclear transfer should be used only for therapeutic
+research.
+D. Considering the importance and sensitivity of the subject, the IBC will keep this
+issue under consideration taking into account the discussions and regulations at
+national, regional and international levels.
+E. In all aspects of research involving human embryos, particular importance
+should be given to respect of human dignity and the principles set out in the
+Universal Declaration of Human Rights (1948) and the Universal Declaration
+on the Human Genome and Human Rights (1997). 
+BIBLIOGRAPHY AND SOURCES
+NATIONAL LEGAL SOURCES
+Constitutions:
+- Ecuador, Constitution of 5 June 1998.
+- Ireland, Constitution of 1st July 1937 (as amended on 7 October 1983).
+- Switzerland, Constitution of 18 April 1999.
+Legislation:
+- Australia, Gene Technology Act 2000, expected to commence in June 2001.
+- Austria, Law n° 275 of 1992 on reproductive medicine.
+- Brazil, Law n° 8974/95 of 5 January 1995 on genetic engineering.
+- Costa Rica, Law n° 7739 of 1998, Code of Childhood and Adolescence.
+- Finland, Statute n° 488/1999 of 9 April 1999, Medical Research Act.
+- France, Law n° 94-654 of 29 July 1994 on the donation and use of elements and products
+of the human body, medically assisted procreation and prenatal diagnosis.
+- Germany, Law of 13 December 1990, the Federal Embryo Protection Law.
+- Hungary, Law n° LXXIX of 17 December 1992 on the protection of the life of the
+embryo.
+- Japan, Law of 30 November 2000 concerning regulation relating to the techniques of
+human cloning and other similar techniques.
+- Norway, Law n° 56 of 5 August 1994 on the medical use of biotechnology (amended by
+Law n° 29 of 16 May 1997).
+- Peru: - Law n° 26.842 General Law on Public Health.
+- Law n° 27.337 Code of Childhood and Adolescence.
+- Poland, Law of 7 January 1993 on family planning, protection of the human fetus and the
+admissibility conditions for the artificial termination of pregnancy (as amended on 30
+August 1996).
+- Spain, Law n° 35 of 1988 on assisted reproduction procedures.
+- Sweden, Law n° 115 of 14 March 1991 on measures relating to the use of human
+fertilized ovocytes for research or therapeutic purposes.
+- United Kingdom: - Law of 1 November 1990, Human Fertilization and
+Embryology Act.
+- Law of 23 January 2001, amending the Human Fertilization
+and Embryology Act of 1 November 1990.
+Bills:
+- Belgium, Bills on the protection of embryos, Senate.
+- France, Draft of the revised “Bioethics Law”, presented by the Prime Minister on 28
+November 2000.
+- Italy, Bill n° 4048 on the discipline of medically assisted procreation.
+- Netherlands, Bill containing rules relating to the use of gametes and embryos (Embryos Bill). 
+- 16 -
+Opinions and Reports:
+- Australia: - Australian Academy of Science, “On Human Cloning. A Position
+Statement”, 4 February 1999.
+- National Health and Medical Research Council, “Ethical Guidelines on
+Assisted Reproductive Technology”.
+- Canada, Tri-Council Policy Statement, “Ethical conduct for research involving humans”,
+August 1998.
+- France: - National Consultative Bioethics Committee for Health and Life Sciences,
+Opinion n° 53 of 11 March 1997 on the establishment of collection of human
+embryo cells and their use for therapeutic or scientific purposes.
+- Conseil d’Etat, Report “The Bioethics Laws after five years”, November 1999.
+- Italy, National Bioethics Committee, Opinion of 27 October 2000 on the therapeutic use
+of stem cells.
+- Pontificia Academia Pro Vita, Declaration on the Production and the Scientific and
+Therapeutic Use of Human Embryonic Stem Cells, August 2000.
+- Tunisia, National Medical Ethics Committee:
+- Opinion n° 1 of 12 December 1996 on medically assisted reproduction.
+- Opinion n° 3 of 22 Mai 1997 on cloning.
+- United States of America: - National Bioethics Advisory Commission, “Ethical Issues
+in Human Stem Cell Research”, September 1999.
+- National Institutes of Health, “Guidelines for Research
+Using Human Pluripotent Stem Cells”, 25 August 2000.
+- American Association for the Advancement of Science - Institute for Civil Society,
+“Stem Cell Research and Applications”, November 1999.
+INTERNATIONAL LEGAL SOURCES
+Universal Intergovernmental Organizations:
+United Nations System:
+- Universal Declaration on Human Rights, adopted and proclaimed by the United Nations
+General Assembly on 10 December 1948.
+- International Covenant on Civil and Political Rights, adopted by the United Nations
+General Assembly on 16 December 1966.
+- Universal Declaration on the Human Genome and Human Rights, adopted by the General
+Conference of UNESCO on 11 November 1997, and endorsed by the United Nations
+General Assembly on 9 December 1998.
+Regional Intergovernmental Organizations:
+Council of Europe:
+- Convention for the protection of human rights and dignity of the human being with regard
+to the application of biology and medicine (Convention on Human Rights and
+Biomedicine), 4 April 1997.
+- Additional Protocol to the Convention for the protection of human rights and dignity of
+the human being with regard to the application of biology and medicine, on the
+Prohibition of Cloning Human Beings, 12 January 1998. 
+- 17 -
+European Union:
+Conventions:
+- Charter of Fundamental Rights of the European Union, December 2000.
+Resolutions:
+- Resolution on Human Cloning of the European Parliament of 7 September 2000.
+Opinions:
+- The European Group on Ethics in Science and New Technologies to the European
+Commission, Opinion n° 12 “Ethical Aspects of Research Involving the Use of Human
+Embryos in the Context of the 5th Framework Programme” of 23 November 1998.
+- The European Group on Ethics in Science and New Technologies to the European
+Commission , Opinion n° 15 “Ethical Aspects Human Stem Cell Research and Use” of 14
+November 2000.
+Organization of African Unity:
+- African Charter on Human and Peoples' Rights of 27 June 1981.
+Organization of American States:
+- American Convention on Human Rights of 22 November 1969.
+Articles
+1. Annas, G.J., Caplan, A. and Elias, S. (1999) Stem cell politics, ethics and medical
+progress. Nat Med, 5, 1339-41.
+2. Baguisi, A., Behboodi, E., Melican, D.T., Pollock, J.S., Destrempes, M.M., Cammuso, C.,
+Williams, J.L., Nims, S.D., Porter, C.A., Midura, P., Palacios, M.J., Ayres, S.L.,
+Denniston, R.S., Hayes, M.L., Ziomek, C.A., Meade, H.M., Godke, R.A., Gavin, W.G.,
+Overstrom, E.W. and Echelard, Y. (1999) Production of goats by somatic cell nuclear
+transfer. Nat Biotechnol, 17, 456-61
+3. Brustle, O., Jones, K.N., Learish, R.D., Karram, K., Choudhary, K., Wiestler, O.D.,
+Duncan, I.D. and McKay, R.D. (1999) Embryonic stem cell-derived glial precursors: a
+source of myelinating transplants. Science, 285, 754-6.
+4. Brustle, O., Spiro, A.C., Karram, K., Choudhary, K., Okabe, S. and McKay, R.D. (1997)
+In vitro-generated neural precursors participate in mammalian brain development. Proc
+Natl Acad Sci U S A, 94, 14809-14.
+5. Campbell, K.H., McWhir, J., Ritchie, W.A. and Wilmut, I. (1996) Sheep cloned by
+nuclear transfer from a cultured cell line. Nature, 380, 64-6.
+6. Cibelli, J.B., Stice, S.L., Golueke, P.J., Kane, J.J., Jerry, J., Blackwell, C., Ponce de Leon,
+F.A. and Robl, J.M. (1998) Cloned transgenic calves produced from nonquiescent fetal
+fibroblasts. Science, 280, 1256-8.
+7. Cibelli, J.B., Stice, S.L., Golueke, P.J., Kane, J.J., Jerry, J., Blackwell, C., Ponce de Leon,
+F.A. and Robl, J.M. (1998) Transgenic bovine chimeric offspring produced from somatic
+cell-derived stem-like cells. Nat Biotechnol, 16, 642-6. 
+- 18 -
+8. Deacon, T., Dinsmore, J., Costantini, L.C., Ratliff, J. and Isacson, O. (1998) Blastulastage stem cells can differentiate into dopaminergic and serotonergic neurons after
+transplantation. Exp Neurol, 149, 28-41.
+9. Dominko, T., Mitalipova, M., Haley, B., Beyhan, Z., Memili, E., McKusick, B. and First,
+N.L. (1999) Bovine oocyte cytoplasm supports development of embryos produced by
+nuclear transfer of somatic cell nuclei from various mammalian species. Biol Reprod, 60,
+1496-502.
+10. Flax, J.D., Aurora, S., Yang, C., Simonin, C., Wills, A.M., Billinghurst, L.L., Jendoubi,
+M., Sidman, R.L., Wolfe, J.H., Kim, S.U. and Snyder, E.Y. (1998) Engraftable human
+neural stem cells respond to developmental cues, replace neurons, and express foreign
+genes. Nat Biotechnol, 16, 1033-9.
+11. Geber, S. and Sampaio, M. (1999) Blastomere development after embryo biopsy: a new
+model to predict embryo development and to select for transfer. Hum Reprod, 14, 782-6.
+12. Grifo, J., New York University, work presented at the Annual meeting of the American
+Society for Reproductive Medicine, October 1998.
+13. Hole, N., Graham, G.J., Menzel, U. and Ansell, J.D. (1996) A limited temporal window
+for the derivation of multilineage repopulating hematopoietic progenitors during
+embryonal stem cell differentiation in vitro. Blood, 88, 1266-76.
+14. Hottois, G. (1998) Is cloning the absolute evil. Human Reproduction Update, 4, 787-790.
+15. Kato, Y., Tani, T., Sotomaru, Y., Kurokawa, K., Kato, J., Doguchi, H., Yasue, H. and
+Tsunoda, Y. (1998) Eight calves cloned from somatic cells of a single adult. Science, 282,
+2095-8.
+16. Kikyo, N. and Wolffe, A.P. (2000) Reprogramming nuclei: insights from cloning, nuclear
+transfer and heterokaryons. J Cell Sci, 113, 11-20.
+17. Kipling, D. and Faragher, R.G. (1999) Telomeres. Ageing hard or hardly ageing? [news].
+Nature, 398, 191, 193.
+18. Klug, M.G., Soonpaa, M.H., Koh, G.Y. and Field, L.J. (1996) Genetically selected
+cardiomyocytes from differentiating embronic stem cells form stable intracardiac grafts. J
+Clin Invest, 98, 216-24.
+19. Jones, D. (1997)
+20. Lanza, R.P., Cibelli, J.B. and West, M.D. (1999) Human therapeutic cloning. Nat Med, 5,
+975-7.
+21. Lanza, R.P., Cibelli, J.B. and West, M.D. (1999) Prospects for the use of nuclear transfer
+in human transplantation. Nat Biotechnol, 17, 1171-4.
+22. Lewis, I.M., Peura, T.T. and Trounson, A.O. (1998) Large-scale applications of cloning
+technologies for agriculture: an industry perspective. Reprod Fertil Dev, 10, 677-81.
+23. Li, M., Pevny, L., Lovell-Badge, R. and Smith, A. (1998) Generation of purified neural
+precursors from embryonic stem cells by lineage selection. Curr Biol, 8, 971-4.
+24. McDonald, J.W., Liu, X.Z., Qu, Y., Liu, S., Mickey, S.K., Turetsky, D., Gottlieb, D.I. and
+Choi, D.W. (1999) Transplanted embryonic stem cells survive, differentiate and promote
+recovery in injured rat spinal cord. Nat Med, 5, 1410-2.
+25. Meng, L., Ely, J.J., Stouffer, R.L. and Wolf, D.P. (1997) Rhesus monkeys produced by
+nuclear transfer. Biol Reprod, 57, 454-9. 
+- 19 -
+26. Pera, M.F., Reubinoff, B. and Trounson, A. (2000) Human embryonic stem cells. J Cell
+Sci, 113, 5-10.
+27. Prather, R.S., Barnes, F.L., Sims, M.M., Robl, J.M., Eyestone, W.H. and First, N.L.
+(1987) Nuclear transplantation in the bovine embryo: assessment of donor nuclei and
+recipient oocyte. Biol Reprod, 37, 859-66.
+28. Reubinoff BE, Pera, MF, Fong CY, Trounson A and Bongso A. (2000) Embryonic stem
+cell lines from human blastocysts: somatic differentiation in vitro. Nature Biotechnology
+18, 399-405.
+29. Revel R (2000) Ongoing research on mammalian cloning and embryo stem cell
+technologies: Bioethics of their potential medical applications. Israel Medical Association
+Journal (IMAJ) 2, July 2000 supplement, pp 8-14.
+30. Revel, M. (1998) An outright, upfront condemnation of cloning research is premature.
+The Scientist, 12, p38 (and see Cahier du Comite Consultatif National d’Ethique, October
+1997).
+31. Rossant, J. and Nagy, A. (1999) In search of the tabula rasa of human cells [news]. Nat
+Biotechnol, 17, 23-4.
+32. Schuldiner M, Yanuka O, Itskovich-Eldor J, Melton DA and Benvenisty N. (2000) Effects
+of eight growth factors on the differentiation of cells derived from human embryonic stem
+cells. Proc. Natl. Acad. Sci.USA 97, 11307-12.
+33. Shamblott, M.J., Axelman, J., Wang, S., Bugg, E.M., Littlefield, J.W., Donovan, P.J.,
+Blumenthal, P.D., Huggins, G.R. and Gearhart, J.D. (1998) Derivation of pluripotent stem
+cells from cultured human primordial germ cells [published erratum appears in Proc Natl
+Acad Sci U S A 1999 Feb 2;96(3):1162]. Proc Natl Acad Sci U S A, 95, 13726-31.
+34. Shiels, P.G., Kind, A.J., Campbell, K.H., Waddington, D., Wilmut, I., Colman, A. and
+Schnieke, A.E. (1999) Analysis of telomere lengths in cloned sheep [letter]. Nature, 399,
+316-7.
+35. Solter, D. and Gearhart, J. (1999) Putting stem cells to work. Science, 283, 1468-70.
+36. Thomson, J.A., Itskovitz-Eldor, J., Shapiro, S.S., Waknitz, M.A., Swiergiel, J.J., Marshall,
+V.S. and Jones, J.M. (1998) Embryonic stem cell lines derived from human blastocysts
+[published erratum appears in Science 1998 Dec 4; 282(5395):1827]. Science, 282, 1145-
+7.
+37. Trounson, A., Lacham-Kaplan, O., Diamente, M. and Gougoulidis, T. (1998)
+Reprogramming cattle somatic cells by isolated nuclear injection. Reprod Fertil Dev, 10,
+645-50.
+38. Tsunoda, Y., Yasui, T., Shioda, Y., Nakamura, K., Uchida, T. and Sugie, T. (1987) Fullterm development of mouse blastomere nuclei transplanted into enucleated two-cell
+embryos. J Exp Zool, 242, 147-51.
+39. Vogel, G. (1999) Harnessing the power of stem cells [news]. Science, 283, 1432-4.
+40. Wakayama, T. and Yanagimachi, R. (1999) Cloning of male mice from adult tail-tip cells
+[news]. Nat Genet, 22, 127-8.
+41. Wakayama, T. and Yanagimachi, R. (1999) Cloning the laboratory mouse. Semin Cell
+Dev Biol, 10, 253-8. 
+- 20 -
+42. Wakayama, T., Perry, A.C., Zuccotti, M., Johnson, K.R. and Yanagimachi, R. (1998)
+Full-term development of mice from enucleated oocytes injected with cumulus cell nuclei.
+Nature, 394, 369-74.
+43. Wakayama, T., Rodriguez, I., Perry, A.C., Yanagimachi, R. and Mombaerts, P. (1999)
+Mice cloned from embryonic stem cells. Proc Natl Acad Sci U S A, 96, 14984-9.
+44. Ward, K.A. and Brown, B.W. (1998) The production of transgenic domestic livestock:
+successes, failures and the need for nuclear transfer. Reprod Fertil Dev, 10, 659-65.
+45. Wilmut, I., Schnieke, A.E., McWhir, J., Kind, A.J. and Campbell, K.H. (1997) Viable
+offspring derived from fetal and adult mammalian cells [published erratum appears in
+Nature 1997 Mar 13;386, 200]. Nature, 385, 810-3.
+46. Wolf, D.P., Meng, L., Ouhibi, N. and Zelinski-Wooten, M. (1999) Nuclear transfer in the
+rhesus monkey: practical and basic implications. Biol Reprod, 60, 199-204.
+47. Zawada, W.M., Cibelli, J.B., Choi, P.K., Clarkson, E.D., Golueke, P.J., Witta, S.E., Bell,
+K.P., Kane, J., Ponce de Leon, F.A., Jerry, D.J., Robl, J.M., Freed, C.R. and Stice, S.L.
+(1998) Somatic cell cloned transgenic bovine neurons for transplantation in parkinsonian
+rats. Nat Med, 4, 569-74.
+Internet Web Sites:
+http://www.aaas.org/spp/dspp/sfrl/projects/stem
+/main.htm
+AAAS - Institute for Civil Society, Report
+http://bioethics.gov/cgi-bin/bioeth_counter.pl United States of America, National
+Bioethics Advisory Commission
+http://www.ccne-ethique.org/ France, National Consultative Bioethics
+Committee
+http://conventions.coe.int/ Council of Europe, Treaty Office
+http://www.europa.eu.int/comm/secretariat_gen
+eral/sgc/ethics/en/index.htm
+European Union, European Group on
+Ethics in Science and New Technologies to
+the European Commission
+http://www.europarl.eu.int European Union, European Parliament
+http://www.humgen.umontreal.ca/intro.htm HUMGEN, Research Center in Public Law,
+Montreal University, Canada
+http://www.nih.gov/sigs/bioethics/ United States of America, National
+Institutes of Health, Bioethics Resources
+http://www.nuffield.org/bioethics/index.html United Kingdom, Nuffield Council on
+Bioethics
+http://www.oas.org/ Organization of American States
+http://www.oau-oua.org/ Organization of African Unity
+http://www.palazzochigi.it/bioetica/ Italy, National Bioethics Committee
+http://www.senate.be Belgium, Senate
+http://ue.eu.int/df/default.asp?lang=en European Union, Council of the European
+Union, Fundamental rights
+http://www.unhchr.ch/french/html/intlinst.htm United Nations, High Commissioner for
+Human Rights, International Human Rights
+Instruments 
+ANNEX
+Distribution: limited
+COMPOSITION OF
+THE WORKING GROUP OF THE IBC ON
+THE ETHICAL ASPECTS OF EMBRYONIC STEM CELL RESEARCH
+Chairperson
+ZAREMBA Prof. (Mr) Jacek Stanislaw (Poland)
+Professor, Head of Department of Genetics, Institute of Psychiatry and Neurology
+Rapporteurs
+MCCALL SMITH Prof. (Mr) Alexander (United Kingdom)
+Professor of Medical Law
+Vice-Chairman of the Human Genetics Commission of the United Kingdom
+Chairman, Ethics Committee, British Medical Journal
+REVEL Prof. (Mr) Michel (Israel)
+Professor of Molecular Genetics, Weizmann Institute of Science
+Israeli Prize for Medicine (1999)
+Chief Scientist, Interpharm
+President of the National Committee for Biotechnology
+Members
+ANDORNO Dr (Mr) Roberto Luis (Argentina)
+Professor of Civil Law
+FOX Prof. (Mr) Maurice (United States of America)
+Lester Wolfe Professor of Molecular Biology
+Member of the National Academy of Science
+GALJAARD Prof. (Mr) Hans (The Netherlands)
+Professor of Human Genetics
+Head of the Department of Clinical Genetics, University Hospital Rotterdam
+GROS ESPIELL Prof. (Mr) Héctor (Uruguay)
+Professor of International Law
+Chairperson of the UNESCO Consultative Committee on the Teaching of Human Rights,
+ Culture of Peace, Tolerance and Democracy
+Former Ambassador of Uruguay in France and to UNESCO
+Former Minister of Foreign Affairs of Uruguay
+Former President of the Inter-American Court of Human Rights
+- 2 -
+GUESSOUS-IDRISSI Dr (Mrs) Nouzha (Maroc / Morocco)
+Professor and Head of Parasitology-Mycology Laboratory,
+ Faculty of Medicine and Pharmacy of Casablanca
+Founding Member of the Moroccan Organization of Human Rights
+HAMDAN Dr (Mr) Mohammad (Jordan)
+Rector of the Arab Open University, Riyadh, Saudi Arabia
+Vice-Chairperson of the Jordanian National Bioethics Committee
+Former President of the Hashemite University
+Former Minister of Education and Higher Education
+IDA Prof. (Mr) Ryuichi (Japan)
+Professor of International Law
+Rapporteur of the Committee of Regional Economic Development Law
+ of the International Law Association
+JEAN (Mrs) Michèle (Canada)
+Adviser in programme development, Faculty of Higher Education, University of Montreal
+Former Special Adviser to the Minister of Foreign Affairs of Canada
+ to the European Commission
+Former Vice-Minister of Health
+KIRBY Justice (Mr) Michael (Australia)
+Justice of the High Court of Australia
+Former President of the Courts of Appeal of New South Wales and Solomon Islands
+Former President of the International Commission of Jurists
+Former Chairperson of the Ethics Committee, the Human Genome Organization (HUGO)
+NOMBELA Prof. (Mr) D. César (Spain)
+Professor at the Faculty of Pharmacy, Universidad Complutense de Madrid
+Former President of the Consejo Superior de Investigaciones Científicas
+Former President of the Federation of European Microbiology Societies
+QUESTIAUX (Mrs) Nicole (France)
+Honorary Chairperson of Section of the State Council
+Vice-President of the National Consultative Ethics Committee for Health and Life Sciences
+Chairperson of the Permanent European Conference of National Ethics Committees
+Former Minister of Social Affairs
+ROUCOUNAS Prof. (Mr) Emmanuel (Greece)
+Professor of International Law
+Chairman, National Commission of Patients’ Rights
+Member of the Academy of Athens
+Member of the Institute of International Law, Geneva
+Former member of the United Nations International Law Commission
+TADJUDIN Prof. (Mr) Muhammad Kamil (Indonesia)
+Professor of Biology
+President of the National Accreditation Board of Higher Education
+Former Rector of the University of Indonesia
+YANG Prof. (Mr) Huanming (China)
+Professor of Genetics
+Director of the Human Genome Center, Chinese Academy of Sciences
+Secretary General of the Chinese Human Genome Project

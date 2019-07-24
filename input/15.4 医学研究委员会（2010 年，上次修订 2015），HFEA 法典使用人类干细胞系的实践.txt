@@ -1,0 +1,1790 @@
+Document3\16/04/10Teladia  Page 1
+April 2010
+Code of Practice
+for the use of
+Human Stem Cell
+Lines
+CODE OF PRACTICE FOR THE USE OF HUMAN STEM CELL LINES
+VERSION 5 (April 2010) Page 2 of 45
+Foreword 
+This Code provides guidance on best practice for those working with stem cell lines 
+and  specifies  oversight  mechanisms for  research  involving  human  embryonic  stem 
+cell lines. It also sets out the requirements for the activities of the UK Stem Cell Bank
+in  relation to  procuring, storing  and distributing  human  stem cell lines  in  order to 
+support  research that  will help improve understanding  of  human  development and 
+disease and aid the generation of strategies to treat serious disease. 
+The UK  Stem  Cell Bank was  established in  2003 in  response to  Government
+recommendations to facilitate the sharing and use of quality controlled human stem 
+cell lines by  the clinical and  research  communities.  The Bank is  overseen  by  an 
+independent Steering Committee (the Steering Committee for the UK Stem Cell Bank
+and for the Use of Stem Cell Lines – hereafter called the Steering Committee), which 
+has developed this Code of Practice to explain the role of the Steering Committee and
+to provide guidance and assistance on best practice to those working with stem cell
+lines. 
+In the UK, research  involving  human  embryos,  including the generation  of  human 
+embryonic stem cell lines, is under statutory control by the Human Fertilisation and 
+Embryology Authority (HFEA). Embryonic stem  cell lines  once established are not 
+embryos and the Government has passed legislation that establishes that  research 
+involving such cell lines does not need the same level of regulation to which embryo 
+research is subject to by the HFEA.  However, as the generation of embryonic stem 
+cell lines  involves  the destruction  of  human  embryos, oversight  in  the form of  a
+Steering Committee was  recommended to ensure that  research is conducted within 
+an ethical framework that is transparent to the public and is in keeping  with HFEA
+regulations.  The oversight  mechanisms governing  research  involving  established
+human embryonic stem cell lines and this Code of Practice are voluntary.  However,  adherence is a HFEA licensing requirement in the UK and there is an expectation by 
+Government that they are adhered to. In addition scientists have a desire for there to 
+be ethical oversight  of  all work  involving human  embryonic  stem cells.  Other
+pluripotent stem cell lines, whether fetal, adult or those generated through induced 
+pluripotency,  are not  subject to the same  level of  oversight  by  the Steering 
+Committee, although the ethical considerations in relation to their derivation and use
+are covered within this Code of Practice. 
+This  Code of  Practice should be regarded as  an evolving  document which  will be
+revised and  updated in  line with  both  practice and  the requirements  arising  from
+relevant UK and EU legislation such as the Human Tissue Act and the EU Tissue and 
+Cells Directive. 
+Comments on this document are welcomed and should be forwarded to:
+stemcellsecretary@headoffice.mrc.ac.uk.
+CODE OF PRACTICE FOR THE USE OF HUMAN STEM CELL LINES
+VERSION 5 (April 2010) Page 3 of 45
+Contents Page
+1. Purpose of the Code of Practice 6
+2. Definition of Stem Cells  6 
+2.1  Stem cells  6 
+2.1.1  Embryonic Stem Cells  6 
+2.1.2  Embryonic Germ Cells  7 
+2.1.3  Somatic Stem Cells  7 
+2.1.4  Induced Pluripotent Stem Cells  8 
+2.1.5  The relationship between embryonic stem cells and other stem cells  8 
+2.2  Stem Cell Lines  8 
+2.3  The relationship of the Code of Practice to different types of stem cell 9
+3. Legislation governing the establishment and use of human stem
+cell lines 
+9 
+3.1  The Human Tissue Act (2004)  9 
+3.2  The European Union Tissue and Cells Directives  10
+3.3  The Human Fertilisation and Embryology (HFE) Act (1990, 2001 and 
+2008) 
+10
+3.4  Medicines for Human Use (Clinical trials) Regulations 2004  12
+3.5  EC Regulation on Advanced Therapy Medicinal Products 2007 12
+3.6  Clinical trials involving the use of human stem cell lines – the role of
+the Gene Therapy Advisory Committee (GTAC) 
+12
+3.7  Overview of regulatory requirements  13
+4. The UK Stem Cell Bank and its Principles of Operation  13
+4.1  Ethical Principles  14
+4.2  Quality Assurance 15
+4.2.1  The UK Stem Cell Bank Quality Management System  15
+4.2.2  Role of Staff and External Advisors  16
+4.2.3  Facilities and Procedures  17
+4.3  Operation of the Stem Cell Bank 17
+4.3.1  Deposit of Stem Cell Lines  17
+4.3.2  Banking of Stem Cell Lines  18
+4.3.3  Qualification and Testing of Stem Cell Lines  18
+4.3.4  Storage and Distribution of Stem Cell Lines  19
+4.3.5  Recall and Disposal of Stem Cell Lines  19
+4.3.6  Inventory of Stem Cell Lines  20
+4.3.7  Assessment of Risk and Contingency Planning 20
+4.3.8  Health and Safety 21
+CODE OF PRACTICE FOR THE USE OF HUMAN STEM CELL LINES
+VERSION 5 (April 2010) Page 4 of 45
+5. Governance of research involving established human embryonic 
+stem cell lines 
+21
+5.1  Steering Committee for the UK Stem Cell Bank and for the Use of Stem 
+Cell Lines 
+21
+5.2  UK Stem Cell Bank Management Committee 22
+5.3  Audit  22
+5.4  Annual Reports  22
+5.5  Engagement with the Stem Cell Community and the Public  22
+6. Deposit and Withdrawal of Stem Cell Lines  from the UK Stem
+Cell Bank 
+23
+6.1  Depositing Stem Cell Lines in the UK Stem Cell Bank 24
+6.2  Examples of stem cell lines that can be deposited in the UK Stem Cell
+Bank
+25
+6.3  Curation Policy  25
+6.4  Accessing Stem Cell Lines from the UK Stem Cell Bank 26
+6.5  Clinical Grade Cell Lines for Research Purposes  27
+6.6  Charges levied by the UK Stem Cell Bank 27
+6.7  Liability 28
+7. Accessing stem cell lines from the UK Stem Cell Bank and using 
+human embryonic stem cell lines from sources other than the
+UK Stem Cell Bank 
+29
+7.1  General principles  29
+7.1.1  Research Projects in which human embryonic stem cell lines may be
+used
+29
+7.1.2  Peer Review 29
+7.1.3  Research Ethics Committee approval 29
+7.2  Using human embryonic Stem Cell lines from sources other than the
+UK Stem Cell Bank
+30
+7.2.1  UK Stem Cell Registry  30
+7.3  Export of stem cell lines  31
+8. Application Procedure 31
+9. Donor Consent  32
+9.1  Donor Consent for the use of embryos in research  32
+9.2  Deriving stem cells from non­embryonic tissues  32
+9.2.1  Fetal Tissue 32
+9.2.2  Tissues used to create human admixed embryos  32
+9.2.3  Tissues used to create induced pluripotent stem cells  34
+10. Derivation and Use of Stem Cell Lines  35
+10.1  Quality and safety standards in fundamental stem cell research  35
+CODE OF PRACTICE FOR THE USE OF HUMAN STEM CELL LINES
+VERSION 5 (April 2010) Page 5 of 45
+10.2  Regulation governing the derivation and processing of clinical grade
+stem cell lines 
+35
+11. Intellectual property  36
+11.1  Patentability of stem cells  36
+11.2  Intellectual property generated by the UK Stem Cell Bank 37
+12. Glossary of Terms  38
+13. Full Website Links  44
+VERSION 5 (April 2010) Page 6 of 45
+1.  Purpose of the Code of Practice 
+This Code was drawn up by the Steering Committee for the UK Stem Cell Bank
+and for the Use of Stem Cell Lines and benefited from input by a wide range of 
+stakeholders.  It provides guidance on best practice for those working with stem 
+cell lines  and  specifies  oversight  mechanisms for  research involving  human 
+embryonic stem cell lines. The Code should provide confidence and reassurance
+to  professionals  and the public  alike that  stem  cell research  in  the UK  is 
+performed  to  best  practice and is  conducted within  a transparent  and  ethical
+framework.  The main emphasis of the Code is on human embryonic stem cell
+lines. However,  references to stem cell lines derived from other human tissues 
+are included as the UK Stem Cell Bank will curate and distribute human cell lines 
+from all sources.  For ease of  reference text referring  specifically to  embryonic 
+stem cells has been italicised. 
+This Code also sets out the requirements for the activities of the UK Stem Cell
+Bank in  relation to procuring, processing, testing  and  storing human  stem cell
+lines,  and  providing  those for  basic  and  clinical research  leading  to the
+development of therapeutic interventions. These principles, outlined in section 4,  will ensure that the UK Stem Cell Bank operates within a transparent, regulated
+and ethical framework.
+2.  Definition of stem cells
+2.1  Stem cells 
+Stem  cells have the capacity to divide to generate "daughter" cells that  retain 
+the properties  of  the stem  cell,  or to  produce daughters  that  begin  to 
+"differentiate" into a more specialised cell type, or to produce one daughter cell
+of  each  type. Stem  cells  are thus  central to  normal human growth  and 
+development, and are also a potential source of new cells for the regeneration of 
+diseased or damaged tissue.  Stem  cells  are present  at  all stages  of 
+development, and in many (possibly most) tissues of the adult. At present, stem 
+cells are impossible to identify by their physical characteristics alone, although 
+they can be enriched in a population of cells. Stem cells from different tissues, 
+and  from different  stages  of  development,  vary  in  terms  of  the number and 
+types of cells to which they normally give rise.  For the purposes of this Code of 
+Practice,  the Steering  Committee has  defined four  classes  of stem  cells: 
+embryonic  stem  cells,  somatic  stem  cells,  embryonic  germ  cells  and  induced 
+pluripotent stem cells (see below).
+Until it  is  known  which  stem cells  have the greatest  potential in  terms  of 
+developing human therapies, the Steering Committee endorses  research on all
+types of stem cells.
+2.1.1 Embryonic Stem Cells 
+At the earliest stages after fertilisation (up to about the eight cell stage) all the
+cells of the embryo are "totipotent" (i.e. they have the capacity to develop into
+CODE OF PRACTICE FOR THE USE OF HUMAN STEM CELL LINES
+VERSION 5 (April 2010) Page 7 of 45
+every type of cell needed for full development, including extra­embryonic tissues 
+such as the placenta and umbilical cord). After about five days the blastocyst 
+stage is  reached.  Within  this  ball of  50 to  100  cells lies the inner cell mass,  which will develop into the embryo proper. The inner cell mass comprises about 
+a quarter of the cells at this stage of development and a unique class of stem 
+cells,  referred to  as  embryonic  stem (ES)  cells, can be derived from it.  Embryonic  stem  cells  derived from the mouse have the innate capacity
+("potential") to differentiate into each of the 200 or so cell types which make up 
+the body, and are described as "pluripotent" (see also glossary of terms).  The
+capacity of  human  embryonic  stem  cells  to  contribute to  all tissue types  in 
+development has not yet been fully established, though this potential has been 
+demonstrated in “teratoma assays” whereby such cells can give rise to multiple
+tissue types after transplantation into mice. Both human and mouse embryonic 
+stem cells can, to the best of our knowledge, be grown over long periods of time 
+in culture and expanded in number without changing their cellular phenotypes or 
+genotypes.  In the case of mouse stem cells they  are also known to  maintain 
+their pluripotent state under these culture conditions.
+2.1.2 Embryonic Germ Cells 
+In  mammals,  egg and  sperm  cells  (gametes)  are derived from  a founder
+population of primordial germ cells set aside early in embryogenesis. Embryonic 
+germ cells are a special class of stem cells that can be derived from primordial
+germ cells, and in mice such cells have been shown to be pluripotent. However,  the situation for human embryonic germ cells is not yet clear. Other germ­line
+stem  cells, notably spermatogonia,  can also be derived from  children or adults 
+and maintained in culture. While these stem cells are usually "unipotent", in that 
+they would naturally only give rise to sperm, it has been found that these too 
+can  be manipulated in the laboratory to provide a subpopulation  of  cells that 
+demonstrate aspects  of  pluripotency.  These cells  may  be equivalent  to 
+embryonic germ cell lines, but are likely to have lost their genetic imprinting.
+2.1.3 Somatic Stem Cells 
+As  development proceeds  beyond the blastocyst, stem cells  comprise a
+progressively decreasing proportion of cells in the embryo, fetus and body after
+birth. However, many, if not most tissues in the fetus and human body contain 
+stem cells which, in their normal location, have the potential to differentiate into 
+a limited number of specific cell types in order to regenerate the tissue in which 
+they normally  reside.  These stem  cells are described as  "multipotent".  Extra­  embryonic tissues  such as the placenta, amniotic fluid and umbilical cord also 
+contain stem cells with the same genetic makeup as the cells of the embryo, and
+under special laboratory  conditions  these cells  can  demonstrate a broader
+potential to  differentiate,  although  whether these truly  represent  pluripotent 
+cells remains controversial. 
+Increasingly common is the use of mesenchymal stem/stromal cells (MSC’s) for 
+regenerative medicine.  MSC’s are ubiquitously distributed in the body, but are
+usually  harvested from either the bone marrow or adipose tissue.  They 
+classically  show adipogenic,  chondrogenic  and  osteogenic  differentiation 
+potential in line with  their normal developmental role,  but  may  elicit subtle
+CODE OF PRACTICE FOR THE USE OF HUMAN STEM CELL LINES
+VERSION 5 (April 2010) Page 8 of 45
+beneficial effects in many healing tissues through the release of paracrine­acting 
+growth factors.
+2.1.4 Induced Pluripotent Stem Cells 
+Induced pluripotent stem (iPS) cells are a type of pluripotent stem cell derived
+from a non­pluripotent cell, for example fully differentiated cells from adult skin. 
+It has  been  established that  numerous  different  cell types  can  be used to 
+produce iPS  cells,  which are believed to be like embryonic  stem  cells in many
+respects.  For example they  express  certain  “stem  cell”  genes  and  show the
+same ability to  differentiate; they  can  also form teratomas in  mice (a tumour
+made of multiple tissue types). iPS  cells  were first produced in mouse cells in 
+2006 by  introducing  retroviruses  containing key  genes  whose expression  was 
+known to give rise to pluripotency in embryonic stem  cells. This approach was 
+successfully  repeated in  human cells  in  2007.  Many different techniques  have
+now been  used to  produce iPS  cells,  including  the introduction  of exogenous 
+genes on non­integrating viral vectors and plasmids, and use of small molecules 
+that  can  substitute for the products  of  “stem  cell”  genes.  The reprogramming 
+factors used to generate iPS cells may vary and the absolute requirements are
+not yet fully understood. 
+The full extent of iPS cells’ relationship to natural pluripotent stem cells such as 
+embryonic stem cells is still being assessed. Nevertheless, the discovery of iPS
+cells provides a route to obtain pluripotent stem cells from patients to develop
+cell­based models of disease and future therapeutic options.
+2.1.5 The relationship  between  embryonic  stem cells  and  other  stem cells 
+derived from embryonic or fetal tissue.
+Embryonic stem cells are a very specific class of stem cell which can be derived
+from the blastocyst and are considered to be pluripotent. Confusingly, stem cells 
+derived from the early embryo after the blastocyst stage and from the fetus are
+sometimes also referred to as ‘embryonic’ stem cells in the literature; however,  such  cells  are not  known  to  be pluripotent  and  (along with  extra­embryonic 
+stem cells) are more akin to adult stem cells which have a more restricted ability
+to  differentiate into  different  cell types.  They  are therefore referred to  in this 
+Code of Practice as “somatic” stem cells.
+2.2  Stem cell lines 
+A stem  cell line comprises cells that can be expanded for prolonged periods in 
+appropriate culture  conditions  without any change in  genotype or phenotype.  Embryonic stem cells can be maintained in this way, and a "normal, diploid" cell
+line would not include cells which have been immortalised following any acquired
+or induced  alteration  in  genotype,  such as those routinely  used in  biomedical
+research. Stem  cells can also be derived from many adult tissues, although in 
+the vast majority of cases it has not proved possible to maintain them as stem 
+cell lines in the laboratory. However, in some instances genetic manipulation has 
+been  used to  “conditionally” immortalise adult  stem  cells to  allow them to  be
+maintained as (clonally­derived) cell lines; the immortalisation gene can then be
+inactivated to allow the stem cells to differentiate.
+CODE OF PRACTICE FOR THE USE OF HUMAN STEM CELL LINES
+VERSION 5 (April 2010) Page 9 of 45
+Importantly, phenotypically indistinguishable stem cell lines might have different 
+differentiation  capacities; the basis  for this  is  not  yet  understood.  Ideally  cell
+lines should be clonal, that is derived from a single cell.  In practice, however,  this criterion cannot always be satisfied.
+2.3  The relationship of the Code of Practice to different types of stem cell
+This  Code applies  to  all research involving established human  embryonic  stem 
+(ES) cell lines, since their generation involves the destruction of human embryos.
+Other pluripotent  stem  cell lines,  whether fetal,  somatic  or those generated
+through induced pluripotency, fall outside this Code of Practice, although ethical
+considerations remain in relation to their derivation and use. For example, these
+cells may  be used extensively in research  resulting  in  a lot  of information 
+becoming available about the cells, and potentially about the person from whom 
+they were derived. If the cells were eventually used in therapy the donor’s genetic 
+make up could be transplanted into potentially thousands of people. Researchers 
+working  with these cells  should therefore  consider that  many of the issues  and 
+regulations that apply for ES cells have relevance (for more detail see sections 3 
+and 9.2). 
+Similarly, the requirement to deposit human stem cell lines in the UK Stem cell
+Bank only applies to ES cells, as required under HFEA licence. There is no such 
+requirement to deposit iPS cells, fetal or somatic stem  cell lines within the UK 
+Stem Cell Bank,  although the Steering Committee will consider applications to 
+bank such lines  where these are likely  to  provide a valuable resource for
+research (see Section 6).
+3.  Legislation governing  the  establishment  and  use  of  human stem 
+cell lines
+3.1  The Human Tissue Act (2004) ­ (See page 44 for full web link)
+The removal, storage and use of human material (organs, tissues  and 
+cells) in England, Wales and Northern Ireland is governed by the Human 
+Tissue Act  (2004) (HT Act). In  Scotland, the Human Tissue (Scotland) 
+Act  2006  applies,  in addition to certain sections of the  2004 Act,
+including those relating to storage of tissue for DNA analysis.
+The HT Act makes  donor consent  a fundamental principle underpinning  the
+lawful storage and use of human material and makes it an offence to use tissue
+for  certain  purposes  without appropriate consent.  It  also  provides  for  the
+establishment of the Human Tissue Authority (HTA), which holds  responsibility
+for  licensing  activities  within  its  remit,  and  issues  codes  of  practice giving 
+practical guidance on  the conduct  of  these activities.  In  Scotland  the basic 
+approach  is  consistent but  the legislation  only  applies to  tissue from the
+deceased and the HTA does not licence premises or activities in relation to the
+HT Act.
+CODE OF PRACTICE FOR THE USE OF HUMAN STEM CELL LINES
+VERSION 5 (April 2010) Page 10 of 45
+The Human Tissue Act  2004 applies  to  any material from  a human  body 
+consisting of, or including human cells, with exception of hair and nail of a living 
+person, and gametes  and embryos, which  are separately  regulated by the
+Human Fertilisation and Embryology Act 1990). Established cell lines as well as 
+any other human material created outside the human body are excluded from
+the Act. However, it should be noted that cell lines that are intended for use in 
+human application are regulated under the Human Tissue (Quality and Safety for
+Human Application) Regulations 2007. 
+Human tissue that is stored with the intention of deriving iPS cells for research 
+needs  to  be stored under an  HTA research  licence and  the relevant  consent 
+requirements complied with. These are discussed further in section 9.2.3. Once
+an iPSC line has been derived it falls outside of the remit of the HT Act.
+3.2  The European Union Tissue and Cells Directives and The Human Tissue
+(Quality and Safety for Human Application) Regulations 2007 ­ (See page
+44 for full web link) 
+These Directives  apply  to  tissues  and  cells  (including  cell lines)  for  human 
+application. The Directives  were transposed into UK law via the Human Tissue
+(Quality and Safety for  Human Application) Regulations 2007 and became law
+on  5  July  2007.  Under these Regulations  the Human Tissue Authority is 
+responsible for regulating establishments across the whole of the UK. It licences 
+and  inspects  establishments  involved in the procurement,  testing, processing,
+storage,  distribution  and import/export of tissues  or cells  for  use in  human 
+application.
+3.3  The Human Fertilisation and Embryology  (HFE)  Act  (1990, 2001 and 
+2008) ­ (See page 44 for full web link) 
+The special regulations which govern the creation and use of human embryonic 
+stem  cells  reflect the fact that the human embryo has a special moral status.  The position adopted by Parliament in this legislation is that the embryo, unlike
+an  infant,  does  not have the full rights of  a person.  However,  its  human 
+potential gives it an intrinsic value which implies that neither its creation nor its 
+destruction  are to  be treated casually.  Regulation  of  research  on  human 
+embryos in the UK is governed by the Human Fertilisation and Embryology Act 
+1990,  which  was amended in 2001 to accommodate advances in human  stem 
+cell research, and further revised in 2008. 
+The Human Fertilisation  and  Embryology Authority (HFEA)  was  established
+under the HFE  Act 1991.  This  HFEA subjects  all embryo research  in  both the
+private and public sector to a robust system of case­by­case review before any
+license to permit research is issued. No research is allowed on embryos over 14
+days old.  At the time  of the 1991 Act,  embryo research  was restricted to the
+study  of  infertility,  miscarriage and congenital disease.  In  2000,  the Chief
+Medical Officer published Stem  Cell Research:  Medical Progress  with 
+Responsibility, to  take account  of  contemporary  developments  in  embryonic 
+stem cell research. Following this report and widespread debate in both houses 
+of  Parliament,  the HFE  legislation  was  amended in  2001 to  allow the use of
+CODE OF PRACTICE FOR THE USE OF HUMAN STEM CELL LINES
+VERSION 5 (April 2010) Page 11 of 45
+embryos  for  stem  cell research.  The HFEA can  license the derivation  of  stem 
+cells from embryos that are: (i) surplus to IVF requirements, or (ii) created by 
+IVF specifically for  research purposes, or (iii) created by therapeutic cloning or
+somatic cell nuclear transfer (SCNT).
+Further amendments  were introduced in the HFE  Act  2008 to  allow for 
+generation and use of defined categories of interspecies embryos, referred to as 
+human  admixed embryos  (HAE)  for  research,  subject  to  the same  conditions 
+that apply to human embryos. 
+The categories of HAE authorised in the Act are: 
+a.  ‘Cytoplasmic hybrid’: replacing the nucleus of an animal egg or cell with a
+human nucleus, cell, gamete or two pronuclei,  b.  ‘True hybrid’: created from human and animal gametes or pronuclei, 
+c.  ‘Transgenic human embryo’:  a human  embryo with  animal nuclear or
+mitochondrial DNA inserted into any cell,  d.  ‘Chimeric human embryo’: a human embryo that has been altered by the
+introduction of one or more animal cells, 
+e.  any embryo  not  falling  within (a) to  (d)  which  contains  both  nuclear or
+mitochondrial DNA of  a human  and nuclear or mitochondrial DNA of  an 
+animal (“animal DNA”) but in which the animal DNA is not predominant. 
+The Human  Fertilisation  and  Embryology Authority (HFEA)  is  the regulatory 
+authority empowered to issue licences for research that involves the creation or
+use of human or human admixed embryos. It is an offence to carry out any such 
+research without a licence from the HFEA. A research licence will not be granted
+unless the HFEA is satisfied that any proposed use of human or human admixed
+embryos  is  necessary  for  the research  and that  the research  is  necessary  or
+desirable for the purposes specified in the amended Act, namely: 
+a.  increasing  knowledge about  serious  disease or other serious  medical
+conditions, 
+b.  developing  treatments  for serious  disease or other serious  medical
+conditions, 
+c.  increasing  knowledge about  the causes  of  any congenital disease or
+congenital medical condition that does not fall within paragraph (a),
+d.  promoting advances in the treatment of infertility, 
+e.  increasing knowledge about the causes of miscarriage, 
+f.  developing more effective techniques of contraception, 
+g.  developing methods for detecting the presence of gene, chromosome or
+mitochondrion abnormalities in embryos before implantation, or
+h.  increasing knowledge about the development of embryos. 
+Human or human admixed embryos created for research purposes may not be
+implanted into a woman and must not be kept for longer than 14 days or the
+appearance of the primitive streak, whichever occurs first.
+CODE OF PRACTICE FOR THE USE OF HUMAN STEM CELL LINES
+VERSION 5 (April 2010) Page 12 of 45
+Licences  issued by  the HFEA are subject to  conditions.  Importantly,  HFEA
+licences for projects involving the derivation of human embryonic stem cell lines 
+require licencees to deposit a sample of each cell line generated in the UK Stem 
+Cell Bank.  Licencees  are not  permitted by  the HFEA to  carry  out  secondary 
+research projects on ES cells or to transfer ES cell lines to third parties without
+the approval of the Steering Committee. 
+The HFEA’s regulatory responsibility is for research using human embryos. Stem 
+cells taken from an embryo are no longer the subject of regulation by HFEA with 
+the exception of the requirement to fulfil conditions of the licence as described
+above. The conservation and use of human embryonic stem cells and stem cell
+lines is the responsibility of the Steering Committee (see Section 5).
+The amended Act  makes  it  an  offence,  punishable by  up  to  10 years 
+imprisonment and an unlimited fine on conviction, to implant into a woman an 
+embryo other than  those “permitted”  by  legislation.  In  brief,  “permitted’” 
+embryos are created from human eggs and sperm and have not had alterations 
+to their DNA other than to prevent serious mitochondrial disease.
+3.4  Medicines for Human Use (Clinical Trials) Regulations 2004 ­ (See page
+44 for full web link) 
+Stem­cell (gamete­derived) cell based products that involve the destruction of a
+human  embryo  in  their formulation  are initially  licensed by  the HFEA.  At  the
+point  where the embryo  has  been  destroyed and  cells  are harvested these
+human  cells  would fall under the remit  of  the HTA.  The development of a
+product using these cells is under the remit of the HTA until such time as the
+MHRA classifies the product as an Investigational Medicinal Product (IMP) or the
+product  is  classified as  an  Advanced Therapy  Medicinal Product  (ATMP).  Once
+this  classification  has  been  confirmed  the Manufacture,  Clinical Trial Approval
+and Marketing approval (for IMPs) are under the remit of the MHRA and not the
+HTA. 
+Trials  of  IMPs  in the UK  are authorised and  regulated by  the Medicines and 
+Healthcare products Regulatory Agency (MHRA). Stem cell lines that fall within 
+the EU definition of medicinal product which are used in clinical trials to assess 
+safety or efficacy in humans will be IMPs and such trials must be authorised by 
+the MHRA.
+3.5  EC Regulation on advanced therapy medicinal products 2007 ­ (See page
+44 for full web link) 
+It  is  obligatory  under the Regulation  that  all advanced therapy  medicinal
+products  (ATMPs)  which  may  include  stem  cells  therapies  (regardless  of 
+derivation)  are subject  to  the European  centralised marketing  authorisation 
+procedure which is co­ordinated on behalf of the European Commission by the
+CODE OF PRACTICE FOR THE USE OF HUMAN STEM CELL LINES
+VERSION 5 (April 2010) Page 13 of 45
+European  Medicines  Agency (EMEA).  Such submissions  can be discussed with 
+the MHRA1
+.
+3.6  Clinical trials involving the use of human stem cell lines ­ the role of the
+Gene Therapy Advisory Committee (GTAC) ­ (See page 44 for full web link) 
+GTAC  has  UK­wide responsibility for  the ethical oversight  of  proposals  to 
+conduct clinical trials involving gene therapy or stem cell therapies derived from
+stem  cell lines.  It is  both  a Government Scientific Advisory Committee and  a
+Research  Ethics  Committee formally  recognised in  statute.  Its  terms  of 
+reference are:
+· To consider and advise on the acceptability of proposals for gene therapy 
+research  on  human  subjects,  on  ethical grounds, taking  account  of the
+scientific merits of the proposals and the potential benefits and risks.
+· To consider and advise on the acceptability of proposals for research on 
+human subjects using cells derived from stem cell lines, based on ethical
+grounds, taking account of the scientific merits of the proposals and the
+potential benefits and risks.
+· To provide ethical advice on the use of unlicensed gene therapy and stem 
+cell line derived therapies in humans.
+· To  work  with  other agencies  which  have responsibilities  in  this  field, 
+including  research  ethics  committees,  and  agencies  with  statutory 
+responsibilities  ­  the Medicines  and  Healthcare products  Regulatory 
+Agency,  the Human  Tissue Authority,  the Health  and Safety Executive
+and the Department for Environment Food and Rural Affairs.
+· To  provide advice to  United Kingdom Health  Ministers  on  the above
+matters. 
+Researchers wishing to conduct clinical trials using products derived from stem 
+cell lines  should contact  the GTAC  Secretariat  for  initial discussions  ( 
+gtac@dh.gsi.gov.uk).
+3.7  Overview of regulatory requirements 
+Research involving human stem cells, and in particular the development of stem 
+cell therapies, may involve many regulatory approvals. This is due to the nature
+of  UK  and EU  legislation  by  which  embryos,  cells,  tissue,  clinical trials  and 
+licensing  of  therapies  fall under separate legislation.  An  interactive resource
+explaining all the UK regulatory requirements, information and points of contact 
+within the relevant organisations is provided through the Department of Health 
+/ Medical Research Council (MRC)  “UK Stem Cell Tool Kit” –  (See page 44 for 
+full web link). This  resource allows  researchers  to  build a customised ‘map’ outlining all of the regulatory steps necessary to undertake research involving 
+human  stem cells  and  to translate ideas  for  a new treatment from  the
+laboratory to patients.
+1 http://www.mhra.gov.uk/Howweregulate/Advancedtherapymedicinalproducts/index.htm
+CODE OF PRACTICE FOR THE USE OF HUMAN STEM CELL LINES
+VERSION 5 (April 2010) Page 14 of 45
+4.  The UK Stem Cell Bank and its Principles of Operation 
+The House of Lords Select Committee on Stem Cell Research  recommended in 
+2002 that a national stem cell bank should be established to prepare and store
+stocks of frozen stem cell lines.  The UK Stem Cell Bank was established at the
+National Institute for Biological Standards and Control (NIBSC), a centre for the
+UK  Health  Protection Agency, in  January 2003,  with funding from the Medical
+Research Council (MRC) and the Biotechnology and Biological Sciences Research 
+Council (BBSRC), to store ethically sourced, quality controlled, human stem cell
+lines  from all sources  (adult,  fetal and embryonic)  on  a single site.  The
+preparation of  cryopreserved stocks of a cell line comprising multiple aliquots, 
+each of which can be used to regenerate a culture representative of the original
+cell line. This is a fundamental element of good practice in the management of 
+cell lines  for  laboratory  use and  for  the delivery  of  cells  for  use in clinical
+application or product manufacture (Coecke et al., 2005; UKCCCR, 1999; WHO, 
+1998).
+The UK Stem Cell Bank facilitates the sharing of quality controlled stem cell lines 
+by the clinical and research communities. In so doing supports research that will
+help to  better understand human  development and  disease and  aid the
+development of strategies to treat serious diseases.  It will also reduce the need
+for individual research teams to generate their own stem cell lines, minimise the
+use of  human  tissues,  and  enable different  researchers  to  work  on  identical
+material so that direct comparisons may be made between studies. 
+In order to avoid conflicts of interest, the UK Stem Cell Bank has been located in 
+an independent national institution.  The Bank does not receive or store human 
+embryos;  neither does it conduct  discovery  research  on the banked stem  cell
+lines  nor carry  out research  into  stem  cell biology.  With the approval of the
+Steering  Committee,  the UK  Stem  Cell Bank may  pursue  research  aimed  at 
+improving banking, characterisation, safety testing and preservation of stem cell
+lines  and  it  must  also  obtain  permission  from the MRC and the Steering 
+Committee before applying for any supplementary funding. All staff working for 
+the UK  Stem  Cell Bank are required to  refrain  from activities  that  might 
+represent a conflict of interest with the operation of the UK Stem Cell Bank as an 
+independent organisation  within the stem  cell field and  are required to submit 
+information to the NIBSC register of conflicts of interest. 
+The UK Stem Cell Bank will store and distribute stem cell lines, but ownership of 
+any Intellectual Property embodied in  the these lines  remains  with  the
+originator. To obtain stem cell lines deposited after April 2010 the requestor will
+be required to sign a Research Use Licence which will set out the terms of use
+for that line. Stem cell lines deposited before April 2010 will only be released by 
+the Bank to  requestors  when  an  appropriate agreement or (licence), between 
+the requestor and  the originator,  is  in  place to  cover intellectual property
+aspects of line ownership. 
+Significant  progress  in  stem  cell research  can  only  be made through 
+international collaboration and it has therefore been agreed that the UK Stem 
+Cell Bank can be accessed by researchers from academia and industry in the UK
+CODE OF PRACTICE FOR THE USE OF HUMAN STEM CELL LINES
+VERSION 5 (April 2010) Page 15 of 45
+and abroad.  Overseas researchers have to undergo the same review procedures 
+as researchers in the UK (see Section 7 and 8).
+This section, along with sections 5 & 6, describes the standards of best practice
+that  the UK Stem  Cell Bank adopts  in  the procurement,  processing, testing,
+preservation and supply of stem cell lines. It also specifies the criteria against 
+which the UK Stem  Cell Bank will be audited by the Steering  Committee and 
+sponsors.  The diligent application and verification of the principles of operation 
+laid down  for  the Bank should provide confidence and  reassurance to 
+professionals  and the public  that the UK Stem  Cell Bank is  adhering  to best 
+practice and complies with these principles.
+4.1  Ethical Principles 
+The UK Stem Cell Bank has been charged with providing ethically sourced and 
+quality controlled adult, fetal and embryonic human stem cell lines for research 
+and  the development of  therapies. All UK  researchers  deriving human 
+embryonic stem cell lines are required, as a condition of their HFEA licence, to 
+lodge samples of their embryonic stem cell lines in the UK Stem Cell Bank. This 
+is  not  a requirement for  iPSC and somatic  cell lines,  although  appropriately 
+derived lines may also be deposited in the UK Stem Cell Bank. 
+Embryonic  stem  cell lines  derived in  the UK  are thus  subject to  the donor
+consent requirements of the HFEA, including those relating to donor anonymity.  The Steering  Committee (section  5.1)  has  responsibility for  ensuring  that 
+essential donor consents,  ethical approvals,  licences  and  authorisations  are in 
+place for  all stem  cell lines  deposited in  the UK  Stem  Cell Bank,  and  for all
+projects  receiving  cell lines  from it.  For traceability purposes,  copies  of  the
+signed donor consent forms relating to cell lines accepted for deposit in the UK 
+Stem Cell Bank are lodged with the Secretary to the Steering Committee who 
+maintains  these records in  strictest  confidence.  Information  relating  to  the
+identity of the donors is neither revealed to the Steering Committee members 
+nor, importantly, to staff of the UK Stem Cell Bank.  Thus Bank staff have no 
+contact  whatsoever with the donors  of the embryos from which the stem  cell
+lines are derived, are not involved in the consenting process nor do they know
+the identities of the donors.
+4.2  Quality Assurance
+4.2.1 The UK Stem Cell Bank Quality Management System
+In  order to  comply  with  the Human  Tissues  (Quality and  Safety for  Human 
+Applications)  Regulations  (2007), which  deliver the requirements  of  the EU 
+Tissues  and  Cells  Directive (2004/23/EC,  2006/17/EC  and  2006/86/EC), the
+Bank has put in place a Quality Management System which covers all licensable
+activities  as  set  out  in  HTA Directions.  This  Quality Management System,
+described in the UK  Stem  Cell Bank’s  Quality Manual,  ensures the safety and 
+quality of the stem cell lines prepared by the Bank. 
+An  effective document management system  has  been  established so  that  all
+relevant  documents  (policies,  procedures,  sample/user records,  quality control
+CODE OF PRACTICE FOR THE USE OF HUMAN STEM CELL LINES
+VERSION 5 (April 2010) Page 16 of 45
+records, training  records etc.) relating to the processes carried out in the Bank
+are properly recorded. Documents are version controlled and archived to ensure 
+that obsolete versions cannot be used. 
+Each cell line and the cell banks prepared from it must be correctly identified at 
+all times.  This is achieved by using unique identifiers traceable to the respective
+cell line’s accession number.  This is linked to the Steering Committee’s unique
+application number. This system of unique identifiers maintains donor anonymity
+but still allows for traceability from donor to recipient or vice­versa in the event 
+of a discovery which might significantly affect the health of the donor. 
+Records are maintained for each cell line. These provide evidence that the cell
+line has been procured, processed, tested, stored and released according to the
+procedures  described in  the Quality Management System. This  information  is 
+held, together with the original application form,  Materials  Deposit Agreement
+and information on the cell line supplied by the depositor, in a Cell Line Master
+File.  Once information  including  all test  data  has  been  received and  the file
+completed it is independently reviewed and authorised by the Bank’s Operations 
+and Quality Managers or their designees. 
+Any deviations,  errors,  or anomalies in procedures as  well as  complaints from
+users  are also  managed within  the Quality Management System. These are
+documented and  reviewed and reported annually in the Bank’s Annual Report. 
+Resolution of  such events is linked to a programme of preventative actions to 
+assure continuous improvement in the Bank’s operation. 
+In addition to the compliance reporting required by the HTA, the Bank operates 
+a system  of  internal quality audits  to  monitor compliance with  the HTA
+Directions,  and  identify areas  for improvement in  its  quality system. These
+audits are planned and conducted by appropriately qualified individuals who are
+independent of the Bank’s operational management.  Inspections are performed
+by the Competent Authority, the HTA, which licences the Bank for the purposes 
+of processing, testing, storage and distribution (including import and export) of 
+cell lines intended for clinical use.
+4.2.2 Role of Staff and External Advisors 
+The UK  Stem  Cell Bank operates  under a licence from the Human  Tissue
+Authority. Under the Human Tissue Act (2004) and The Human Tissues (Quality
+and  Safety for  Human  Applications)  Regulations  (2007), the Bank’s  Licence
+Holder (LH)  and Designated Individual (DI)  have primary  (legal)  responsibility 
+for, and play a key role in implementing the requirements of the licence. 
+Responsibility for the operation of the Bank, as set out in HTA Directives, and for 
+ensuring that  staff  comply  with the Quality  Management System lies  with the
+Bank’s  Operations  Manager.  The Operations  Manager reports  directly  to  the
+Designated Individual in  all matters  relating  to  processing, testing, storage,  distribution, import and export of stem cell lines.  The Quality Manager for the
+Bank is  responsible for quality assurance as defined in the HTA Directions and 
+provides  advice and  support  on  quality matters.  The Quality Manager is 
+independent of the Bank and reports directly to the Licence Holder. Jointly, the
+Operations  Manager and Quality Manager are responsible for  authorising  the
+CODE OF PRACTICE FOR THE USE OF HUMAN STEM CELL LINES
+VERSION 5 (April 2010) Page 17 of 45
+release of stem  cell lines. Deputies for each of the key post within the quality
+management system  have been  identified  and  all members  of  staff,  working 
+under the HTA licence,  have documented job descriptions  which  detail their
+responsibilities. 
+The quality of the cell banks  prepared by the Bank is the responsibility of  all
+members of  staff working  under the HTA licence and  all staff are expected to 
+take personal responsibility for the quality of their work and maintain an up­to­ 
+date record of training which includes annual statements of competency. 
+The Bank maintains access to expert medical and microbiological advice through 
+a Medical Advisor and  a Microbiological Advisor.  These advisors  must  be
+appropriately  trained in  order to  discharge their responsibilities  to  the Bank.  Their roles and responsibilities are documented in formal job description.
+4.2.3 Facilities and Procedures 
+All facilities,  process  and  critical equipment used in  the processing, testing,
+storage and supply  of  cell lines  have been  qualified and  validated and are
+maintained to meet the requirements of the Human Tissue (Quality and Safety
+for  Human Application) Regulations  (2007)  as  set  out in  HTA Directions.  The
+cell culture  procedures  adopted by the UK Stem  Cell Bank meet  current  best 
+practice.
+4.3  Operation of the Stem Cell Bank 
+In  order to  effectively  manage procurement,  processing, testing, storage and
+distribution,  all stem  cell lines  regardless  of  their designation  as  either
+“Laboratory” or “Clinical” Grade are banked in facilities by processes that comply 
+with the UK Stem Cell Bank’s Quality Management System. Cell lines for clinical
+research or therapy in humans (“Clinical Grade”) must undergo additional levels 
+of testing commensurate with risk (see also section 6.5).
+4.3.1 Deposit of Stem Cell Lines 
+The UK Stem Cell Bank ensures that for each cell line accessioned by the Bank,  there is evidence of approval for deposit by the Steering Committee; that there
+is traceability to a Steering Committee References Number (the SCSC number) 
+and that any constraints on the use or release of the cell line, either made by 
+the depositor or by the original donor are clearly documented and available to 
+researchers.  The Bank also  seeks  documented evidence from the Steering
+Committee that donor consent (as set out in section 9) complies with HFEA and
+HTA requirements. 
+Depositors are required to provide a minimum number of aliquots of their cell
+line from the earliest passage level that is consistent with proven viability.  The
+samples  provided must be viable and  free from contamination  or otherwise
+compromised such that its scientific value cannot be recovered. Non­viable or
+contaminated samples will be reported to the depositor and repeated failure to
+CODE OF PRACTICE FOR THE USE OF HUMAN STEM CELL LINES
+VERSION 5 (April 2010) Page 18 of 45
+supply samples of an approved line shall be reported to the Steering Committee
+for appropriate action. 
+Following  notification  by  the Steering  Committee that  a cell line has  been 
+approved for deposit the bank will contact the depositor to begin the process of 
+accessioning  the cell line into  the Bank.  This  will involve personnel from the
+Bank and the depositor’s laboratory who will together identify a suitable stock of 
+cells for  transfer and  also  gather the requisite information  and  available test 
+data that will allow the Bank to culture the cell line. 
+Each cell line deposited must meet the UK Stem Cell Bank’s specification which 
+details  the requirements  for  deposit  in  terms  of  viability,  safety and 
+characterisation. Additional requirements for ‘clinical grade’ cell lines will need to 
+be met in order for the UK Stem Cell Bank to comply with the Directions of the
+Human Tissue Authority. 
+Each  cell line deposited in  the Bank receives  a unique UK Stem  Cell Bank
+accession number and any replacement samples of a cell line provided by the
+depositor for whatever reason will receive a new accession number.
+4.3.2 Banking of Stem Cell Lines 
+Before  culturing, the Bank carries  out  an  evaluation  of  each  cell line in 
+consultation  with  the depositor to  determine the method of  culture and  the
+types of characterisation that may be required. The banking procedures followed
+by the bank will normally include the establishment of a ‘Pre­master’ stock of 
+cells prepared from material supplied by the depositor. This comprises a number
+of  aliquots  from  a single pooled culture of  cells.  This,  early  passage stock  of 
+cells,  provides  material for  initial testing and  archival material for  disaster
+recovery or confirmation of adverse discoveries affecting the cell line. 
+A sample of the ‘Pre­master’ cell bank is  expanded to  provide a ‘Master’ cell
+bank that will, once established, provide the bank from which will be derived all
+future distributed material. Samples of the Master bank are used to produce a
+‘Distribution’ cell bank from which cells are released to users. This stock, once
+exhausted,  is  replenished by  further culture of  samples  from the Master cell
+bank.  Each  cell bank is  quality controlled and  characterised appropriately.  In 
+general each cell line is cultured and preserved according to methods provided
+by  the depositor up  to  the level of  the first  ‘Distribution’ cell bank.  Generic 
+procedures  being  developed by  the Bank will be applied to  subsequent 
+‘Distribution’ cell banks; however the ‘Master’ cell bank will be as representative
+as possible of the original cells provided by the depositor. All cell banks whether
+at the Pre­master, Master or Distribution levels, are assigned a unique cell bank
+number.  Each  aliquot  of  cells  within  a cell bank is  also  assigned its  own 
+identifier.
+4.3.3 Qualification and Testing of Stem Cell Lines 
+Each  cell bank is  tested for  viability,  mycoplasma contamination,  sterility, 
+mandatory viral markers  and identity as  a minimum.  The cell lines  are
+maintained under quarantine conditions until the first mycoplasma and sterility 
+tests  are completed.  In  addition  to  the quality control and characterisation
+CODE OF PRACTICE FOR THE USE OF HUMAN STEM CELL LINES
+VERSION 5 (April 2010) Page 19 of 45
+tests,  phenotypic  and  genotypic  stability will eventually  be determined using 
+techniques appropriate for each cell line. This process will assure consistency of 
+cells in the banking process and ultimately the minimum population doublings or
+passages  recommended for the use of each  cell line. Once completed the test 
+data and other information is used to prepare a certificate of analysis for each 
+cell line released. 
+Any genetic testing undertaken on the stem cell lines by the UK Stem Cell Bank
+is  kept  in  strict  confidence by  the Bank unless  otherwise approved by  the
+Steering Committee.  Any adverse discoveries of a genetic or infectious nature
+are discussed with  the microbiological and  medical advisors  and  where
+necessary the Steering Committee before appropriate action is taken. 
+On completion of the banking process the depositor is offered a sample of the
+UK Stem Cell Bank’s stocks to evaluate. Any significant deviations between bank
+test data and that of the depositor’s laboratory are discussed with the depositor
+and  an  appropriate course of action,  or appropriate annotation in the cell line
+entry in the UK Stem Cell Bank inventory of stem cell lines, agreed. 
+All information  pertaining  to  the deposit,  processing,  testing, storage and
+distribution  of  each  cell is  held in  its  Cell Line Master File.  Once banking  and 
+testing  of  the cell line has  been  completed,  this  file is  reviewed by  both  the
+Operation  Manager and  Quality Managers. The Cell Line Master File must  be
+reviewed and approved by them before the cell line is released for use.  Where testing is  carried out by third parties,  whether internally through other
+NIBSC  divisions  or with  external agencies,  written  agreements  defining  the
+relationship and  specifying  the services  required will be put  in  place.  These
+agreements will comply with HTA Directions.
+4.3.4 Storage and Distribution of Stem Cell Lines 
+The UK Stem Cell Bank defines and documents the conditions under which the
+stem  cell lines are stored. Cell lines are stored under conditions that as far as 
+possible prevent  both  the deterioration  of  the material and  possible cross­ 
+contamination. A proportion of each bank is stored in a secure off­site location. 
+All storage equipment is validated, monitored and alarmed. 
+Cell lines  are transported to  and  from  the UK  Stem  Cell Bank in  validated
+containers that ensure the cells are maintained at an appropriate temperature.  Appropriate transportation times and temperatures are defined and documented
+by the Bank.  It is the Bank’s policy only to ship frozen or vitrified material.  The
+UK  Stem  Cell Bank does  not  supply  growing  cultures  of  stem  cells to  third
+parties. 
+The Bank has put  in  place documented procedures  for sales  order processing 
+and  dispatch of  stem cell lines to  customers.  Dispatch  of  cells  is  carried out 
+under ISO9001 through  the NIBSC  dispatch  department.  This  includes  the
+tracking of shipped samples and the maintenance of records of shipment. The
+Bank charges the full cost of shipment including where appropriate the return of 
+Bank’s transportation containers.
+CODE OF PRACTICE FOR THE USE OF HUMAN STEM CELL LINES
+VERSION 5 (April 2010) Page 20 of 45
+The Bank’s requirements, both for off­site storage and dispatch services, are the
+subject of written agreements which will comply with HTA Directions.
+4.3.5 Recall and Disposal of Stem Cell Lines 
+The UK Stem Cell Bank requires all depositors and users of stem cell lines and 
+other third party service providers  to  have in  place a procedure  for  adverse
+event and  adverse incident  reporting. The Bank has a documented procedure 
+for  the recall of  lines  in  the event  of  an  adverse incident  or event  and  for
+reporting  such  events  to  the HTA.  This  procedure complies  with  the Human 
+Tissues  (Quality and  Safety for  Human  Applications)  Regulations  (2007)  and 
+provides for:
+· prevention of distribution of affected cell lines,
+· communication of recall notices to all relevant parties,
+· reconciliation of returned lines,
+· storage quarantine and disposal of returned samples and
+· assuring  appropriate action  in  relation  to adverse event  reporting  in 
+compliance with the above mentioned regulation. 
+Disposal procedures  for material are documented in  the UK Stem  Cell Bank
+quality management system  and are compliant  with  local policy,  the Human 
+Tissue Act  (2004)  and  the Human  Tissue (Quality and  Safety for  Human 
+Application) Regulations 2007.
+The Steering  Committee requires  that  embryonic  stem  cell lines  considered
+unsuitable for release are quarantined and archived rather than discarded.  In 
+the case of  cell banks,  where there are multiple samples  in storage, only  a
+limited number of  units  are retained with the remainder being disposed of  as 
+clinical waste under NIBSC  documented procedures. In the case of  material
+found to be derived from Transmissible Spongiform Encephalopathy (TSE, also 
+known as prion diseases or CJD) ­ affected donors, the Steering Committee will
+be engaged in the decision on  storage and disposal.  The process for disposal
+must  be suitable for  the inactivation  of  any infectious  agents  known  or
+suspected to be involved.
+4.3.6 Inventory of Stem Cell Lines 
+A list of all stem cell lines approved by the Steering Committee for deposit in the
+Bank is maintained on the UK Stem Cell Bank website.  The stem cell ‘catalogue’
+includes  general information  on the depositor, the cell line and  any ethical or
+consent constraints imposed by the depositor or donor. Once a cell line has been 
+banked, tested and approved for  release to  researchers, its listing in the stem 
+cell catalogue is amended to include scientific information and test data as well
+as  any other pertinent  information.  The Bank’s  catalogue is  different  to  the
+Steering  Committee UK  Stem  Cell Lines  Registry  which  lists  all the lines that 
+have been approved by the Steering Committee for use in the UK, regardless of 
+whether they are available from the Bank (see section 7.2).
+4.3.7 Assessment of Risk and Contingency Planning 
+The UK Stem Cell Bank has put in place a high­level risk assessment, managed
+through the NIBSC risk register and  reviewed annually.  This register of risk is
+CODE OF PRACTICE FOR THE USE OF HUMAN STEM CELL LINES
+VERSION 5 (April 2010) Page 21 of 45
+reported to  the Management Committee and  included  in  the Bank’s  Annual
+Report to the Steering Committee.  In addition to this general risk register each 
+cell line is risk assessed against a number of criteria.  The Bank will put in place
+an extended  risk based assessment for “Clinical Grade” cell lines based on the
+HTA Directions. 
+The Bank has put in place policies and procedures to ensure  continuity in the
+supply of stem  cell lines under adverse circumstances, which includes back­up 
+for  critical systems  and an  off­site stock  for  disaster recovery. It  includes  a
+policy for  securing the Bank’s  stock of  cell lines in the event of  closure of the
+Bank. 
+NIBSC ensures that all stored data is secure and regularly backed­up to secure 
+storage. Access to the site and to the Bank is strictly controlled.
+4.3.8 Health and Safety 
+NIBSC operates a comprehensive health and safety policy in line with statutory 
+requirements,  including  the appointment  of  a full­time  safety adviser,  and 
+occupational health  staff.  A comprehensive safety training  programme is 
+provided to  all members  of  staff  on  commencement of their employment  and 
+staff undergo mandatory refresher course at the NIBSC proscribed interval.
+5.  Governance  of  research  involving  established  human embryonic
+stem cell lines
+Unlike human  embryos,  embryonic  stem cells  do not  have the potential to 
+become a human person and do not therefore have the moral status of human 
+embryos.  Accordingly  the Government has  passed legislation  that  establishes 
+that  research  involving established stem  cell lines  does  not  need the same 
+regulation to which embryo research is subject to by the HFEA. However, as the
+generation of  embryonic  stem cell lines  involves  the destruction of  human 
+embryos, oversight in the form of a Steering Committee was recommended to 
+ensure  that  research  performed  is  in  keeping  with  HFEA Regulations.  The
+oversight mechanisms governing research involving established embryonic stem 
+cell lines are voluntary. However, they are a condition of the statutory regulation 
+in the UK and there is an expectation by Government that these are adhered to.
+Induced pluripotent stem (iPS) cells have similar properties to human embryonic 
+stem  cells  but  are derived from  adult  cells  and  are not subject to  such 
+considerations. The only exception to this would be under circumstances where
+iPS  cells  might  be used to  generate reproductive cells  such  as  oocytes  or
+spermatozoa – any use of such derivatives for reproductive purposes would fall
+under the remit  of  the HFEA.  Broad ethical considerations  in  relation  to  the
+derivation and use of iPS cells are discussed in section 9.
+5.1  Steering Committee for the UK Stem Cell Bank and for the Use of Stem
+Cell Lines
+CODE OF PRACTICE FOR THE USE OF HUMAN STEM CELL LINES
+VERSION 5 (April 2010) Page 22 of 45
+The Steering Committee was established in December 2002 as an independent 
+national committee overseeing the UK  Stem  Cell Bank and research  involving 
+established human embryonic stem  cell lines, whether obtained from the Bank
+or from elsewhere.  All applications to deposit stem cell lines in the UK Stem Cell
+Bank or to  access  banked stem  cell lines  are evaluated by  the Steering 
+Committee.  The Steering  Committee is  a non­statutory  body  that  reports 
+annually to the MRC, works closely with the DH, the HFEA, HTA and the MHRA,  and briefs Ministers as necessary.  It is the role of the Steering Committee to 
+support stem cell research and to ensure that this is conducted within an ethical
+framework that is transparent to the public. The membership of the Committee
+includes  expertise in  science,  medicine,  ethics  and  theology  as  well as  lay 
+members  and  representatives  from regulatory  and  funding  agencies.  The
+membership and  terms  of  reference are available on  the MRC  web site.  (Steering Committee) – (See page 43 for full web link)
+5.2  UK Stem Cell Bank Management Committee
+A Management Committee for the UK Stem Cell Bank has been established by 
+NIBSC to deal with operational issues.  Its terms of reference and membership,  which includes in­house and external scientific experts, stem cell scientists, lay 
+members, representatives from the commercial sector and the funding agencies, 
+are published on the MRC website (Bank Management Committee) – (See page
+43 for  full web link). The Management Committee reviews  the processes, 
+systems  and  standards that  must  be followed by the UK  Stem  Cell Bank.  In 
+partnership with  the Bank,  it  develops and  reviews  the Bank’s  strategic 
+objectives  which  it  presents  to  the Steering  Committee.  Implementation  of 
+these objectives is the responsibility of the relevant Manager for the Bank under
+the supervision  of  the Bank’s  Director.  The Management Committee reports 
+formally  to  the Steering  Committee through  the Director of  the Bank and 
+provides to it a full written report on an annual basis.
+5.3  Audit 
+The funders  of the UK Stem Cell Bank may,  with  reasonable notice to NIBSC, 
+inspect  documents,  practices  and other information  (and  take away  copies 
+considered necessary)  about  management  of  the Bank and  to  examine the
+financial records  relating  to  the operation  of  the Bank,  in  order to  assure
+themselves about compliance with high standards of internal management and
+financial control, and with guidelines established by the Steering Committee. 
+The Steering Committee reserves the right to seek periodic independent audit of 
+the research  carried out  by  both  UK  and overseas  researchers  with  stem  cell
+lines deposited in, or obtained from the UK Stem Cell Bank, in order to assure
+compliance with relevant regulations and permissions. Immediate action will be
+taken if there is evidence of non­compliance with, or deviation from, appropriate
+licences, authorisations and formal procedures (e.g. withdrawal of the line from
+the Bank, exclusion of a researcher from future use of the Bank, reporting non­ 
+compliances to the researcher’s host Institution, funders and national regulators.
+5.4  Annual Reports
+CODE OF PRACTICE FOR THE USE OF HUMAN STEM CELL LINES
+VERSION 5 (April 2010) Page 23 of 45
+The UK Stem Cell Bank reports on a regular basis to its Management Committee
+and the Steering  Committee and  an  annual report,  approved by  Management
+Committee, is submitted to the Steering Committee and published on the Bank’s 
+website.  This  report  should include  reviews  of  bank activity,  including  cell
+banking  and  distribution,  changes  in  staff,  research  and  development,  quality
+assurance audits and their outcomes, risk management and finance.
+5.5  Engagement with the Stem Cell Community and the Public 
+The Bank has established an independent website (www.ukstemcellbank.org.uk) 
+which includes a catalogue of stem  cell lines held by the Bank, information on 
+depositing  and  accessing  cell lines and  other useful information  for  users 
+including links to other relevant websites.  It has also established an enquiries 
+email line (enquiries@ukstemcellbank.org.uk). A documented process  for 
+handling  general enquiries  and  complaints  has  been  established under the
+Quality Management System  and targets for  response times  have been  set. 
+Customers can expect a formal response to enquiries within five working days. 
+Periodically, the Bank will contact  researchers  and other customers who have
+used the Bank’s cell lines to obtain summaries of their work and compile these
+reports for presentation to users of the Bank. In this way users may be able to 
+benefit from responses on use of the cell lines (both positive and negative data)
+obtained directly on cells provided by the UK Stem Cell Bank. 
+The UK Stem Cell Bank will also establish relationships with other national stem 
+cell banking  resource centres  to  share knowledge and best practice.  It  will
+continue to  interact  with  national and international research initiatives,  contributing on those aspects of research in which it is permitted to engage by 
+the Steering Committee. 
+The UK Stem Cell Bank will continue to engage with all those interested in stem 
+cells and their application through its ongoing programme of external activities 
+including  contributions  to  training  courses,  attendance at  exhibitions  and 
+presentations  at  scientific  meetings. This  engagement will include  periodic 
+questionnaires  to  recipients  of  lines  and  communications  via the UK  National
+Stem Cell Network and its annual conference.  The bank also supports activities 
+that  explain  the rationale for stem  cell research  and banking, including  the
+provision of suitable information to the general public.
+6.  Deposit and Withdrawal of Stem Cell Lines from the UK Stem Cell 
+Bank
+This section deals with the processes and requirements for depositing stem cell
+lines  in  and  accessing  stem  cell lines  from the UK  Stem  Cell Bank.  General
+principles underlying the use of human embryonic stem cell lines in the UK and 
+for obtaining stem cell lines from sources other than the UK Stem Cell Bank can 
+be found in sections 7 and 8. 
+The UK  Stem  Cell Bank stores  and  makes  available human  embryonic  and
+somatic  stem  cell lines.  The UK Stem Cell Bank does not store heterogeneous
+CODE OF PRACTICE FOR THE USE OF HUMAN STEM CELL LINES
+VERSION 5 (April 2010) Page 24 of 45
+pools of stem cells that contain or are merely enriched for stem cells (e.g. bone
+marrow, peripheral blood or cord blood).
+It is a condition of an HFEA licence that a representative proportion of the cell
+line(s) derived from each embryo donated altruistically must be made available
+for research use via the UK Stem Cell Bank. This can be satisfied by one of the
+following: 
+A.  Deriving research grade stem cell lines for distribution from master cell
+banks, that themselves  can be laboratory or clinical grade, so that all
+clinical grade cell lines  have research  grade counterparts available for
+distribution. 
+B.  Banking  a subset  from  the separate cell lines  that  are sometimes 
+obtained during the derivation process from a single embryo, provided
+each daughter cell line had appropriate ES cell characteristics.  C.  Other approaches may be possible that  would lead to the desired end 
+and  these could be proposed by  the depositor and  discussed by  the
+Steering Committee. 
+Consent procedures for these cell lines are audited by the HFEA. The Steering 
+Committee also encourages the deposition of human embryonic stem  cell lines 
+derived outside the UK as well as somatic stem  cell lines derived in the UK or
+abroad as long as these fulfil the criteria of informed consent and are of value to 
+the research community. 
+Derivatives  of  banked human embryonic  stem  cell lines,  including genetically 
+modified,  abnormal or differentiated cells, do  not  need to be deposited in the
+Bank (unless this is a requirement of the funding agreement under which such 
+lines  were generated,  for example funding from the UK  Research  Councils  2).
+However the Steering  Committee would welcome deposit  of  such  lines  that 
+would be scientifically useful to the research community.
+6.1  Depositing Stem Cell Lines in the UK Stem Cell Bank
+All applications to deposit embryonic stem cell lines in the Bank are made to the
+Steering Committee and not to the Bank. Before accepting  stem  cell lines for 
+deposition in the Bank, the Steering Committee has to satisfy itself that these
+have been ethically sourced, with fully informed donor consent, and that the cell
+lines  present  a valuable resource for the biomedical research community.  In 
+order to provide the Steering Committee with the information needed to make
+an informed decision about the deposition of cell lines in the Bank, researchers 
+are requested to complete an application form. This can be found on the Bank’s 
+website together with information on the application process. Information on the
+application procedure is also provided in section 8. 
+Before  stem  cell lines approved for deposit by the Steering Committee can be
+released for  use,  a Material Deposition  Agreement (MDA)  has  to  be signed
+between the owner of the cell lines  (normally the employer of the researcher
+who has derived the stem cell line) and the Bank. This agreement sets out the
+2 http://www.mrc.ac.uk/Utilities/Documentrecord/index.htm?d=MRC001898
+CODE OF PRACTICE FOR THE USE OF HUMAN STEM CELL LINES
+VERSION 5 (April 2010) Page 25 of 45
+terms under which the cell line is deposited and includes the terms under which 
+the cell line is made available to accessors. When ES cell lines are deposited the
+MDA should incorporate a statement  on  existing  Intellectual Property Rights 
+(IPR).
+Research grade lines deposited after 01 April 2010 can be distributed by the UK 
+Stem  Cell Bank under its  own terms  of  use including  a Research  Use Licence
+(RUL).  This  licence will be available for  laboratory  use (excluding  research in 
+humans)  of  stem  cell lines  without an  individually  negotiated Material Use
+Licence (MUL). The RUL is  designed to  protect  the depositor’s  rights  to 
+intellectual property and standardize the process of  accessing  lines  from the
+Bank. The RUL is available on the UK Stem Cell Bank website. 
+The Material Deposition  Agreement is  available on  the UK  Stem  Cell Bank
+website.  This  is  negotiated between the owner of the stem  cell lines  and the
+Bank on a case by case basis. It is recommended that the depositor’s technology 
+transfer staff are alerted to  the MDA at an  early  stage to  avoid unnecessary 
+delays. 
+The UK Stem Cell Bank will provide Depositors with information on request as to 
+who has accessed their cell lines, and information on their use as described in 
+the abstract provided on the relevant application to the Steering Committee.
+6.2  Examples of stem cell lines  that  can be deposited in the UK Stem Cell 
+Bank
+· human embryonic stem cell lines
+· human stem  cell lines from extra­embryonic tissues  (trophoblast and yolk 
+sac endoderm)
+· human embryonic germ cell lines
+· human mesenchymal stem cell lines and other somatic stem cell lines from
+any stage of development, if available
+· human fetal / progenitor stem cell lines  (N.B. fetal stem  cells are neither
+clonal nor immortal, though some progenitors such as neural stem cell lines 
+can be)
+· induced pluripotent stem cell lines
+· haematopoietic stem cell lines from cord blood or bone marrow (N.B. these
+might be propagated using genetic manipulations, new culture conditions, 
+or growth factors)
+· stable, human somatic stem cell lines derived from embryonic stem cells
+· conditionally immortalised human progenitor/stem cell lines (N.B. these can 
+only be deposited in the Bank if depositors can make a persuasive case to 
+the Steering Committee that the lines are of outstanding research value to 
+the scientific community).
+In addition the Bank will curate cells used to facilitate the growth of embryonic 
+stem cell lines in culture (e.g. standardised feeder cells).
+CODE OF PRACTICE FOR THE USE OF HUMAN STEM CELL LINES
+VERSION 5 (April 2010) Page 26 of 45
+6.3  Curation Policy 
+For each  cell line approved by the Steering Committee the Bank will apply its 
+Banking  and Curation  Policy,  established by  its  Management Committee and 
+approved by the Steering Committee.  This determines the level to which each 
+deposit is progressed in terms of banking and testing. This policy is based on the
+duty of the bank to provide safe storage of a sample of each cell line approved
+by the Steering Committee, and also on the need to develop the scientific value
+of the UK Stem Cell Bank holdings.
+The UK Stem Cell Bank recognises two forms of deposit: banking and curation. 
+Banking is defined as the expansion of a stem cell line to form one or more stem 
+cell banks for eventual release for research or therapeutic applications.  Curation 
+is defined as the custodianship of a limited stock of a stem cell line for storage
+or archival purposes only. 
+In order to  facilitate transparency the Bank applies  published criteria.  These
+criteria will be subject to periodic review and the status of all cell lines held by 
+the UK  Stem  Cell Bank is  reviewed on  an  annual basis.  Any changes to the
+designation of the cell line shall be notified to the Depositor and published on 
+the Bank’s website.
+6.4  Accessing Stem Cell Lines from the UK Stem Cell Bank 
+All applications to access embryonic stem cell lines from the Bank are made to 
+the Steering Committee and not to the Bank.  In order to provide the Steering
+Committee with  the information  needed to  oversee research  involving stem 
+lines,  researchers  are required to  complete the relevant  application  form 
+following the guidance set out in Section 7 and provided on the Bank’s website. For access to  lines  other than  embryonic  stem  cell lines,  applications  may  be
+made directly to the Bank. 
+For access to lines deposited after 01 April 2010 all accessors of stem cell lines 
+only for laboratory use will be required to sign a standard Research Use Licence
+(RUL).  The RUL is  designed to  protect  the depositor’s  rights  to intellectual
+property.  If an accessor plans to use a stem cell line for commercial or clinical
+purposes  they  will need to  negotiate a specific  licence for  “commercial
+manufacture and sale” or for “clinical use” with the depositor. These licences will
+set out the terms for exploitation of the stem  cell line.  IP holders  will not be
+obliged to issue a Clinical Use Licence as a research grade component for each 
+line would be available for research use. The Commercial Manufacture and Sale
+Licence should be subject to standard commercial negotiation between IP holder
+and  any potential user and  will not  have any restrictions  imposed by  the
+Steering Committee. 
+For lines deposited prior to 31 March 2010, where the terms of deposit require
+the accessor to agree a Material Use Licence (MUL), the accessors will still have
+to negotiate the terms for that licence with the depositor.  In addition they will
+have to sign the Material Access Agreement (MAA) supplied by the Bank.
+CODE OF PRACTICE FOR THE USE OF HUMAN STEM CELL LINES
+VERSION 5 (April 2010) Page 27 of 45
+Whilst agreements  can be negotiated before Steering Committee approval has 
+been given, the agreements can only be executed following Steering Committee
+approval. Once the UK Stem Cell Bank receives confirmation approval to access 
+a banked cell line and signed copies of appropriate agreements are in place the
+Bank will despatch  the cell line(s). It  is  recommended that  the accessor’s 
+technology transfer staff are alerted to the need for these access agreements to 
+avoid unnecessary delay. 
+The Bank can be accessed by researchers from academia and industry in the UK 
+and abroad. All applications must be approved by the host institution (academia
+or companies) and for overseas applicants the same  review procedures by the
+Steering Committee apply. Researchers accessing stem cell lines from the Bank
+must comply with legislation in the UK and the country where the research is to 
+be performed and are expected to comply with this Code of Practice. Any change
+to the terms of the application approved by the Steering Committee should be
+discussed with  the secretariat  to  the Steering  Committee and  may  require a
+fresh application as approvals are given by the Steering Committee on a project 
+by project basis. Where approval is given by the Steering Committee for use of a 
+line in a consortium project or where there are multiple named collaborators, it 
+is the responsibility of the lead applicant to ensure that the Code of Practice is 
+adhered to by all the partners.  Third party transfer of lines supplied by the Bank
+is not permitted save where specified in the MAA or RUL. 
+Researchers should notify the UK Stem Cell Bank if cell lines accessed from the
+Bank fail to  exhibit  expected properties.  Complaints  will be documented and
+investigated under the Bank’s Quality Management System (see section 4.2.1).
+Stem cell lines accessed from the UK Stem Cell Bank will have been allocated a
+unique Bank accession  number;  this  should be quoted by  accessors  in  all
+publications. 
+The UK Stem Cell Bank will supply both ‘laboratory’ grade stem cell lines that 
+cannot be used in human application, and ‘clinical’ grade lines which have been 
+derived and processed in  facilities  approved by  the appropriate regulatory 
+agency which may eventually be used in research involving human participation, 
+clinical trials or human therapy.  The Bank may also supply ‘laboratory’ grade
+subsets  of  ‘clinical’ grade cell lines  specifically for  non­clinical research  (see
+section  6.5).  It will be important  therefore  for  accessors  to  specify in their
+application  to  the Steering  Committee whether ‘laboratory’ or ‘clinical’ grade
+stem cell lines are requested.  All stem cell lines available from the Bank in the
+early phase will be ‘laboratory’ grade.
+6.5  Clinical Grade Cell Lines for Laboratory Research Purposes 
+The UK Stem Cell Bank may bank cultures of ‘clinical’ grade cell lines and supply 
+a ‘laboratory’ grade component of those lines for research purposes that do not 
+involve human participation under the terms of the research use licence. Such 
+‘laboratory’ grade samples must not be developed for clinical use, and where the
+intent for use of the cells in humans becomes a reality it is expected that the
+researcher would obtain a sample of the ‘clinical’ grade stock of the respective
+CODE OF PRACTICE FOR THE USE OF HUMAN STEM CELL LINES
+VERSION 5 (April 2010) Page 28 of 45
+cell line. At such a time a separate clinical research or commercial licence would
+need to be negotiated with the depositor of the line. 
+It  is  possible that  a ‘laboratory’ grade cell line may  prove to  have unique
+properties  that  justify its  development for use in  humans.  Any such  cell line
+could in principle be re­derived to ‘clinical’ grade standard, though all cell lines 
+intended  for  human  application  must  be procured,  tested,  processed,  stored,  distributed and imported/exported at an HTA licensed establishment under The
+Human Tissue (Quality and Safety for Human Application) Regulations 2007.
+6.6  Charges levied by the UK Stem Cell Bank 
+The contract between the funders and the UK Stem Cell Bank makes provision 
+for  a schedule of  charges  for  the provision  of  stem  cell lines  to  users.  The
+Steering  Committee has  indicated that the charges  levied will be different  for 
+academic researchers and commercial users of the Bank with commercial users 
+expected to  pay the full economic  costs. It is  also  expected that  charging for 
+services provided by the UK Stem Cell Bank will be in line with general principles 
+applied by funding bodies and will allow for  recovery of some of the operating 
+costs of the Bank over time. 
+A schedule of  charges has been established by the Bank, but as of December
+2009,  no  charges  other than  third party shipping  fees,  have been  levied  for 
+research grade cell lines. This situation will be kept under review.  An up to date
+schedule of charges (including shipment charges) as well as notification of any 
+change to the Bank’s policy is available on the UK Stem Cell Bank website.
+6.7  Liability 
+NIBSC is responsible for all aspects of operation of the UK Stem Cell Bank and
+for  any breaches  in  Bank operating  standards, procedures  or quality control
+arrangements that  are not  in  compliance with  prevailing  practices.  However,  the MRC  is responsible for  the operation  of  the Steering  Committee,  the
+application process and the decisions emanating from it. 
+Stem cell lines stored in the UK Stem Cell Bank will be supplied to users without
+warranty of  merchantability or fitness  for a particular purpose or any other
+warranty, express or implied, and without any representation or warranty that 
+they are free of extraneous agents or that the use or supply of the cell lines will
+not infringe any patent, copyright, trademark or other right of any third party.  Therefore to the fullest extent permitted by Law, NIBSC will not accept liability
+for any claims resulting from the research conducted on the stem cells and stem 
+cell lines obtained from the Bank by a user.  Liability in such claims will be in 
+accordance with the end user, user and depositor agreements for the relevant 
+cell lines to the extent that users will indemnify NIBSC from any issues arising 
+out of usage. 
+Researchers  accessing  banked stem  cell lines  will be required to  agree a
+Research  Use Licence or a Materials  Access  Agreement (where lines  were
+CODE OF PRACTICE FOR THE USE OF HUMAN STEM CELL LINES
+VERSION 5 (April 2010) Page 29 of 45
+deposited before March 2010 the depositor may require a Materials Use Licence
+to be in place between depositor and accessor before their cells are released).
+All depositors will be required to sign a Materials Deposition Agreement and will
+be invited to disclose any known pre­existing  conditions of the cell lines being
+deposited,  either at  the time  of  deposition,  or at  the first  time  that the pre­  existing condition becomes known to the depositor.  Depositors will be invited to 
+indemnify NIBSC  against  issues  arising  from pre­existing  conditions  that  the
+depositor could have reasonably foreseen.
+7.  Accessing stem  cell lines  from  the  UK Stem  Cell  Bank and  using 
+human embryonic stem cell lines from sources other than the UK
+Stem Cell Bank
+7.1  General principles 
+7.1.1 Research projects in  which  human  embryonic  stem cell lines  may be
+used 
+The use of  embryonic stem  cells  in  research  was  debated at  length  in  both 
+Houses  of  Parliament during  the passage of  the Human  Fertilisation  and
+Embryology Act and its amendments in 1990, 2001 and 2008. Parliament made
+it  clear that  human  embryonic  stem cell lines  should not  be used for trivial
+purposes. 
+The Steering Committee expects that human embryonic stem cell lines are only 
+used by  bona fide research  groups  for  justified and valuable purposes  that 
+reflect the requirements of the law relating to this area. This is: 
+a)  research  which  increases  the knowledge about  the development of 
+embryos  or has  the long term  goal of  helping to  increase knowledge
+about serious diseases and their treatment (as set out in the 1990 Act 
+as amended by the 2008 HFE Bill); 
+b)  basic cell research which underpins these aims (as recommended in the
+House of Lords Report 2002); 
+c)  development of  cell based therapies  for clinical trials  in  respect  of 
+serious human diseases. 
+The Steering  Committee further recognises the importance of training  of  staff 
+using  human embryonic stem  cell lines and therefore  the requirement on 
+occasion to use stem cell lines for training purposes.
+7.1.2 Peer Review 
+It is normally expected that the research projects for which human embryonic 
+stem  cell lines  are used have been  subjected to  independent  scientific  peer
+review. However,  peer review  is  not  a pre­condition  for  Steering Committee
+approval. For instance researchers should have the opportunity to access human 
+embryonic  stem  cell lines  in  order to  generate preliminary  data  for grant 
+applications,  while development projects in  the commercial sector are not 
+usually subject to independent peer review.
+CODE OF PRACTICE FOR THE USE OF HUMAN STEM CELL LINES
+VERSION 5 (April 2010) Page 30 of 45
+7.1.3 Research Ethics Committee approval 
+Research  Ethics  Committees  are concerned that  patient  care and  diagnostic 
+needs are not compromised by the diversion of material for  research purposes 
+and protect the dignity, rights, safety and well being of all research participants. 
+Research Ethics Committee approval must be obtained:
+· as part of the application procedure for an HFEA research licence, · for research involving human tissues and
+· for clinical trials of all stem cell derived therapeutic products.
+The Steering Committee has agreed that Research Ethics Committee approval is 
+not  required for  laboratory­based research  involving established human 
+embryonic stem cell lines.
+7.2. Using human embryonic stem cell lines from sources other than the UK
+Stem Cell Bank 
+The Steering Committee oversees all research involving human embryonic stem 
+cell lines in the UK, whether these are accessed from the UK Stem Cell Bank or
+from elsewhere. 
+It is expected that the UK Stem Cell Bank will become the first port of call for 
+researchers  wishing to  work  with  human embryonic  stem  cell lines.  The Bank 
+will make available standardised,  quality controlled aliquots of  stem cell lines 
+and  will allow researchers  to  work  with  well defined material so  that  direct 
+comparisons can be made between studies. 
+Although  the Steering  Committee expects  the UK  Stem  Cell Bank  to  be the
+preferred source of  stem  cell lines,  it  is not  a requirement that  lines  are
+exclusively accessed from the Bank. It is anticipated that there will be occasions 
+when  researchers  wish to access  human embryonic  stem  cell lines from other
+sources  (e.g. international cell lines not deposited in the Bank or cell lines not 
+yet ready for distribution by the Bank). However, all researchers wishing to work 
+with human embryonic stem cell lines within the UK (whether accessed from the
+Bank,  from other sources  in  the UK  or oversees)  must  inform  the Steering 
+Committee through the application procedure detailed in Section 8. 
+The Steering  Committee needs  to  satisfy itself  that  the research  fulfils  the
+criteria in section 7.1.1 and that the human embryonic stem cell lines have been 
+ethically  sourced with  fully  informed and free donor consent.  Information  in 
+relation  to  the ethical sourcing of  human embryonic  stem  cell lines  does  not 
+need to be provided for human embryonic stem cell lines that a) were created in 
+the UK  (as  consent procedures have been approved by the HFEA), or b) have
+previously been approved by the Steering Committee for import or banking.
+7.2.1 UK Stem Cell Lines Registry 
+A register of Steering Committee approved human embryonic stem cell lines is 
+available on the MRC web site (UK Stem Cell Lines Registry) – (See page 44 for 
+full web link). This registry lists all the hES cell lines that have been approved by
+CODE OF PRACTICE FOR THE USE OF HUMAN STEM CELL LINES
+VERSION 5 (April 2010) Page 31 of 45
+the Steering  Committee for  use in  the UK, irrespective of  whether they  are
+available through  the UK  Stem  Cell Bank  or not.  The UK  Stem  Cell Bank 
+catalogue provides details on the subset of these lines that are deposited in the
+UK Stem Cell Bank. 
+UK  researchers  wishing  to transfer human  embryonic  stem  cell lines  to 
+collaborators for a project that has been approved by the HFEA as part of the
+licence for the derivation  of  human  ES cell lines do  not  need to  apply to the
+Steering  Committee,  although subsequent  research uses for different projects 
+would require approval.
+7.3  Export of stem cell lines 
+Researchers  wishing to  export  human  embryonic  stem  cell lines to  research 
+establishments  outside the UK  should apply  to  the Steering Committee as 
+outlined in Section 8. Research performed oversees should:
+· fulfil the criteria in Section 7.1.1;
+· comply with legislation in the UK and in the country where the research is 
+performed and
+· comply with this Code of Practice.
+8.  Application Procedure 
+The Steering Committee convenes four times per year to consider applications, 
+with two of these meetings held virtually. Applications can be submitted at any
+time and will be reviewed at the first available decision point. 
+Applications that  fit  specific  criteria and therefore  do  not  raise any significant 
+issues  can  be fast  tracked for  approval by  the secretariat  under delegated
+authority. For this procedure to occur, all of the following criteria must be met:
+· the cell line(s)  requested has  been  previously  approved by  the Steering 
+Committee and is listed in the UK Stem Cell Lines Registry;
+· the project has been subject to independent peer­review;
+· the cell lines requested are only to be used for in vitro research;
+· no  animals  are involved in  the research, except  for  teratoma assays  in 
+small mammals with the appropriate Home Office licence;
+· no hybrids/chimeras are involved; and
+· the research will be undertaken only at site(s) in the UK 
+Under  these circumstances  this  procedure  typically takes  2 weeks.  The
+Secretariat can also amend existing approvals to incorporate additional hES cell
+lines without referral to the Steering Committee, provided the lines in question 
+are listed in the UK Stem Cell Registry. 
+The UK  Stem  Cell Bank website has  an on­line application  process  for all
+applications to the Steering Committee for: 
+a)  the deposition of stem cell lines in the Bank,  b)  for access to stem cell lines from the Bank,
+CODE OF PRACTICE FOR THE USE OF HUMAN STEM CELL LINES
+VERSION 5 (April 2010) Page 32 of 45
+c)  to  import  human  embryonic  stem  cell lines  from sources  other than  the
+Bank
+d)  to  export  human  embryonic  stem  cell lines  from sources  other than  the
+Bank and,  e)  to use human embryonic stem cell lines from sources other than the Bank.
+9.  Donor Consent
+9.1  Donor Consent for the use of embryos in research 
+Free and informed  consent are key principles of the Human Tissue Act  (2004) 
+and the HFE Act  (1990). Comprehensive information must be given in  a form 
+that is readily accessible and allows a free and informed decision to be made by 
+potential donors. All written information provided and consent forms have to be
+approved by Local Ethics Committees and for  research involving  embryos also 
+by  the HFEA.  The HFEA requires  that  the donor couple must  have given  in 
+principle consent for the use of embryos in  research.  In addition, the Steering 
+Committee has  in  collaboration  with the HFEA drawn  up a list  of  criteria that 
+must  be addressed in information leaflets and  consent forms  provided by  IVF
+clinics  for  the donation  of embryos  for  stem  cell research.  Donors  should be
+approached as  early  as  possible,  usually before  ovary  stimulation,  to  allow
+sufficient time to think issues over.
+Information Leaflet and Consent Forms: 
+Before patients give consent to donation of their embryos for use in  research 
+projects to derive stem cell lines, they must be given oral information supported
+by  relevant  written  material.  Details of the supporting  information that  HFEA
+requires is available to donors and the written consent that must be provided
+can be found at http://www.hfea.gov.uk/3468.html#guidanceSection5018
+Further guidance on  consenting  arrangements  has  been  published by the UK 
+national network of ‘human embryonic stem cell coordinators’ (HESCCO) ­ see
+hESCCO:  development of  good practice models  for  human  ES cell derivation 
+(Franklin et al Regen Med (2008) 3(1), 105­116).
+9.2  Deriving stem cells from non­embryonic tissues 
+9.2.1 Fetal Tissue
+Fetal tissue is subject to the Human Tissue Act 2004. Researchers should ensure 
+consent  is  obtained in  accordance with  the Human  Tissue Authority Code of 
+Practice on Consent. All such work will need Research Ethics Committee (REC) 
+approvals.
+9.2.2 Tissues used to create human admixed embryos.
+CODE OF PRACTICE FOR THE USE OF HUMAN STEM CELL LINES
+VERSION 5 (April 2010) Page 33 of 45
+The HFE Act 2008 contains provisions relating to consent for the use of gametes 
+or cells to create human admixed embryos (see section 3.3). There are different 
+requirements depending upon the source of the cells used and when they were
+collected. 
+i) Existing Holdings of Tissue (held before the commencement date of
+the 2008 Act 3). These cells can be used without specific consent providing 
+that they  were already  being  lawfully stored for  research  purposes  (which 
+includes compliance with the Human Tissue Act 2004) and that the research 
+is conducted under an HFEA licence and with appropriate REC approval. 
+ii) Gametes or cells from children (under 18 years) 
+Such material can be used to  create embryos for  research  subject to  strict 
+safeguards and under licence from the HFEA. This provision was included to 
+ensure  that  disorders  which  are lethal in  childhood are not  excluded  from 
+embryo research, and in particular stem cell research. The requirements are
+that: 
+o the child suffers from, or is likely to develop, a serious disease, a serious 
+physical or mental disability or any other serious medical condition, 
+o the child is not competent to deal with the issue of consent to the use of 
+its  cells  to  bring  about  the creation  in  vitro  of  an embryo  or human 
+admixed embryo for use for the purposes of a project of research 4
+, 
+o any embryo or human admixed embryo to be created in vitro is to be
+used for the purposes  of  a project  of research  which  is  intended  to 
+increase knowledge about: 
+a)  the disease,  disability or medical condition  that  the child suffers 
+from as  above or any similar disease, disability or medical
+condition, or
+b)  the treatment of,  or care of  persons  affected by,  that  disease,  disability or medical condition  or any similar disease,  disability or
+medical condition, 
+o there are reasonable grounds for believing that research of comparable
+effectiveness  cannot be carried out using cells from persons  who have
+capacity to consent to such research. 
+iii) Gametes or cells from adults who lack capacity to consent 
+Provision is also made for material from adults who lack capacity to consent 
+to  be used to  create embryos  or admixed embryos for research  purposes.  Such  research  must  be conducted under licence from the HFEA who  will
+require assurance on  the points  below. Researchers  must  justify why the
+research  cannot  be done using  cells from adults  with  capacity.  For many
+diseases, even neurodegenerative disorders, there will be a group of patients 
+who retain capacity from whom consent could be sought. The conditions for 
+using material from those who cannot consent are:
+3 This date was not available at time of publication  4 There is an assumption that children over 16 will have capacity to consent unless shown otherwise. In Scotland there
+is legislation defining this – see MRC Guidance on research involving children for further details
+CODE OF PRACTICE FOR THE USE OF HUMAN STEM CELL LINES
+VERSION 5 (April 2010) Page 34 of 45
+o The patient  suffers  from,  or is  likely to  develop,  a serious  disease,  a
+serious  physical or mental disability or any other serious  medical
+condition, 
+o They lack capacity to consent to the use of human cells to bring about 
+the creation in vitro of an embryo or human admixed embryo for use
+for the purposes of a project of research, 
+o The person responsible under the licence has no reason to believe that 
+the patient  had refused such  consent  at  a time  when  s/he had that 
+capacity,  o it appears unlikely that the patient will at some time have that capacity,  o any embryo or human admixed embryo to be created in vitro is to be
+used for  the purposes  of a project  of  research  which  is  intended  to 
+increase knowledge about: 
+a)  the disease, disability or medical condition mentioned above or any
+similar disease, disability or medical condition, or
+b)  the treatment of,  or care of  persons  affected by,  that  disease,  disability or medical condition  or any similar disease,  disability or
+medical condition, 
+o there are reasonable grounds for believing that research of comparable
+effectiveness cannot be carried out if the only human cells that can be
+used to bring about the creation in vitro of embryos or human admixed
+embryos for use for the purposes of the project are the human cells of 
+persons who have capacity to consent to this. 
+In order to use such cells the researcher must identify a person engaged in 
+caring  for  the patient  or interested in their welfare other than  in  a
+professional capacity or for  remuneration,  and  who  is  prepared to  be
+consulted about the proposed research.  If  the researcher cannot  identify
+such a person the researcher must nominate a person who is prepared to be
+consulted by the researcher and who has no connection with the project. The
+person identified by the researcher must then be asked their opinion as to 
+what the patient’s wishes and feelings about the use of their human cells for 
+this  purpose would be likely  to  be if they  had capacity in  relation  to  the
+matter. 
+iv) Any other adult gametes or cells.  There must  be effective consent  in  place for the use of  any other cells to 
+create, store or use an admixed embryo for research. This includes consent 
+from donors of cells used directly to create an admixed embryo or donors of 
+cells  used to  create an  embryo  from  which  an  admixed embryo  is  then 
+derived.
+9.2.3 Tissues used to create induced pluripotent stem cells 
+The donation of tissue for the production of iPS cells must be in accordance with 
+the requirements for tissue use for research. The consent provided by the donor
+would need to be based on appropriate information about the intention of the
+research and  creation of iPS  cells and will fall under the HT Act 2004 and the
+HTA CoP on consent. All research involving human tissue should have Research
+CODE OF PRACTICE FOR THE USE OF HUMAN STEM CELL LINES
+VERSION 5 (April 2010) Page 35 of 45
+Ethics Committee (REC) approval but this is not a legal requirement. The Human 
+Tissue Act 2004 applies to the UK; most of it is not applicable in Scotland which 
+has separate Human Tissue (Scotland) Act 2006. Under the 2004 HT Act consent 
+is required to store or use tissue with the following exceptions:
+· tissue is from a living person and
+· the tissue is anonymised (the researcher is not in possession, and 
+not  likely to come into possession  of information  that  identifies 
+the person from which it has come;) and
+· the material is used for a specific research project approved by a 
+recognised research ethics committee (e.g. NHS REC).
+Tissue from children who lack capacity to consent can only be used with consent 
+from a person with parental responsibility or, if no such person exists, someone
+of a defined ‘qualifying  relationship’. Tissue from adults  who lack  capacity can 
+only  be used subject  to  the requirements  of  the relevant  legislation.  These
+requirements are broadly similar to those described above in section 9.1 and are
+described in detail in MRC Guidance on Adults who Lack Capacity to Consent. 
+Consent to use tissue to create iPS cells should be explicit about the nature of 
+such  research.  Depending  on  the specific  project  researchers  should consider
+ensuring specific consent is sought for areas that may be of particular interest to 
+donors. These include:
+· Potential commercial applications of cell lines,
+· Genetic analysis of derived cells,
+· Use in animal research, and
+· Potential use in clinical transplantation.
+10.  Derivation and use of Stem Cell Lines
+10.1  Quality and safety standards in fundamental stem cell research 
+Careful recording  of procedures and results  is  essential for the verification  of 
+quality and integrity of research and can prove invaluable in resolving problems.
+Those working with stem cell lines are expected to follow the general principles 
+of Good Research Practice –  (See page 43 for full web link)  (Medical Research 
+Council,  2000)  as  well as  best  practice for  cell culture procedures  (UK 
+Coordinating Committee on Cancer Research,1999) – (See page 45 for full web
+link)
+10.2  Regulation  governing  the derivation  and  processing of clinical grade
+stem cell lines 
+All tissues  and  cells  intended  for  human application  are governed by  the EU 
+Directive on  Setting  Standards  of  Quality and  Safety for  the Donation, 
+Procurement,  Testing, Processing, Storage and  Distribution  of  Human  Tissues 
+and Cells – transposed into the UK as the Human Tissue (Quality and Safety for 
+Human Application)  regulation  2007.  The Directive covers  haematopoietic, 
+umbilical cord and  bone marrow stem  cells,  reproductive cells  (eggs,  sperm),
+CODE OF PRACTICE FOR THE USE OF HUMAN STEM CELL LINES
+VERSION 5 (April 2010) Page 36 of 45
+fetal tissues and  cells and  adult and  embryonic  stem  cells.  The Directive does 
+not cover research for purposes other than application to the human body, e.g. 
+in vitro research or in animal models.  The aim  of the Directive is to lay down 
+standards  of  quality in  order to  ensure  a high  level of protection  of  human 
+health. 
+A key principle of the EU Tissue Directive is the requirement of traceability of 
+human tissues and cells from donor to recipient and vice versa in order to make
+it possible to verify the compliance with quality and safety standards.  A cell line
+developed de novo should be given  a unique and  unambiguous  identifying 
+number that must preserve donor anonymity and be used in all procedures and 
+publications. Researchers must ensure that it is possible to trace cryopreserved
+stem  cell lines to the primary  cells  and the donated human tissue,  and  must 
+ensure that an anonymised link can be put in place with the UK Stem Cell Bank
+for the purposes of traceability
+Stem  cells  and  stem  cell lines  intended  for human  use must  be derived and 
+processed in  facilities  that  meet  the statutory  requirements  of  for the HTA
+Directions, as a minimum, the stages of donation procurement and testing. The
+requirements of good (pharmaceutical) manufacturing practice (GMP) should be
+applied to  subsequent  activities  where the stem  cell and  stem  cell lines  in 
+question  have a reasonable expectation  of  clinical utility.  The good practice
+standards applicable under these circumstances  should be discussed with  the
+HTA and GMP standards with the MHRA.
+11.  Intellectual Property
+11.1  Patentability of stem cells 
+A notice setting out the UK Patent Office’s general practice on the patentability 
+of inventions involving  human  stem  cells, published in  February 2009 may be
+found at  http://www.ipo.gov.uk/pro­types/pro­patent/p­law/p­pn/p­pn­ 
+stemcells­20090203.htm; this  states that each  case will be treated on its own 
+merits in the light of all relevant  circumstances,  and stresses that the Office’s 
+practice is subject to any future guidance from the UK courts.  In summary, the
+Patent Office:
+· will not grant patents for processes of obtaining stem cells from human 
+embryos, · will not grant patents for human totipotent stem cells and
+· will grant patents for inventions involving human pluripotent stem cells 
+provided they satisfy the normal requirements for patentability.
+11.2  Intellectual property generated by the UK Stem Cell Bank 
+Subject to the approval of the Steering Committee, the staff of the UK Stem Cell
+Bank will perform validation  and other tests  on  newly  deposited cell lines,  as 
+well as  research  aimed  at  improving  Banking  processes  and  procedures  (e.g.
+CODE OF PRACTICE FOR THE USE OF HUMAN STEM CELL LINES
+VERSION 5 (April 2010) Page 37 of 45
+relating to  storage,  reproducibility and  quality). Bank staff must  not  however,  conduct discovery research on Banked cell lines. 
+During the period of MRC/BBSRC funding, any intellectual property arising from
+research and development activities  carried out pursuant to the UK Stem Cell
+Bank’s  operation  will be assigned to  MRC for the purposes  of  protection  and 
+exploitation.  Net  revenues  generated from  exploitation  of  such  intellectual
+property will be used solely for  supporting the operation of the UK Stem Cell
+Bank. When an invention is dependent on a specific cell line, the owners of any
+Banked stem  cell lines  used by  the UK  Stem  Cell Bank in  generating  such 
+intellectual property,  shall have the royalty­free,  non­exclusive right,  without
+the right  to  sub­licence,  to  such  intellectual property for use only  with  the
+specific  cell line(s)  involved in  generating such  intellectual property.  In  the
+event  the depositor wishes  to  use the intellectual property other than  solely 
+with  the specific  stem  cell line then  a further licence or permission  will be
+required from MRC.
+Other than  as  set  out  above, the UK  Stem  Cell Bank will not take any direct 
+interest in intellectual property embodied in deposited cell lines, and any legal
+agreements involving the Bank will incorporate this principle.  Furthermore, the
+UK  Stem  Cell Bank must  not  transfer,  transmit  or in  any other way  disclose
+commercially confidential information about banked cell lines to any third party,  without prior permission from the depositor.
+CODE OF PRACTICE FOR THE USE OF HUMAN STEM CELL LINES
+VERSION 5 (April 2010) Page 38 of 45
+12.  Glossary of terms and abbreviations
+Accessor 
+A researcher who withdraws a stem cell line from the UK Stem Cell Bank for use
+in an approved research project. 
+(Note:  applications to the Steering  Committee to  access a stem cell line from
+the UK  Stem  Cell Bank must  be made by the host institution  rather than the
+researcher).
+Aliquot 
+A defined amount of something e.g. cells.
+Anonymisation 
+The process of removing personal names and data from documents that would
+reveal the identity of a person.
+Archived 
+Data or samples that have been preserved against future need.
+Auditing 
+A systematic,  independent  and  documented process  for  obtaining  evidence to 
+determine the extent to which the Quality Management System  requirements 
+are fulfilled.  (Note: Guidance on auditing quality and environmental management systems is 
+provided in ISO 19011).
+Autologous 
+From the same individual.
+BBSRC 
+Biotechnology and Biological Sciences Research Council
+Blastocyst 
+A hollow ball of  50­100  cells  reached after about  five days’ embryonic 
+development just prior to implantation in the uterus.
+Cell culture
+Cells maintained in the laboratory by repeated passage in a sterile container.
+Cell line
+A well characterised cell culture,  normally  derived from a single cell, that  has 
+been  demonstrated to be phenotypically  and  genotypically  consistent  over a
+specified number of population doublings.
+Clinical grade
+A stem cell line appropriate for use in clinical research and application, i.e. it has 
+been  derived under conditions  of  Good Manufacturing  Practice (GMP)  and  has 
+passed rigorous safety testing to allow it to be used in studies involving human­ 
+participation.
+CODE OF PRACTICE FOR THE USE OF HUMAN STEM CELL LINES
+VERSION 5 (April 2010) Page 39 of 45
+Clinical trial 
+A rigorously  controlled test  on  human  subjects  of  a new drug, or other
+treatment, or a new invasive medical device.
+Clonal 
+Derived from a single cell.
+Confidentiality 
+Prevention of disclosure, other than to authorised individuals, of a participant’s 
+identity.
+Consent 
+The voluntary consent given by a patient (or next of kin) to participate in a study 
+(which may include donating tissue) after being informed of its purpose, method of 
+treatment,  procedure for  assignment to treatment,  benefits  and  risks  associated
+with participation, and required data collection procedures and schedule.
+Curation 
+Long term preservation of material or data, sometimes in an archive. Deposit 
+A representative proportion of the cell line(s) derived from each embryo donated
+altruistically that is made available for laboratory research use via the UK Stem 
+Cell Bank. Depositor 
+A researcher who deposits a stem cell line in the UK Stem Cell Bank
+(Note:  applications to the Steering Committee to deposit a stem cell line in the
+UK  Stem  Cell Bank must  be made by  the host  institution  rather than the
+researcher). DH
+Department of Health
+Differentiation 
+The process by which a cell becomes specialised to its final function.
+Diploid 
+Containing two sets of chromosomes.
+Documented procedures 
+Procedures that have been tested and optimised and written up in an operating 
+manual for others to use. Donor 
+A person who gifts embryos, cells or tissues.
+Embryo
+The first  stage in  the development of  a human  being, usually  the result  of 
+fertilising an egg with a sperm; from the eighth week of fertilisation the embryo 
+is referred to as a fetus.
+CODE OF PRACTICE FOR THE USE OF HUMAN STEM CELL LINES
+VERSION 5 (April 2010) Page 40 of 45
+Embryonic germ cells 
+Stem cells derived from primordial germ cells.
+EMA
+European Medicines Agency
+Exogenous 
+Originating outside of the body.
+Exploitation 
+The process of turning a patented invention into a commercial success.
+Fetus 
+A developing human from eight weeks after conception to birth.
+Full economic costs
+The all inclusive cost of an activity, i.e. producing a finished cell line. Gamete
+A male sperm or female egg. Gene
+A functional unit of heredity that is a segment of DNA located in a specific site
+on a chromosome.  A gene directs the formation of an enzyme or other protein.
+Genotype
+The genetic constitution of an organism. This information is used as a "blueprint"
+or set  of instructions  for building  and maintaining  the organism. The
+instructions  are located within the DNA of  cells  and  are written  in a coded
+language (the genetic  code);  they  are copied at  the time  of  cell division  or
+reproduction and are passed from one generation to the next. GTAC
+Gene Therapy Advisory Committee
+HFEA
+Human Fertilisation and Embryology Authority
+HTA
+Human Tissue Authority
+Human Admixed Embryos 
+Embryos  which  contain  both  human  and  animal material. The most  common 
+type is  a cytoplasmic  hybrid embryo,  which  is  created by  adding the nucleus 
+from a mature human cell (such as a skin cell) to an animal egg cell emptied of 
+its nucleus, via a process called somatic cell nuclear transfer. Cytoplasmic hybrid
+embryos are 99.9 per cent human.
+Immortalized 
+Made immortal.  An  immortalized cell line has  the ability to  grow through  an 
+indefinite number of  divisions  in  culture,  normally  as  a result  of  genetic 
+manipulation.
+CODE OF PRACTICE FOR THE USE OF HUMAN STEM CELL LINES
+VERSION 5 (April 2010) Page 41 of 45
+Induced pluripotent stem cell (iPS cells), are a type of pluripotent stem cell
+derived from a non­pluripotent cell, such as a differnetiated skin cell.
+Informed consent 
+The voluntary  consent given by a patient to participate in a study after being 
+informed  of  its  purpose,  method of  treatment,  procedure  for assignment to 
+treatment,  benefits  and  risks  associated with  participation,  and  required data 
+collection procedures and schedule.
+Intellectual Property 
+Intellectual Property is any product of the human intellect that is unique, novel
+and unobvious and has some value in the market place.  (Note: the employer of a researcher who derives a stem cell line is normally the
+owner of any intellectual property relating to that cell line)
+IVF 
+In vitro fertilisation; the fertilisation of an egg by a sperm outside of the body.
+Laboratory grade
+A stem  cell line appropriate for  use in laboratory­based research  but  not  for 
+clinical application,  i.e.  it  has  not  been  derived under conditions  of  Good
+Manufacturing Practice (GMP).
+Liability 
+The state of being legally obliged and responsible. Marginal costs
+The amount by which production costs are increased as a result of generating 
+one additional unit of output.
+Mesenchymal stem cells 
+Rare stem  cells  present  in  human  bone marrow that  have been  shown  to 
+differentiate into a variety of different cell types in culture. MHRA
+Medicines and Healthcare products Regulatory Agency
+MRC 
+Medical Research Council
+mRNA
+Messenger ribonucleic acid is the molecule that carries the information from DNA
+to acts as a template for protein synthesis.
+Multipotent stem cells 
+Stem  cells  that  have the potential to  differentiate into  a limited number of 
+specific  cell types  in  order to  regenerate the tissue in  which  they  normally 
+reside. Mycoplasma 
+A type of bacterium which commonly infects cells grown in culture.
+CODE OF PRACTICE FOR THE USE OF HUMAN STEM CELL LINES
+VERSION 5 (April 2010) Page 42 of 45
+Passage
+Transfer of cells from one culture environment to another.
+Patent 
+A patent for an invention is granted by government to the inventor, giving the
+inventor  the right  for  a limited period to stop others  from making, using  or
+selling the invention  without the permission of the inventor. When a patent is 
+granted, the invention becomes the property of the inventor, which  ­ like any
+other form of property or business asset ­ can be bought, sold, rented or hired.
+Phenotype
+The "outward,  physical manifestation"  of  the organism;  i.e.  the sum  of  the
+atoms, molecules,  macromolecules,  cells,  structures, metabolism, energy 
+utilization,  tissues,  organs,  reflexes  and behaviours. The phenotype is  the
+product of the genotype.
+Pluripotent stem cell
+A single pluripotent  stem  cell has the ability to give rise to types of  cells that 
+develop from the three germ layers (mesoderm, endoderm and ectoderm) from
+which all the cells in the body arise.  Pluripotent cells thus have the potential to 
+develop into  every  cell type in  the human  body,  but  cannot  develop into  an 
+embryo on their own.
+Population doubling 
+A measured doubling of cell numbers.
+Primary cells 
+Cells derived from an in vivo or ex vivo source.
+Primordial Germ Cells 
+Precursors  of  reproductive cells  within the embryo that  give rise to  eggs  and 
+sperm.
+Processing 
+All operations  involved in  the preparation of  the stem cell line,  from receipt 
+through preparation and packaging to its completion as a finished therapy.
+Quality management systems 
+The set  of  interrelated or interacting  elements  that  is  implemented by  an 
+organisation to direct and control its activities in order to fulfil stated, implied or
+obligatory needs or expectations. 
+(Note: fundamental principles of Quality Management Systems are described in 
+ISO 9000)
+Reproductive cloning 
+The implantation of an embryo produced by cell nucleus replacement / somatic 
+cell nuclear transfer (therapeutic  cloning) into  the womb of a woman  for the
+purposes of generating a pregnancy therefrom.  (Note:  this  procedure is illegal in the UK  and in many other countries in the
+world.)
+CODE OF PRACTICE FOR THE USE OF HUMAN STEM CELL LINES
+VERSION 5 (April 2010) Page 43 of 45
+Requestor 
+A researcher seeking approval from the Steering Committee to withdraw a stem 
+cell line from the UK Stem Cell Bank for use in an approved research project.  (Note:  applications to the Steering Committee to access a stem  cell line from
+the UK  Stem  Cell Bank must  be made by the host institution  rather than the
+researcher.)
+Risk 
+Combination  of the probability of  occurrence of  harm  and the severity of that 
+harm. Risk/benefit assessment 
+Weighing  of the potential benefits of  a treatment  against  the harm  that  the
+recipient might experience.
+Somatic stem cells 
+Stem cells derived from the adult body or fetus.
+Somatic Cell Nuclear Transfer (SCNT) 
+The transfer of  an  adult  cell nucleus  into  an  egg that  has  had its  nucleus 
+removed to asexually create an embryonic clone without the fusion of sperm and
+egg.
+Stakeholders 
+Parties or individuals with an interest in an issue or question.
+Stem cells 
+Cells capable of self replication, proliferation and differentiation.
+Stem Cell Bank 
+A facility that is  responsible for  accessioning, processing, packaging, labelling,
+storage and delivery of a finished stem cell line issued under its name.
+Sterile
+Condition of a product that is free from contaminating organisms.
+Tissue engineering 
+The application of principles and methods of engineering and life sciences to the
+design,  specification  and  fabrication  of  cells,  biomaterials  or biomolecules  to 
+restore or modify the biological functions of tissues.
+Third party 
+Someone other than the principals who are involved in a transaction
+Totipotent stem cell
+At two to three days after fertilisation an embryo consists of identical cells which 
+are totipotent; that is to say, each could give rise to an embryo on its own. Such 
+cells are totally unspecialised and have the capacity to differentiate into any of 
+the cells  which  constitute the fetus  including  the placenta  and  membranes 
+around the fetus.
+CODE OF PRACTICE FOR THE USE OF HUMAN STEM CELL LINES
+VERSION 5 (April 2010) Page 44 of 45
+Toxicology 
+Study of the potential of materials to give rise to harm to health by virtue of 
+their effect on biological systems.
+Traceability 
+Tracking an individual through their medical history.
+Trademark 
+A formally  registered symbol identifying  the manufacturer  or distributor  of  a
+product.
+Validation 
+Establishment  of  documented evidence which  provides  a high  degree of 
+assurance that  a planned process  will consistently perform according  to  the
+intended specified outcomes.
+Verification 
+Confirmation by examination and provision of objective evidence that specified
+requirements have been fulfilled.
+13.  Full Website Links: 
+3.1  The Human Tissue Act (2004):
+http://www.legislation.hmso.gov.uk/acts/acts2004/20040030.htm
+3.2  European Tissue and Cells Directive:
+http://www.hta.gov.uk/legislationpoliciesandcodesofpractice/legislation/eutissue
+andcellsdirectives.cfm
+3.3. The Human Fertilisation and Embryology (HFE) Act (1990 and 2008) ­  http://www.opsi.gov.uk/acts/acts1990/Ukpga_19900037_en_1.htm
+3.4  Medicines for Human Use (Clinical Trials) Regulations 2004
+http://www.uk­legislation.hmso.gov.uk/si/si2004/20041031.htm
+3.5  EC Regulations on Advanced Therapy Medicinal Products 2007
+http://www.mhra.gov.uk/Howweregulate/Advancedtherapymedicinalproducts/in 
+dex.htm
+3.6  The Role of the Gene Therapy Advisory Committee (GTAC) and the
+Regulatory Route Map:
+http://www.dh.gov.uk/ab/GTAC/index.htm
+3.7  The UK Stem Cell Tool Kit 
+http://www.sc­toolkit.ac.uk
+4. The UK Stem Cell Bank:
+CODE OF PRACTICE FOR THE USE OF HUMAN STEM CELL LINES
+VERSION 5 (April 2010) Page 45 of 45
+http://www.ukstemcellbank.co.uk/
+5.1  Steering Committee:
+http://www.mrc.ac.uk/Ourresearch/Ethicsresearchguidance/Stemcellbank/Steer
+ingcommittee/index.htm
+5.2  Bank Management Committee:
+http://www.mrc.ac.uk/Ourresearch/Ethicsresearchguidance/Stemcellbank/Mana 
+gementcommittee/index.htm
+7.2  UK Stem Cell Lines Registry 
+http://www.mrc.ac.uk/Ourresearch/Ethicsresearchguidance/Stemcellbank/Using 
+thestemcellbank/MRC003079#P19_725
+9.2  Donor Consent for the use of embryos in research 
+http://www.hfea.gov.uk/3468.html#guidanceSection5018
+10.1  Good Research Practice:
+http://www.mrc.ac.uk/Ourresearch/Ethicsresearchguidance/Researchpractice/M
+RC002539
+UK Coordinating Committee on Cancer Research, 1999:
+http://www.nature.com/bjc/journal/v82/n9/pdf/6691169a.pdf
+10.2  EU Directive on  Setting  Standards  of Quality  and  Safety  for  the
+Donation, Procurement, Testing, processing, Storage and Distribution of
+Human Tissues and Cells 
+http://eurlex.europa.eu/smartapi/cgi/sga_doc?smartapi!celexapi!prod!CELEXnumdoc&lg=
+en&numdoc=32004L0023&model=guichett
+11.1  Patentability of stem cells 
+http://www.ipo.gov.uk/pro­types/pro­patent/p­law/p­pn/p­pn­stemcells­ 
+20090203.htm

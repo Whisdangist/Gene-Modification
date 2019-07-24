@@ -1,0 +1,1053 @@
+Unauthorized Version
+Revised version of the
+German Genetic Engineering Act
+of 16 December 1993
+Act on the Regulation of Genetic Engineering
+(Genetic Engineering Act)
+Gesetz zur Regelung der Gentechnik
+(Gentechnikgesetz - GenTG)
+Table of Contents
+Part One
+General Provisions
+Section 1 Purpose of the Act
+Section 2 Scope
+Section 3 Definitions
+Section 4 Commission
+Section 5 Functions of the Commission
+Section 6 General duties to take care and keep records, prevention of risks
+Part Two
+Genetic Engineering Operations in Genetic Engineering Installations
+Section 7 Safety levels, safety measures
+Section 8 Authorization and notification of genetic engineering installations
+Section 9 Further genetic engineering operations for research purposes
+Section 10 Further genetic engineering operations for commercial purposes
+Section 11 Authorization procedure
+Section 12 Notification procedure
+Section 13 Authorization requirements
+Part Three
+Release and Placing on the Market
+Section 14 Release and placing on the market
+Section 15 Application documents required for release and placing on the market
+Section 16 Authorization for release and placing on the market
+Part Four
+Common Provisions
+Section 17 Use of documentation
+Section 17a Confidentiality of information
+Section 18 Consultation procedure
+Section 19 Incidental provisions, subsequent conditions
+Section 20 Temporary discontinuance of operation
+Section 21 Obligations to notify
+Section 22 Other authority decisions
+Section 23 Exclusion of claims under private law to protection against abridgment of legal
+rights
+Section 24 Costs
+- 2 -
+H:\Netz\gentech\GenTGengl10-95c.doc 11.04.03 14:54
+Section 25 Supervision, obligation to provide information and obligation of tolerance
+Section 26 Orders by the authorities
+Section 27 Expiry of the authorization
+Section 28 Obligation to provide information
+Section 29 Evaluation and provision of data
+Section 30 Enactment of ordinances and administrative provisions
+Section 31 Competent authorities
+Part Five
+Liability Provisions
+Section 32 Liability
+Section 33 Maximum amount of liability
+Section 34 Presumed cause of damage
+Section 35 The injured party's rights to be informed
+Section 36 Coverage provision
+Section 37 Liability under other legal provisions
+Part Six
+Penal Provisions and Provisions on Administrative Fines
+Section 38 Administrative fines
+Section 39 Penal provisions
+Part Seven
+Transitory and Final Provisions
+Section 40 (Deleted)
+Section 41 Transitory provision
+Section 41a (Deleted)
+Section 42 Applicability of these provisions to the other states party to the Agreement on
+theEuropean Economic Area
+- 3 -
+H:\Netz\gentech\GenTGengl10-95c.doc 11.04.03 14:54
+Part One
+General Provisions
+Section 1
+Purpose of the Act
+It shall be the purpose of this Act
+1. to protect the life and health of human beings, animals and plants as well as the symbiotic structure of the environment at large and also material goods from any possible risks involved in genetic engineering procedures and products and to prevent the emergence of such
+risks and
+2. to provide for the legal framework for the research into, development, use and promotion
+of the scientific, technological and economic possibilities inherent in genetic engineering.
+Section 2
+Scope
+(1) This Act shall apply to
+1. genetic engineering installations,
+2. genetic engineering operations,
+3. releases of genetically modified organisms and
+4. the placing on the market of products containing or consisting of genetically modified organisms; where the placing on the market has been regulated by other legal provisions equivalent to the provisions of this Act and which make the admissibility of their placing on the market
+conditional on an adequate risk assessment, only Sections 32 to 37 of this Act shall apply.
+(2) This Act shall not apply to the use of genetically modified organisms in human beings.
+Section 3
+Definitions
+For the purposes of this Act:
+1. organism
+means any biological entity capable of replication or of transferring genetic material,
+2. genetic engineering operations
+a) mean the production of genetically modified organisms,
+b) the use, replication, storage, destruction or disposal as well as the in-plant transportation of genetically modified organisms, insofar as no authorization has been granted as yet
+for their release or placing on the market for the purpose of a later introduction into the environment,
+3. genetically modified organism
+- 4 -
+H:\Netz\gentech\GenTGengl10-95c.doc 11.04.03 14:54
+means any organism the genetic material of which has been altered in a way that does
+not occur naturally by mating or natural recombination. Techniques of altering the genetic material within these terms shall be, in particular:
+- recombinant DNA techniques using vector systems,
+- techniques involving the direct introduction into an organism of hereditary material
+prepared outside the organism, including micro-injection, macro-injection and microencapsulation,
+- cell fusion or hybridisation techniques whereby live cells with new combinations
+of genetic material are formed through methods that do not occur naturally.
+The following shall not be considered techniques of altering genetic material:
+- in vitro fertilisation,
+- conjugation, transduction, transformation or any other natural process,
+- polyploidy induction,
+unless they involve the use of genetically modified organisms as donors or recipients or
+the use of recombinant DNA molecules. Neither shall the following be considered techniques of
+altering genetic material
+- mutagenesis,
+- cell and protoplast fusion of cells from plants that can be regenerated into such
+plants which can also be produced by traditional breeding methods,
+unless genetically modified organisms are used as donors or recipients. Provided that
+they do not involve any release or placing on the market, the following shall not be considered
+techniques of altering genetic materials, either:
+- the production of somatic human or animal hybridoma cells,
+- the self-cloning of non-pathogenic, naturally occurring organisms if they do not
+contain any adventitious agents and have either a proven and extended history of safe use or
+built-in biological barriers, which confer limited survivability and replicability without adverse consequences in the environment,
+unless genetically modified organisms are used as donors or recipients.
+4. genetic engineering installation
+means any installation where contained genetic engineering operations within the meaning of No. 2 are conducted and where physical barriers are used, if necessary with additional
+biological or chemical barriers or a combination of biological and chemical barriers, to minimize
+the contact of the organisms utilized with human beings and the environment,
+5. genetic engineering operation for research purposes
+means any operation used for teaching, research or development purposes or an operation for non-industrial or non-commercial purposes which is conducted on a small scale,
+6. genetic engineering operation for commercial purposes
+means any operation other than those described in No. 5,
+7. release
+- 5 -
+H:\Netz\gentech\GenTGengl10-95c.doc 11.04.03 14:54
+means the targeted introduction into the environment of genetically modified organisms,
+insofar as no authorization has been granted as yet covering the placing on the market for the
+purpose of a later introduction into the environment,
+8. placing on the market
+means the supply of products containing or consisting of genetically modified organisms
+to third parties and the introduction into the area in which this Act applies unless the products
+are intended for genetic engineering operations in genetic engineering installations or subjects of
+an authorized release. International transit conducted under the supervision of the customs authorities and the supply as well as the introduction into the area in which this Act applies for the
+purpose of clinical testing shall not be considered as placing on the market,
+9. operator
+means any legal person or natural person or unincorporated association that under its
+name constructs or operates a genetic engineering installation, carries out genetic engineering
+operations or releases or places on the market for the first time products containing or consisting of genetically modified organisms, insofar as no authorization pursuant to Section 16 para
+(2) has been granted as yet, which, pursuant to Section 14 para (1) sentence 2, permits the
+placing on the market of the offspring or the replication material,
+10. project manager
+means any person who, as part of his/her professional responsibilities, performs the direct planning, management or supervision of a genetic engineering operation or a release,
+11. biosafety officer
+means one person or a group of persons (biosafety committee) that checks whether the
+project manager complies with his/her responsibilities and advises the operator,
+12. safety levels
+mean genetic engineering operations classified according to their risk potential,
+13. laboratory-related safety measures or production-related safety measures
+mean established operating techniques and an established equipment of genetic engineering installations,
+14. biosafety measures
+mean the use of recipient organisms and vectors with certain risk-reducing properties,
+15. vector
+means a biological carrier introducing nucleic acid segments into a new cell.
+Section 4
+Commission
+(1) A commission of experts shall be set up at the Federal Health Office under the name
+of "Central Commission for Biosafety" (Commission). This Commission shall be composed of
+1. ten experts with particular and ideally international experience in the fields of microbiology, cell biology, virology, genetics, hygiene, ecology and safety technology; at least six of these
+shall work in the field of recombinant nucleic acids; each of the fields mentioned must be represented by at least one expert, the field of ecology by at least two experts;
+2. one qualified person each from the fields of trade unions, occupational safety, industry,
+protection of the environment and the research-promoting organizations.
+- 6 -
+H:\Netz\gentech\GenTGengl10-95c.doc 11.04.03 14:54
+For each member of the Commission, an alternate shall be appointed from the same
+field. After hearing the Commission, up to two additional experts may be appointed as alternates
+in individual fields where this is necessary for the appropriate execution of its functions.
+(2) The members of the Commission shall be appointed for a period of three years by
+the Federal Ministry for Health in agreement with the Federal Ministries for Research and Technology, of Labour and Social Affairs, of Food, Agriculture and Forestry, for the Environment, Nature Conservation and Nuclear Safety as well as of Economics. The members may be reappointed.
+(3) The members and their alternates shall be independent and not bound by instructions. They shall preserve confidentiality.
+(4) The Federal Government shall be empowered to regulate by means of ordinances
+having the force of law (hereinafter referred to as ordinances) and with the consent of the Bundesrat, specific details governing the appointment to and the procedure to be followed by the
+Commission, the enlistment of external experts and the cooperation between the Commission
+and the authorities responsible for the implementation of the Act. In addition, ordinances adopted
+with the consent of the Bundesrat may also stipulate that appointment decisions pursuant to
+para 2 shall be made in liaison with the Laender governments.
+Section 5
+Functions of the Commission
+The Commission shall consider and evaluate safety-relevant issues in the light of the
+provisions contained in this Act, make pertinent recommendations and advise the Federal Government and the Laender governments on safety-relevant issues specific to genetic engineering. In making its recommendations, the Commission shall also give adequate consideration to
+the international state of the art of safe genetic engineering. The Commission shall undertake to
+inform the general public about its activities by means of an annual report.
+Section 6
+General duties to take care and keep records, prevention of risks
+(1) Any person who constructs or operates genetic engineering installations, conducts
+genetic engineering operations, releases genetically modified organisms or places on the market as an operator products containing or consisting of genetically modified organisms shall, in
+advance, comprehensively assess any associated risks and adapt this assessment to the state
+of the scientific art. This risk assessment shall take into consideration, in particular, the characteristics of the donor and recipient organisms, the vectors and the genetically modified organisms, as well as the impacts of the foregoing organisms on human health and the environment.
+(2) The operator shall make any precautions requisite according to the state of the scientific and technological art in order to protect the legal interests specified in Section 1
+No. 1 from any possible risks and to prevent the emergence of such risks. The operator shall
+ensure that the installation will not entail any risks for the legal interests specified in Section 1
+No. 1 even after operations have been discontinued.
+(3) The operator shall keep records on the performance of genetic engineering operations and on releases and shall, on request, submit these to the competent authority. The Federal Government shall, after hearing the Commission, stipulate by means of ordinances adopted
+with the consent of the Bundesrat the details governing the format and contents of these records and the duties to retain and submit the latter.
+(4) Any person who performs genetic engineering operations or releases shall be obliged
+to appoint project managers as well as biosafety officers or committees.
+- 7 -
+H:\Netz\gentech\GenTGengl10-95c.doc 11.04.03 14:54
+Part Two
+Genetic Engineering Operations in Genetic Engineering Installations
+Section 7
+Safety levels, safety measures
+(1) Genetic engineering operations shall be classified into four safety levels:
+1. Safety level 1 shall comprise genetic engineering operations which, according to current
+scientific knowledge, do not involve any risk to human health and the environment.
+2. Safety level 2 shall comprise genetic engineering operations which, according to current
+scientific knowledge, involve a minor risk to human health or the environment.
+3. Safety level 3 shall comprise genetic engineering operations which, according to current
+scientific knowledge, involve a moderate risk to human health or the environment.
+4. Safety level 4 shall comprise genetic engineering operations which, according to current
+scientific knowledge, involve or give reasonable ground to suspect a high risk to human health
+or the environment.
+In order to attain the purposes specified in Section 1 No. 1, the Federal Government shall
+be empowered, after hearing the Commission, to assign by means of an ordinance adopted
+with the consent of the Bundesrat the specific types of genetic engineering operations to the appropriate safety levels . This assignment shall be based on the risk potential inherent in the genetic engineering operations concerned which is identified through the characteristics of the recipient and donor organisms, the vectors and the genetically modified organism. It shall give
+consideration to any potential impacts on the employees, the population, livestock, crops and
+the environment at large as well as to ensuring the availability of adequate counter-measures.
+(2) In performing genetic engineering operations, specific laboratory and productionrelated safety measures shall be adhered to. The Federal Government shall, after hearing the
+Commission, establish by means of an ordinance adopted with the consent of the Bundesrat,
+the laboratory and production-related safety measures requisite for the individual safety levels
+as well as the requirements governing the selection and safety assessment of the recipient organisms and vectors used in genetic engineering operations.
+Section 8
+Authorization and notification of genetic engineering installations
+(1) Genetic engineering operations may only be performed in genetic engineering installations within the meaning of Section 3 No. 4. The construction and operation of genetic engineering installations shall be subject to authorization (installation authorization) unless otherwise
+provided in this Act. This authorization confers the right to perform the genetic engineering operations specified in the notice of authorization for commercial or research purposes.
+(2) Both the construction and operation of genetic engineering installations where genetic
+engineering operations at safety level 1 are to be performed and the genetic engineering operations envisaged, shall require the competent authorities to be notified prior to the scheduled start
+of construction or, where the installation has already been constructed, prior to the scheduled
+start of operation.
+(3) Upon application, an authorization may be granted for
+- 8 -
+H:\Netz\gentech\GenTGengl10-95c.doc 11.04.03 14:54
+1. the construction of a genetic engineering installation or part of such an installation or
+2. the construction and operation of part of a genetic engineering installation (partial authorization).
+(4) Major alterations to the location, design or operation of a genetic engineering installation shall require an authorization of installation. This shall not affect para (2).
+Section 9
+Further genetic engineering operations for research purposes
+(1) The performance of further genetic engineering operations at safety levels 2, 3 or 4
+for research purposes shall require the competent authority to be notified prior to the scheduled
+start of the operations. Further genetic engineering operations which are performed
+1. by an international depository in order to comply with the requirements of the Budapest
+Treaty of 28 April 1977 on the International Recognition of the Deposit of Microorganisms for the
+Purpose of Patent Procedure (Federal Law Gazette 1980 II, p. 1104, 1984 II, p. 679) or
+2. upon the motion of the competent authority to analyse a sample within the framework of
+the inspection under Section 25
+shall not be subject to notification.
+(2) Further genetic engineering operations for research purposes that are to be assigned
+to a safety level higher than that comprising the operations covered by the authorization pursuant to Section 8 para (1) or the notification pursuant to Section 8 para (2), may only be performed under a new installation authorization.
+(3) Where a genetic engineering operation at safety level 2 that is already covered by a
+notification or authorization is to be performed for research purposes in another authorized genetic engineering installation run by the same operator, where genetic engineering operations of
+this type may be performed, the competent authority shall be notified thereof before the operation commences.
+Section 10
+Further genetic engineering operations for commercial purposes
+(1) The performance of further genetic engineering operations at safety level 1 for commercial purposes shall require the competent authorities to be notified prior to the scheduled
+start of the operations.
+(2) The performance of further genetic engineering operations at safety levels 2, 3 or 4
+for commercial purposes shall require a separate authorization.
+(3) Further genetic engineering operations for commercial purposes that are to be assigned to a safety level higher than that comprising the operations covered by the authorization
+pursuant to Section 8 para (1) or the notification pursuant to Section 8 para (2) may only be performed under a new installation authorization.
+Section 11
+Authorization procedure
+(1) The authorization procedure shall require a written application.
+- 9 -
+H:\Netz\gentech\GenTGengl10-95c.doc 11.04.03 14:54
+(2) Any application for authorization of a genetic engineering installation pursuant to Section 8 para (1) sentence 2, para (3) or (4) shall be accompanied by the documentation necessary to examine whether the requirements for an authorization inclusive of the authority decisions involved according to Section 22 para (1) are fulfilled. The documentation shall contain the
+following information, in particular:
+1. the location of the genetic engineering installation as well as the name and address of
+the operator,
+2. the name of the project manager and proof of the expert knowledge required,
+3. the name of the biosafety officer and proof of the expert knowledge required,
+4. a description of the genetic engineering installation existing or planned and its operation,
+particularly of the equipment critical for safety,
+5. the risk assessment according to Section 6 para (1) and a description of the genetic engineering operations envisaged, specifying the characteristics of the donor and recipient organisms used, the vectors and the genetically modified organism in terms of the safety level required and their possible safety-related impacts on the legal interests established in Section 1
+No. 1 and the precautions provided for,
+6. a description of the techniques available for recording, identifying and monitoring the genetically modified organisms,
+7. in the field of genetic engineering operations for commercial purposes additionally information about staff number and training, utilization of residual waste, emergency response plans
+and about accident prevention measures.
+(3) (Deleted)
+(4) Any application for the granting of an authorization to perform further genetic engineering operations at safety levels 2, 3 or 4 for commercial purposes pursuant to Section 10
+para (2) shall be accompanied by the documentation necessary to examine whether the requirements for the authorization are fulfilled. The documentation shall include the following information, in particular:
+1. a description of the genetic engineering operations envisaged according to para (2) sentence 2 No. 5,
+2. a declaration by the project manager stating whether and, if so, in what respect the information pursuant to para (2) sentence 2 Nos. 1 to 3 has changed,
+3. the date and file number of the notice of authorization covering the construction and operation of the genetic engineering installation,
+4. a description of any necessary alterations of safety-relevant equipment and arrangements.
+(5) The competent authority shall acknowledge to the applicant immediately and in writing the receipt of the application and the documentation enclosed and check whether the application and documentation suffice to examine whether they fulfill the authorization requirements.
+Where the application or the documentation is incomplete, the competent authority shall immediately request the applicant to complement the application or the documentation within a reasonable period of time.
+- 10 -
+H:\Netz\gentech\GenTGengl10-95c.doc 11.04.03 14:54
+(6) Any application for authorization pursuant to Section 8 para (1) sentence 2, para (3)
+or (4) shall be decided upon in writing within a period of three months. Where the authorization
+involves a genetic engineering installation where genetic engineering operations at safety level 2
+are to be performed for research purposes, the competent authority shall decide upon this application immediately, failing this, after a period of one month at the latest, if the genetic engineering operation is comparable to a genetic engineering operation already classified by the
+Commission; para (8) sentences 1 to 3 shall not apply. If the construction or operation of the
+genetic engineering installation where genetic engineering operations at safety level 2 are to be
+performed for research purposes, requires additional authority decisions pursuant to Section 22
+para (1), the period referred to in sentence 2 shall be extended to three months. The running of
+such a period shall be suspended for as long as a consultation procedure under Section 18
+para (1) is being conducted or the authority is waiting for the application or documentation to be
+complemented.
+(6a) The Commission shall publish in the Federal Health Gazette general comments on
+frequently effected genetic engineering operations specifying the criteria of comparability applying in each case.
+(7) Any application for authorization pursuant to Section 10 para (2) shall be decided
+upon in writing within a period of three months. Where the authorization involves further genetic
+engineering operations at safety level 2 for commercial purposes, the competent authority shall
+decide upon this application immediately, failing this, after a period of one month at the latest, if
+the genetic engineering operation is comparable to a genetic engineering operation already
+classified by the Commission; para (8) sentences 1 to 3 shall not apply. The running of this period shall be suspended for as long as the authority is waiting for the application or documentation to be complemented.
+(8) Prior to deciding about an authorization, the competent authority shall obtain, via the
+Federal Health Office, a statement of the Commission on the safety-related classification of the
+genetic engineering operations planned and the measures requisite in terms of safety technology. This statement shall be taken into account when making this decision. Where the decision
+of the competent authority differs from the statement of the Commission, it shall set forth its
+reasons in writing. In addition, the competent authority shall solicit statements from the authorities whose terms of reference are affected by the undertaking.
+(9) Where an application to have the construction and operation of a genetic engineering
+installation authorized is to be decided upon, the institution of legal action at an administrative
+court shall not be preceded by preliminary proceedings, if a consultation procedure has taken
+place pursuant to Section 18 .
+Section 12
+Notification procedure
+(1) The notification shall be in writing.
+(2) Any notification pursuant to Section 8 para (2) shall be accompanied by the documentation according to Section 11 para (2) Nos. 1 to 5.
+(3) Any notification pursuant to Section 9 para (1) or Section 10 para (1) shall be accompanied by the documentation requisite to assess the genetic engineering operations. The
+documentation shall include the following information, in particular:
+1. the location of the genetic engineering installation as well as the name and address of
+the operator,
+2. the name of the project manager and proof of the expert knowledge required,
+- 11 -
+H:\Netz\gentech\GenTGengl10-95c.doc 11.04.03 14:54
+3. the name of the biosafety officer(s) and proof of the expert knowledge required,
+4. date and file number of the notice of authorization covering the construction and operation of the genetic engineering installation,
+5. a description of the genetic engineering operations planned pursuant to Section 11 para
+(2) sentence 2 No. 5,
+6. a description of any necessary alterations of safety-relevant equipment and arrangements.
+(4) Where the application documents do not permit an assessment of the genetic engineering operations notified, the competent authority shall immediately request the applicant to
+complement the documentation within a reasonable period of time.
+(5) The competent authority shall solicit, via the Federal Health Office, a statement of the
+Commission on the safety-related classification of the genetic engineering operations planned
+and the measures necessary in terms of safety technology. This statement shall be taken into
+account when making the decision. Where the decision of the competent authority differs from
+the statement, it shall set forth its reasons in writing.
+(6) The competent authority shall acknowledge to the operator immediately and in writing
+the receipt of the notification and the documentation enclosed.
+(7) The competent authority shall decide upon the notification pursuant to Section 8 para
+(2) immediately, failing this, after a period of one month at the latest. Para (5) shall not apply.
+The expiry of a period of three months shall be considered as a consent to the construction and
+operation of a genetic engineering installation and to the performance of the genetic engineering
+operation. If the construction or operation of the installation requires additional authority decisions, the competent authority shall make these decisions within three months of time. The running of these periods shall be suspended for as long as the authority is waiting for the documentation to be complemented.
+(8) For notifications under Section 9 para (1), the expiry of a period of two months shall
+be considered as a consent to the performance of the genetic engineering operation. As soon
+as the competent authority gives its consent, the genetic engineering operations may commence even before the stipulated period expires. The Commission shall publish in the Federal
+Health Gazette general statements on frequently performed genetic engineering operations
+specifying the criteria of comparability applying in each case. Where further genetic engineering
+operations at safety level 2 are notified for research purposes, the competent authority shall decide upon the notification immediately, failing this, after a period of one month at the latest, if the
+genetic engineering operation is comparable to a genetic engineering operation that has already
+been classified by the Commission; in this instance para (5) shall not apply. The running of the
+period shall be suspended for as long as the authority is waiting for the documentation to be
+complemented.
+(9) The competent authority shall decide upon the notification under Section 10 para (1)
+immediately, failing this, after a period of one month at the latest. Para (5) shall not apply. The
+expiry of a period of two months shall be considered as a consent to the performance of the genetic engineering operation. The running of the period shall be suspended for as long as the authority is waiting for the documentation to be complemented.
+(10) The competent authority may make the performance of the genetic engineering operations notified conditional on certain requirements, may limit its duration or establish condi-
+- 12 -
+H:\Netz\gentech\GenTGengl10-95c.doc 11.04.03 14:54
+tions as far as this is necessary to safeguard the purposes specified in Section 1 No. 1; Section
+19 sentence 3 shall apply accordingly.
+(11) The competent authority may prohibit the performance of the genetic engineering
+operations notified, if the requirements of Section 13 para (1) Nos. 1 to 5 are not or no longer
+complied with. The decision shall be in writing.
+Section 13
+Authorization requirements
+(1) The authorization for the construction and operation of a genetic engineering installation under Section 8 para (1) sentence 2 or para (4) shall be granted
+1. in the absence of any facts that may give rise to doubts over the reliability of the operator
+and the persons responsible for the construction and management of the installation as well as
+for the supervision of the latter's operation,
+2. if it is ensured that the project manager as well as the biosafety officer(s) possess the
+expert knowledge requisite for their functions and are able to fulfil the duties incumbent on them
+at all times,
+3. if it is guaranteed that the applicant will comply with the duties established in Section 6
+paras (1) and (2) and the ordinances under Section 30 para (2) Nos. 2, 4, 5, 6 and 9 regarding
+the performance of the genetic engineering operations envisaged,
+4. if it is ensured that the precautions necessary for the safety level required according to
+state-of-the-art-knowledge have been taken and that, hence, detrimental impacts on the legal interests specified in Section 1 No. 1 are not to be expected,
+5. in the absence of any facts contravening the prohibitions set forth in Article 2 of the Law
+of 21 February 1983 on the Convention on the Prohibition of the Development, Production and
+Stockpiling of Bacteriological (Biological) and Toxin Weapons and on their Destruction (Federal
+Law Gazette 1983 II p. 132) and the provisions on the prohibition of biological and chemical
+weapons in the Law enacted in implementation of Article 26 (2) of the Basic Law (War Weapons Control Act in the version promulgated on 22 November 1990 (Federal Law Gazette I, p.
+2506), last amended by Article 17 of the Law of 21 December 1992 (Federal Law Gazette I, p.
+2150),
+6. unless any other provisions under public law impair the construction and operation of the
+genetic engineering installation.
+(2) The partial authorization under Section 8 para (3) shall be granted if a preliminary examination shows that the requirements of para (1) governing the construction and operation of
+the entire genetic engineering installation will be fulfilled and that there is a justified interest in
+having the partial authorization granted.
+(3) The authorization pursuant to Section 10 para (2) shall be granted if the requirements
+under para (1) Nos. 1 to 5 governing the performance of the further genetic engineering operations planned have been fulfilled.
+Part Three
+Release and Placing on the Market
+- 13 -
+H:\Netz\gentech\GenTGengl10-95c.doc 11.04.03 14:54
+Section 14
+Release and placing on the market
+(1) Any person who
+1. releases genetically modified organisms,
+2. places on the market products containing or consisting of genetically modified organisms,
+3. places on the market products containing or consisting of genetically modified organisms for uses other than that hitherto intended
+shall require an authorization issued by the Federal Health Office.
+The authorization for the release or placing on the market may also comprise the offspring and the replication material of the genetically modified organism. The authorization for the
+placing on the market may be restricted to specific uses.
+(2) (Deleted)
+(3) An authorization may cover the release of different genetically modified organisms at
+the same location as well as of a specific genetically modified organism at different locations, if
+the release takes place for the same purpose within a limited period of time.
+(4) The Federal Government may, in order to implement the decisions of the Commission or of the Council of the European Communities, pursuant to Article 6 para (5) and Article 21
+of the Council Directive 90/220/EEC of 23 April 1990 on the deliberate release into the environment of genetically modified organisms (O.J. EC No. L 117, p. 15), after hearing the Commission, establish by means of an ordinance adopted with the consent of the Bundesrat, that the release shall be performed according to a simplified procedure diverging from that specified in
+Part Three of this Act, when the experience gathered in the release of genetically modified organisms is sufficient to guarantee the protection established in Section 1 No. 1.
+(5) Authorizations granted by the authorities of other Member States of the European
+Communities* on the basis of equivalent provisions shall be equivalent to the marketing authorization issued by the Federal Health Office.
+Section 15
+Application documents required for release and placing on the market
+(1) The application for authorization of release shall be accompanied by the documents
+necessary to examine it. In addition to the information specified in Section 11 para (2) sentence
+2 Nos. 2 and 3, the documents shall contain the following, in particular:
+1. the name and address of the operator,
+2. a description of the release project in terms of purpose and location, date and duration,
+3. a state-of-the-art description of the safety-relevant characteristics of the organism to be
+released and of the conditions important for the survival, reproduction and dissemination of the
+latter; documentation about preceding operations in a genetic engineering installation and releases shall be enclosed,
+4. a description of the potential safety-relevant impacts a release may have on the legal interests specified in Section 1 No. 1 and the precautions taken,
+- 14 -
+H:\Netz\gentech\GenTGengl10-95c.doc 11.04.03 14:54
+5. a description of the monitoring activities envisaged and particulars about any arising residual wastes and their treatment as well as about emergency response plans.
+(2) (Deleted)
+(3) The application for a marketing authorization shall be accompanied by the documentation necessary to examine whether the authorization requirements are complied with. The
+documents shall contain the following information, in particular:
+1. the name and address of the operator,
+2. the name and a state-of-the-art description of the product to be marketed in terms of its
+specific genetically modified characteristics; documents covering previous operations in a genetic engineering installation and releases shall be enclosed,
+3. a description of the expected uses and the area of dissemination envisaged,
+4. a presentation of the potential safety-relevant impacts of a placing on the market on the
+legal interests specified in Section 1 No. 1,
+5. a description of the measures planned to monitor the future behaviour or quality of the
+product to be marketed, any arising residual wastes and their treatment as well as of the emergency response plans,
+6. a description detailing the special conditions of application and use of the product to be
+placed on the market and a suggestion for its labelling and packaging.
+Section 16
+Authorization for release and placing on the market
+(1) A release authorization shall be granted if
+1. the requirements pursuant to Section 13 para (1) Nos. 1 and 2 are complied with,
+2. it is ensured that all precautions necessary according to state-of-the-art knowledge will
+be taken,
+3. according to current scientific knowledge, the release is not likely to have any detrimental
+impacts on the legal interests specified in Section 1 No. 1 that are incommensurate with its purpose.
+(2) The marketing authorization shall be granted if, according to current scientific knowledge, the placing on the market is not likely to have any detrimental impacts on the legal interests specified in Section 1 No. 1 that are incommensurate with its purpose.
+(3) Applications for release or marketing authorizations shall be decided upon in writing
+within a period of three months; if the Federal Health Office intends to grant a marketing authorization, it shall, within this period of time, initiate the procedure according to Articles 12 and 13 of
+Council Directive 90/220/EEC of 23 April 1990 on the deliberate release into the environment of
+genetically modified organisms (O.J. EC No. L 117, p. 15) (EC participation procedure). Upon finalization of the EC participation procedure, a decision shall be taken immediately. This period
+shall be calculated disregarding any periods of time in which the Federal Health Office is waiting
+for any additional documents requested from the operator or a public participation procedure
+under Section 18 is being implemented.
+- 15 -
+H:\Netz\gentech\GenTGengl10-95c.doc 11.04.03 14:54
+(4) Decisions about a release shall be made in agreement with the Federal Biological
+Research Centre for Agriculture and Forestry (Biologische Bundesanstalt für Land- und Forstwirtschaft), the Federal Environmental Agency (Umweltbundesamt) and, where genetically
+modified vertebrates or genetically modified microorganisms used in vertebrates are concerned,
+with the Federal Research Centre for Virus Diseases of Animals (Bundesforschungsanstalt für
+Viruskrankheiten der Tiere). Before any release authorization is granted, a statement shall be
+obtained from the competent Land authority. Before any marketing authorization is granted,
+statements shall be obtained from the Federal Environmental Agency, the Federal Biological
+Research Centre for Agriculture and Forestry and, where genetically modified vertebrates or
+genetically modified microorganisms used in vertebrates are concerned, the Federal Research
+Centre for Virus Diseases of Animals and the Paul-Ehrlich-Institute.
+(5) Prior to granting an authorization, the Commission shall examine and evaluate the
+application with regard to any potential risks for the legal interests specified in Section 1 No. 1, in
+the instances of para (1) considering the safety measures planned, and shall make relevant
+recommendations. Section 11 para (8) sentences 2 and 3 shall apply accordingly.
+(6) The Federal Ministry for Health shall be authorized to establish by means of an ordinance adopted with the consent of the Bundesrat, the procedure governing the participation of
+the Commission of the European Communities and the Member States* in connection with the
+release of genetically modified organisms and the placing on the market of products containing
+or consisting of genetically modified organisms and the obligation of the competent authority to
+take into consideration comments of the Member States* or to implement decisions made by
+the Commission of the European Communities, to the extent necessary for the implementation
+of the current version of the Council Directive on the deliberate release into the environment of
+genetically modified organisms.
+(7) Where an application for the granting of a release is to be decided upon, the institution of legal proceedings at an administrative court shall not be preceded by preliminary proceedings if a consultation procedure has taken place pursuant to Section 18.
+Part Four
+Common Provisions
+Section 17
+Use of documentation
+(1) Documents pursuant to Section 11 para (2) sentence 2 No. 5, para (4) sentence 2
+No. 4, also in conjunction with Section 12 para (2), pursuant to Section 12 para (3) sentence 2
+Nos. 5 and 6, Section 15 para (1) sentence 2 Nos. 2 and 4, para (3) sentence 2 Nos. 2, 4 and 5
+shall not be required, to the extent that the competent authority has sufficient information available. The operator may, in this respect, refer to documentation he has already submitted in a
+previous procedure. Where findings that require animal trials are taken from the documents of a
+third party, the competent authority shall inform the latter and the notifier or applicant, specifying
+the documents drafted by the third party it intends to use for the benefit of the notifier or applicant, as well as the other party's name and address. Where animal trials are not required,
+documentation drafted by a third party may only be used if the latter has consented in writing.
+Sentences 3 and 4 shall not apply if the notification or authorization dates back more than ten
+years.
+(2) The third party may, in the case of para (1) sentence 3, object to the use of its documentation within a period of three months following receipt of the information pursuant to para
+(1) sentence 3. In case of an objection being lodged, the notification or authorization procedure
+shall be suspended for a period of five years following the notification or filing of the application
+for authorization, at most, however, for a period of ten years following the notification or authorization of the third party. If the notifier or applicant should need a shorter period of time to pro-
+- 16 -
+H:\Netz\gentech\GenTGengl10-95c.doc 11.04.03 14:54
+duce his own documents, the notification or authorization procedure shall only be suspended for
+this period of time. The notifier or applicant and the third party shall be heard before the notification or authorization procedure is suspended.
+(3) Where a notification is made or an authorization granted in the case of para (2) earlier than ten years following the notification by or granting of an authorization for the third party
+and the latter's documentation has been used in the foregoing, the third party shall be entitled to
+receive from the notifier or applicant a compensation amounting to 50 per cent of the expenditure the latter saved by using these documents. The third party may forbid the notifier or applicant to place their products on the market before they have paid the compensation or furnished
+an adequate amount of security for the latter.
+(4) Where several notifiers or applicants have to submit to a competent authority at the
+same time documents of identical contents which require animal trials, the competent authority
+shall inform the notifiers and applicants known to it, specifying the documents they have to
+submit jointly, as well as the names and addresses of the other parties involved. The competent
+authority shall give the notifiers or applicants an opportunity to agree within a given period of time
+to be specified by this authority on who is to submit the documents. Where they fail to agree, the
+competent authority shall make this decision and shall immediately inform all parties involved
+thereof. Unless the latter withdraw their notification or application or the requirements for their
+obligation to notify or their application no longer apply for any other reason, they shall be obliged
+to refund the party who submitted the documents, their part of the expenses, calculated proportionately, incurred in drafting them; they shall be jointly and severally liable.
+Section 17a
+Confidentiality of information
+(1) The operator shall mark as such any information that constitutes an industrial or business secret. He shall state reasons to substantiate that any disclosure of these industrial and
+business secrets might be detrimental to his installation or business. Where the competent
+authority does not consider such a marking justified, it shall, prior to deciding what information is
+to be treated as confidential, hear the notifier and inform him about its decision. Personal data
+are equivalent to industrial and business secrets and shall be treated confidentially.
+(2) The following shall not be considered industrial or business secrets within the meaning of para (1):
+1. a description of the genetically modified organisms,
+2. the name and address of the operator,
+3. the purpose of the notification or authorization,
+4. the location of the genetic engineering installation or release,
+5. methods and plans for the monitoring of the genetically modified organisms and for emergency response measures,
+6. the evaluation of foreseeable effects, particularly pathogenic and ecologically disruptive
+effects.
+(3) Where a consultation procedure is to be held pursuant to Section 18, the contents of
+the documentation shall, insofar as the information contains industrial or business secrets or
+personal data and insofar as this is possible without disclosing these protected data, be described in sufficient detail for third parties to evaluate whether and to what extent they will be affected by the impacts of the project.
+- 17 -
+H:\Netz\gentech\GenTGengl10-95c.doc 11.04.03 14:54
+(4) If the notifier or applicant withdraws the notification or application for authorization, the
+competent authorities shall preserve confidentiality.
+Section 18
+Consultation procedure
+(1) Prior to deciding about the construction and operation of a genetic engineering installation where genetic engineering operations at levels 3 or 4 are to be performed for commercial
+purposes, the competent authority shall hold a consultation. The authorization of genetic engineering installations where genetic engineering operations at level 2 are to be performed for
+commercial purposes shall require a consultation procedure, if an authorization procedure pursuant to Section 10 of the Federal Immission Control Act would be necessary. In the case of
+Section 8 para (4), a consultation procedure shall be dispensed with if the alteration is not expected to pose any added or other risks to the legal interests specified in Section 1 No. 1.
+(2) Prior to deciding about the authorization of a release operation, a consultation shall
+be held unless the dissemination of the organisms involved may be restricted or unless a simplified procedure is held pursuant to Section 14 para (4). The Federal Government shall, after
+hearing the Commission, establish by means of an ordinance adopted with the consent of the
+Bundesrat, the criteria for the organisms the dissemination of which in the course of a release
+may be restricted.
+(3) The Federal Government shall establish the consultation procedure by means of an
+ordinance adopted with the consent of the Bundesrat. The procedure shall comply with the requirements specified in Section 10 paras (3) to (8) of the Federal Immission Control Act. In case
+of procedures according to para (2), Section 10 para (4) No. 3 and para (6) of the Federal Immission Control Act shall not apply; objections to the procedure may be substantiated and
+lodged in writing or for recording within one month after the period of public inspection has
+elapsed with the authorization authority or with the agency where the notification and documentation have been laid open for inspection.
+Section 19
+Incidental provisions, subsequent conditions
+The competent authority may complement its decision with incidental provisions, to the
+extent that this is necessary to ensure the authorization requirements. Conditions may be imposed, in particular, to provide for specific procedures or precautions or a given design or equipment of the genetic engineering installation and provisions for the intended and proper use of the
+product to be placed on the market. The subsequent establishment of conditions shall be
+permitted.
+Section 20
+Temporary discontinuance of operation
+(1) Where the requirements necessary to continue the operation of a genetic engineering
+installation, the genetic engineering operation or the release, are no longer fulfilled, it may be ordered that the operation be discontinued - in lieu of withdrawing or revoking the authorization under the provisions of the Administrative Procedures Acts - until such time as the operator proves
+that the requirements are fulfilled again.
+(2) If it can be reasonably suspected that the requirements for placing on the market are
+not complied with, the Federal Health Office may, pending the decision of the Commission or
+the Council of the European Communities pursuant to Article 21 of the Council Directive
+90/220/EEC of 23 April 1990 on the deliberate release into the environment of genetically modi-
+- 18 -
+H:\Netz\gentech\GenTGengl10-95c.doc 11.04.03 14:54
+fied organisms (O.J. EC No. L 117, p. 15) order that the authorization be suspended wholly or in
+part.
+Section 21
+Obligations to notify
+(1) The operator shall notify the authority responsible for notification, the granting of authorizations and for surveillance in advance of any changes in the appointment of the project
+manager, the biosafety officer or a member of the biosafety committee. In case of unforeseen
+changes, the notification shall be made immediately. The notification shall include proof of the
+expert knowledge required.
+(1a) The operator shall immediately notify the competent authority of any further genetic
+engineering operations not subject to a notification pursuant to Section 9 para (1) sentence 2
+No. 1.
+(1b) Where the operator intends to discontinue the operation of an installation, he shall
+immediately notify to that effect the competent supervisory authority, indicating the date of discontinuance. This notice shall be accompanied by documents specifying the measures proposed by the operator to meet the obligations ensuing from Section 6 para (2) sentence 2.
+(2) Notice shall also be given of any intended alteration to the safety-relevant equipment
+of a genetic engineering installation, even though, as a result of this alteration, the genetic engineering installation continues to comply with the requirements of the safety level requisite for
+performing the operations notified or authorized.
+(3) The operator shall immediately notify the authority responsible for notifications, the
+granting of authorizations and for supervision of any incident that is not in line with the expected
+development of the genetic engineering operation or the release or the placing on the market
+and which are suspected to jeopardize the legal interests specified in Section 1 No. 1. In doing
+so, he shall provide all information necessary for the safety assessment and about any emergency response measures planned or implemented.
+(4) On completion of a release, the operator shall inform the Federal Health Office about
+the outcome of the release in connection with hazards to human health and the environment. In
+this context, any placing on the market planned shall be given particular consideration.
+(5) Where the operator receives new information about hazards to human health or the
+environment, he shall immediately inform the competent authority to that effect.
+Section 22
+Other authority decisions
+(1) The installation authorization shall imply other authority decisions concerning the genetic engineering installation, specifically authorizations, approvals, grants, licences and permits
+under public law with the exception of provisions under atomic energy legislation.
+(2) Provisions according to which authorizations, approvals, grants, licences and permits under public law are granted, shall not apply to genetic engineering operations, releases, or
+the placing on the market subject to notification or authorization pursuant to this Act, where the
+protection from the specific risks of genetic engineering is involved; provisions governing the
+placing on the market under Section 2 No. 4 second part of the sentence shall not be affected.
+Section 23
+Exclusion of claims under private law to protection against abrigdment of legal rights
+- 19 -
+H:\Netz\gentech\GenTGengl10-95c.doc 11.04.03 14:54
+Claims under private law that are not based on specific titles to prevent detrimental impacts from spreading from one piece of land to an adjacent one shall not constitute grounds to
+require that the operation of a genetic engineering installation or the genetic engineering operations be discontinued or a release terminated that are covered by an unappealable authorization
+and have been the subject of a consultation procedure under Section 18; there may only be required precautionary measures to rule out these detrimental impacts. If such arrangements are
+unfeasible according to the state of the art or are economically unviable, the only claim may be
+for damages.
+Section 24
+Costs
+(1) Costs (fees and expenses) shall be levied for official acts performed under this Act
+and the legal provisions adopted to enforce the latter. Entities exempted from the payment of
+fees shall be, aside from those specified in Section 8 para (1) of the Administrative Expenses
+Act, the research institutes recognized as non-profit making entities.
+(2) The Federal Ministry for Health shall be empowered to specify, in agreement with the
+Federal Ministry for the Environment, Nature Conservation and Nuclear Safety and the Federal
+Ministry of Food, Agriculture and Forestry, by means of an ordinance adopted without the consent of the Bundesrat, the acts liable to fees and the amounts of the fees by means of fixed rates, lump-sums with upper and lower limit or based on the value of the object.
+(3) The costs to be levied by the Laender shall be subject to the legislation of the Land
+concerned; para (1) sentence 2 shall apply accordingly. The Laender shall refund the expenses
+incurred by the Commission through the notification and authorization procedure. The expenses
+shall be determined on a case-by-case basis; for this purpose, fixed rates or lump-sum fees
+with upper and lower limit shall be determined according to the average personnel and material
+costs expended.
+(4) The expenses incurred by the operator himself in compliance of the obligations to
+provide information and tolerate inspections within the framework of notification and authorization procedures and supervision shall not be refunded.
+Section 25
+Supervision, obligation to provide information and obligation of tolerance
+(1) The competent Laender authorities shall supervise the implementation of this Act, the
+ordinances issued hereunder and the orders and decrees based thereon.
+(2) The operator and the persons responsible within the meaning of Section 3 Nos. 10
+and 11 shall, on request, immediately provide the competent authority any information requisite
+for supervision.
+(3) The persons in charge of the supervision shall be authorized,
+1. to enter and inspect during business and operation hours any properties, business and
+operation premises,
+2. to perform all examinations, inclusive of sampling, that are necessary to fulfill their duties,
+3. to review and to make photocopies or copies of any documentation necessary to fulfill
+their duties.
+- 20 -
+H:\Netz\gentech\GenTGengl10-95c.doc 11.04.03 14:54
+In order to prevent imminent danger to public safety and order, measures under sentence 1 may also be taken in residential premises and at all hours of the day and night. The
+operator shall be obliged to tolerate measures under sentence 1 Nos. 1 and 2 and sentence 2,
+to support the persons in charge of supervision, to the extent that this is necessary for the fulfillment of their duties, and to submit the necessary business documents. The fundamental right
+of the inviolability of the home (Article 13 of the Basic Law) shall be restricted to that extent.
+(4) Persons liable to furnish information may refuse to answer any questions which
+would expose either themselves or any of their relatives specified in Section 383 para (1) Nos. 1
+to 3 of the Code of Civil Procedure to the risk of prosecution for a criminal offence or administrative offence.
+(5) The personal data collected in fulfilling an obligation to provide information or to tolerate inspections under this Act or an ordinance adopted on the basis of this Act may only be
+used to the extent that this is necessary to enforce this Act or to prosecute an offence or to prevent a risk to public safety.
+Section 26
+Orders by the authorities
+(1) The competent Land authority may, in individual instances, give the orders necessary
+to eliminate established offences or to prevent future ones against this Act or the ordinances
+adopted on the basis of the latter. In particular, it may prohibit the operation of a genetic engineering installation, genetic engineering operations or a release wholly or in part, if
+1. the notification necessary has not been made, an authorization or approval necessary
+are not available,
+2. there is a reason to withdraw or revoke an authorization under the Administrative Procedure Acts,
+3. incidental provisions or subsequent obligations pursuant to Section 19 are being infringed,
+4. the existing safety-relevant equipment and arrangements do not or no longer suffice.
+In the absence of the necessary authorization, the competent authority may prohibit a
+placing on the market. It may prohibit a placing on the market wholly or in part pending the decision of the Commission or the Council of the European Communities pursuant to Article 16 in
+conjunction with Article 21 of the Directive 90/220/EEC, if there has been an order suspending
+the authorization or if it is reasonably suspected that the requirements for a placing on the market are not being met.
+(2) If the operator of a genetic engineering installation does not comply with a condition
+imposed, an enforceable subsequent order or an obligation based on an ordinance under Section 30 and if the condition, order or obligation refer to the design or the operation of the genetic
+engineering installation, the competent authority may prohibit the operation wholly or in part until
+such time as the condition, order or obligation derived from an ordinance under Section 30 are
+fulfilled.
+(3) The competent authority may order that a genetic engineering installation that has
+been constructed, operated or substantially altered without the necessary authorization, be
+closed down or dismantled wholly or in part, if the legal interests specified in Section 1 No. 1
+cannot otherwise be sufficiently protected.
+(4) (Deleted)
+- 21 -
+H:\Netz\gentech\GenTGengl10-95c.doc 11.04.03 14:54
+Section 27
+Expiry of the authorization
+(1) The authorization shall expire, if
+1. the construction or operation of the genetic engineering installation or the release has not
+commenced within a period stipulated by the authorizing authority that may not exceed three
+years, or
+2. a genetic engineering installation has not been operated during a period of more than
+three years.
+(2) The authorization shall also expire, if the prerequisite for authorization has ceased to
+exist.
+(3) The authorizing authority may, on application, extend the periods pursuant to para (1)
+for good cause by a maximum period of one year, if doing so does not jeopardize the purpose of
+the Act.
+Section 28
+Obligation to provide information
+(1) The competent authorities shall immediately inform the Federal Health Office about
+any decisions taken in enforcing the Act, about any safety-relevant findings, about any safetyrelevant incidents that have been reported to it under Section 21 para (3), (4) or (5) or come to
+its knowledge in the course of surveillance, about any infringements or suspected infringements
+against provisions of this Act, the ordinances adopted on the basis of this Act and against conditions or measures ordered under Section 26, to the extent that they concern genetic engineering
+operations, releases or a placing on the market.
+(2) The Federal Health Office shall make its findings known to the competent authorities
+if they may be important for the enforcement of the Act.
+Section 29
+Evaluation and provision of data
+(1) The Federal Health Office shall process and use data pursuant to Section 28 referring to the construction and operation of genetic engineering installations, the performance of
+genetic engineering operations, releases, or placing on the market which it has acquired or received in order to observe, record and evaluate safety-related circumstances. The Federal
+Health Office may transmit data on statements of the Commission covering the safety classification of and safety measures for genetic engineering operations as well as on the decisions
+made by the competent authorities to the latter for them to be used in the context of notification
+and authorization procedures. The recipients may use the data transmitted to them only for the
+very purpose they have been transmitted for.
+(1a) The establishment of an automated query procedure shall be admissible. As the
+automated query procedure is being established, the Federal Health Office and the competent
+authorities shall specify in writing the nature of the data to be transmitted and the technical and
+organizational measures required under Section 9 of the Federal Data Protection Act. The establishment of the automated query procedure is subject to the authorization of the Federal Ministry for Health in liaison with the Federal Ministry of Economics. The Federal Commissioner for
+Data Protection shall be informed when an automated query procedure has been established,
+indicating the specifications pursuant to sentence 2. The recipient shall be responsible for deciding whether he is entitled to obtain the data queried in each individual instance. The Federal 
+- 22 -
+H:\Netz\gentech\GenTGengl10-95c.doc 11.04.03 14:54
+Health Office shall only check the rightfulness of queries if it has grounds for doing so. It shall
+ensure that the transmission of data may be ascertained and reviewed.
+(2) The legal provisions governing secrecy shall remain unaffected. Factual information
+within the meaning of Section 17a may only be transmitted to agencies of the European Communities and authorities of other states if the requesting entity states that it has made arrangements for the protection of industrial and business secrets as well as of personal data that are
+equivalent to those valid in the area in which this Act applies.
+(3) The Federal Health Office may only process and use personal data where this is
+necessary in order to evaluate the reliability of the operator, the project manager and the biosafety officer or to evaluate the expert knowledge of the project manager or the biosafety officer.
+(4) Kind and extent of the data shall be regulated by the Federal Ministry for Health in
+agreement with the Federal Ministry of Economics by means of an ordinance adopted with the
+consent of the Bundesrat.
+Section 30
+Enactment of ordinances and administrative provisions
+(1) The Federal Government shall, after hearing the Commission, establish by means of
+an ordinance adopted with the consent of the Bundesrat and in order to attain the purposes
+specified in Section 1 No. 1, the responsibilities and the necessary expert knowledge of the project manager, particularly in view of the necessity and extent of knowledge to be proved in classic and molecular genetics, practical experiences in handling microorganisms and the necessary knowledge including industrial safety provisions applying to the activities in a genetic engineering installation.
+(2) The Federal Government shall be empowered to stipulate, after hearing the Commission, by means of an ordinance adopted with the consent of the Bundesrat and in order to
+attain the objectives specified in Section 1 No. 1,
+1. how the site, the facilities and the technical equipment at the respective safety levels
+have to be designed, equipped and operated in order to comply with verified knowledge in the
+fields of safety management, industrial safety, sanitation and hygiene and other ergonomic aspects that must be observed to ensure staff protection and are necessary for a humanization of
+work;
+2. the corporate arrangements required, in particular,
+a) how the work procedure must be designed so as not to expose the staff to any
+risk due to genetic engineering operations or a release,
+b) how the operation premises must be monitored to detect any contamination by
+genetically modified organisms,
+c) in what way genetically modified organisms are to be stored on the premises and
+what dangers must be called attention to lest staff be exposed to any risk due to inappropriate
+storage, and in order to advise the staff of the risks inherent in these organisms,
+d) what precautions must be taken to avoid that genetically modified organisms fall
+into the hands of unauthorized persons or get otherwise lost,
+e) what protective garments must be placed at the staff's disposal and properly used by the latter,
+- 23 -
+H:\Netz\gentech\GenTGengl10-95c.doc 11.04.03 14:54
+f) that the number of staff handling genetically modified organisms must be restricted and that the duration of such work may be limited,
+g) how staff have to behave so as not to expose themselves and others to any risks
+and what precautions have to be made,
+h) under what circumstances limited access shall be provided for to ensure staff
+protection;
+3. the number of the biosafety officers that must be appointed by the operator to check the
+project manager's fulfilment of his duties and to advise the operator and the persons responsible on all matters of biological safety, how these duties must be performed in detail, for what
+kinds of expert knowledge proof must be furnished and in what way the biosafety officer or officers must be appointed with the participation of the works or staff council;
+4. what knowledge and qualifications are required of those engaged in genetic engineering
+operations or release operations and what evidence must be furnished to prove the former;
+5. how and at what intervals staff must be informed about the risks involved and the precautions to prevent them and how the contents of the regulations must be brought to the staff's
+knowledge by means of work-related operating procedures incorporating adequate safety advice;
+6. what precautions must be taken to prevent operating accidents and failures and to limit
+their impact on staff and what measures must be taken to organize the provision of first-aid
+medical care;
+7. the number of the responsible supervisors that must be appointed to supervise genetic
+engineering operations and releases as well as other activities in the danger area and the powers to be conferred on them for the safety-at-work requirements to be fulfilled;
+8. that, in order to ensure staff protection, the operator must make a risk evaluation and
+draft an emergency response plan, the documents that must be elaborated for this purpose and
+that these documents must be kept available for inspection by the competent authority for the
+purpose of examining the risk evaluation and the emergency response plan;
+9. that staff must undergo regular health monitoring and records must be kept on the latter
+and that, for this purpose,
+a) the operator may be required to have staff engaged in genetic engineering operations or a release undergo medical checks-ups,
+b) the physician charged with performing these check-ups must comply with given
+duties in connection with the results of these check-ups, particularly as regards the contents of
+a certificate to be made out by him and the information about and counselling on the result of the
+check-up,
+c) the competent authority decides in what cases diagnoses made by the physician
+are considered inappropriate,
+d) the data to be included into the record are transmitted to the statutory accident
+insurance institutions or an agency commissioned by the latter in order to detect any workrelated hazards to health or industrial diseases;
+9a. what kinds of work require that the persons engaged in them be provided follow-up examinations;
+- 24 -
+H:\Netz\gentech\GenTGengl10-95c.doc 11.04.03 14:54
+10. that the operator has to inform the works or staff council about any events the latter has
+to be aware of in order to fulfil its duties;
+11. that the competent Laender authorities are empowered to issue given orders necessary
+to enforce ordinances which are, in individual instances and specially in the event of imminent
+danger, directed against supervisors and other staff;
+12. that specific precautions must be taken when a genetic engineering operation or release
+is being finished;
+13. that the transport of genetically modified organisms shall be conditional on compliance
+with specific precautions;
+14. that, in order to regulate the trade in and handling of products containing or consisting of
+genetically modified organisms, these products are to be packed and labelled, and how this is to
+be done, and, particularly, that information must be given about the genetic modifications and
+the acceptable detrimental impacts pursuant to Section 16 para (2), as far as this is necessary
+for user protection;
+15. what contents and what format the notification and application documents pursuant to
+Section 11 paras (2) to (4), Section 12 para (3) and Section 15 must have, particularly what criteria shall underlie the evaluation, as well as details of the notification and authorization procedures;
+16. that, to make provision for the event of an accident in a genetic engineering installation
+a) the competent authority shall, on the basis of documents to be furnished by the
+operator, draft external emergency response plans, coordinate their drafting and implementation
+with the competent authorities of the Member States of the European Communities or the other
+States party to the Agreement on the European Economic Area that may be affected by an accident and inform the general public about safety measures,
+b) the operator shall report to the competent authority the circumstances of the accidents and the relevant measures he has taken,
+c) the competent authority shall report this information to the Federal Health Office
+for transmission to the Commission of the European Communities, notify the authorities designated by the Member States of the European Communities and the other States party to the
+Agreement on the European Economic Area, insofar as these states might be affected by the
+accident, and take all emergency response measures and any other measures necessary.
+(3) The Federal Government shall be empowered, to the extent that this is necessary to
+protect the life and health of staff, to establish by means of an ordinance adopted with the consent of the Bundesrat, that the regulations to be issued under para 2 also apply to the use of
+other biological agents. An ordinance according to sentence 1 may also serve to lay down
+1. how the risks inherent in the use of biological agents are to be identified and evaluated
+and how the assignment to the various safety levels pursuant to Section 7 para (2) is to be performed,
+2. that operations exposing or liable to expose staff to special risks due to biological agents
+shall be reported to the competent authority or authorized by the latter.
+(4) For requirements pursuant to paras (1) and (2), reference can be made to notifications published by expert bodies that are available to the public; for these purposes
+- 25 -
+H:\Netz\gentech\GenTGengl10-95c.doc 11.04.03 14:54
+1. the date of publication is to be mentioned in the ordinance and the references specified,
+2. the notification is to be safely stored in the archives of the Federal Health Office and attention drawn to this fact in the ordinance.
+(5) The Federal Government may, after hearing the Commission, adopt with the consent
+of the Bundesrat general administrative provisions in order to enforce this Act and the ordinances based thereon.
+Section 31
+Competent authorities
+The authorities responsible for the implementation of this Act shall be designated by the
+entity responsible under Laender Law, failing such a designation, by the government of the
+Land; the latter may delegate this power.
+Part Five
+Liability Provisions
+Section 32
+Liability
+(1) Where any properties of an organism that result from genetic engineering operations
+cause the death of a person or injury to his/her health, or damage of property, the operator shall
+be obliged to give compensation for the damage ensuing therefrom.
+(2) Where several operators are liable to compensate for the same damage, they shall
+be jointly and severally liable. With regard to the relationship of the liable parties to each other,
+the obligation to pay compensation and the extent of the compensation to be paid shall, unless
+otherwise provided for, depend on the extent to which the damage has been predominantly
+caused by one or the other party; for the rest, Sections 421 to 425 and 426 para (1) sentence 2
+and para (2) of the Civil Code shall apply.
+(3) Where negligence on the part of the injured party has helped to cause the injury, Section 254 of the Civil Code shall apply; in the event of property damage, the negligence of the
+party that has the actual control of the property involved shall be equivalent to the negligence of
+the injured party. The liability of the operator shall not be reduced if the damage was at the same
+time caused by the acts of a third party; para (2) sentence 2 shall apply accordingly.
+(4) In case of death, compensation shall be made by reimbursing the costs of an attempted cure as well as the costs incurred by the pecuniary prejudice sustained by the deceased party as a result the suspension or reduction of his earning capacity or the resultant increase in his needs during his disease. The party liable for damages shall furthermore reimburse the funeral costs to the party who is responsible for defraying these expenses. If, at the
+time of injury, the deceased party maintained a relationship with a third party by virtue of which
+he was or could come under the legal obligation to support this third party and if the third party
+was deprived of the right to maintenance as a result of the death, the party liable for damages
+shall indemnify the third party, guaranteeing maintenance to the extent to which the deceased
+party would have been liable for the length of lifespan he would probably have had. Liability for
+damages shall also be enforced if, at the time of injury, the third party had been conceived but
+not yet born.
+(5) In the case of injury to a person's body or health, compensation shall be given by reimbursing the costs of the treatment as well as the costs incurred by the pecuniary prejudice 
+- 26 -
+H:\Netz\gentech\GenTGengl10-95c.doc 11.04.03 14:54
+sustained by the injured party as a result of the temporary or permanent suspension or reduction of his earning capacity or the resultant increase in his needs.
+(6) Compensation on account of the suspension or reduction of earning capacity and on
+account of increased need on the part of the injured party, as well as the compensation to be afforded a third party in accordance with para (4) sentences 3 and 4, shall be paid in the future by
+means of an annuity. The provisions of Section 843 paras (2) to (4) of the Civil Code shall apply
+mutatis mutandis.
+(7) Where a material damage also implies a deterioration of nature or landscape, Section 251 para (2) of the Civil Code shall be applied, insofar as the injured party restores anything
+that would obtain if the deterioration had not occurred, subject to the proviso that the expenditure
+needed to restore the status quo ante are not incommensurate solely because of the fact that
+they considerably exceed the value of the object. The party causing the injury shall make an advance to cover the expenditure necessary, if the party entitled to damages so requires.
+(8) As regards the limitation period, the provisions of the Civil Code governing torts shall
+apply accordingly.
+Section 33
+Maximum amount of liability
+Where a damage has been caused due to such properties of an organism as result from
+genetic engineering operations, the operator shall, in the case of Section 32, be liable to compensate the injured parties up to a maximum amount of onehundred and sixty million deutsch
+marks. Where the several amounts to be paid as compensation for one damage exceed the
+maximum amount specified in sentence 1, then the individual compensation shall be reduced
+pro-rata to the maximum total given.
+Section 34
+Presumed cause of damage
+(1) Where the damage was caused by genetically modified organisms, it shall be presumed to have been caused by such properties of these organisms as result from genetic engineering operations.
+(2) This presumption shall be invalid if the damage is likely to have been caused by other
+properties of these organisms.
+Section 35
+The injured party's rights to be informed
+(1) Where the facts give reasonable grounds to presume that any personal injury or
+damage to property is due to genetic engineering operations performed by the operator, the latter shall be obliged to provide, at the injured party's request, information about the type of and
+steps involved in the genetic engineering operations performed in the genetic engineering installation or underlying a release, to the extent that this is necessary to establish whether there is
+basis for a claim under Section 32. Sections 259 to 261 of the Civil Code shall apply accordingly.
+(2) Where the conditions of para (1) sentence 1 are fulfilled, the right to information shall
+also apply in relation to the authorities responsible for notifications, the granting of authorizations
+or supervision.
+- 27 -
+H:\Netz\gentech\GenTGengl10-95c.doc 11.04.03 14:54
+(3) The rights pursuant to paras (1) and (2) shall not apply if the legal provisions require
+these operations to be kept secret or secrecy is necessary due to an overriding interest of the
+operator or a third party.
+Section 36
+Coverage provision
+(1) The Federal Government shall establish by means of an ordinance adopted with the
+consent of the Bundesrat that anyone who operates a genetic engineering installation where genetic engineering operations at safety levels 2 to 4 are to be performed, or carries out releases,
+shall be obliged to provide for coverage for any damage or injury that may be caused by such
+properties of an organism as result from genetic engineering operations (provision for coverage). The regulation shall incorporate detailed provisions specifying the scope and amount of
+the provision for coverage as well as the agencies responsible for supervising the latter and
+their procedures and powers in supervising the provision for coverage.
+(2) Provision for coverage may be made available, in particular, by means of
+1. a third party insurance taken out with an insurance company authorized to conduct business within the area in which this Act applies or
+2. an exemption or warranty obligation issued by the Federal Government or the government of a Land.
+The ordinance under para (1) may also allow for other types of coverage to be authorized, particularly indemnity obligations or warranty obligations issued by credit institutions, insofar as they offer securities comparable to a provision for coverage under sentence 1.
+(3) The following shall be exempt from the obligation to provide for coverage:
+1. the Federal Republic of Germany,
+2. the Federal Laender
+3. legal entities under public law.
+Section 37
+Liability under other legal provisions
+(1) Where, as a result of the administration of a drug intended for human use which was
+distributed to the consumer within the area in which the German Drug Law applies and which is
+subject to compulsory marketing authorization or is exempted by ordinance from marketing authorization, a person is killed or the body or the health of a person is substantially injured, Sections 32 to 36 shall not apply.
+(2) The same shall apply where products containing or consisting of genetically modified
+organisms are placed on the market by virtue of an authorization under Section 16 para (2) or a
+licence or authorization under the legal provisions within the meaning of Section 2 No. 4 second
+part of the sentence. In this case, Section 1 para (2) No. 5 and Section 2 sentence 2 of the
+Product Liability Act shall not apply to the liability of the manufacturer who has been granted the
+marketing authorization or licence, if the product defect is due to genetic engineering operations.
+(3) Any liability based on other provisions shall not be affected.
+Part Six
+Penal Provisions and Provisions on Administrative Fines
+- 28 -
+H:\Netz\gentech\GenTGengl10-95c.doc 11.04.03 14:54
+Section 38
+Administrative fines
+(1) An administrative offence shall be deemed to be committed by any person who wilfully or by negligence
+1. does not keep records pursuant to Section 6 para (3) sentence 1,
+2. performs genetic engineering operations in breach of Section 8 para (1) sentence 1,
+3. constructs a genetic engineering installation without an authorization pursuant to Section
+8 para (1) sentence 2,
+4. substantially alters the location, design or operation of a genetic engineering installation
+without having an authorization pursuant to Section 8 para (4),
+5. in breach of Section 8 para (2), Section 9 para (1) sentence 1 or Section 10 para (1),
+fails to notify genetic engineering operations,
+6. performs genetic engineering operations without any authorization pursuant to Section 9
+para (2) or Section 10 para (2) or (3),
+7. places on the market products containing or consisting of genetically modified organisms without any authorization pursuant to Section 14 para (1) sentence 1 No. 2 or 3,
+8. contravenes an enforceable condition pursuant to Section 19 sentence 2 or an enforceable order pursuant to Section 26,
+9. fails to make a notification pursuant to Section 9 para (3), Section 21 para (1) sentence 1
+or 2 in conjunction with sentence 1, paras (1a), (1b) sentence 1, para (2) in conjunction with
+para (1) sentence 1, para (3), (4) or (5), or fails to do so in time, completely or correctly,
+10. fails to provide a specific information pursuant to Section 25 para (2) or fails to do so in
+time, completely or correctly,
+11. contravenes an obligation stipulated in Section 25 para (3) sentence 3 or
+12. contravenes an ordinance pursuant to Section 6 para (3) sentence 2, Section 7 para (2)
+sentence 2 or Section 30 para (2) Nos. 1 to 14 or para (3), insofar as it specifies a particular offence as governed by these provisions governing administrative fines.
+(2) The administrative offence may be punished with a fine up to one hundred thousand
+deutsch marks.
+(3) To the extent that this Act is enforced by Federal authorities, the administrative authority within the meaning of Section 36 para (1) No. 1 of the Law on Administrative Offences
+shall be the authority responsible according to the legislation of the Land involved.
+Section 39
+Penal provisions
+(1) Any person who contravenes an ordinance pursuant to Section 36 para (1) sentence
+1 shall be liable to imprisonment of not more than one year or to a fine, when the ordinance refers to a particular offence punishable under this provision.
+(2) Any person who
+- 29 -
+H:\Netz\gentech\GenTGengl10-95c.doc 11.04.03 14:54
+1. releases genetically modified organisms without any authorization pursuant to Section
+14 para (1) sentence 1 No. 1 or
+2. operates a genetic engineering installation without any authorization pursuant to Section
+8 para (1) sentence 2
+shall be liable to imprisonment of not more than three years or to a fine.
+(3) Any person who endangers the life or limb of another person, third party property of
+substantial value or an integral element of the ecosystem of substantial ecological importance
+by means of an act specified in para (2) Nos. 2, 8, 9 or 12 shall be liable to imprisonment of not
+more than five years.
+(4) In the cases of paras (2) and (3), the attempt shall be punishable.
+(5) Any person who acts negligently in the cases of para (2) shall be liable to imprisonment of not more than one year or to a fine.
+(6) Any person who, in the cases of para (3), causes the danger by negligence shall be
+liable to imprisonment of not more than five years or to a fine.
+(7) Any person who acts negligently and causes the danger by negligence in the cases
+of para (3) shall be liable to imprisonment of not more than three years or to a fine.
+Part Seven
+Transitory and Final Provisions
+Section 40
+(Deleted)
+Section 41
+Transitory provision
+(1) In respect of genetic engineering operations which, at the time when the provisions of
+this Act covering notifications and obligations of authorization entered into effect, could be performed in a genetic engineering laboratory registered under the "Code of practice to ensure protection against dangers arising from recombinant nucleic acids constructed in vitro" (Code of
+Genetic Practice) and which, under the provisions of this Act, may only be performed in authorized or notified genetic engineering installations or are subject to an authorization, the notification shall be deemed as made or the authorization as granted; genetic engineering operations in
+such installations may be covered by Section 9 or 10. The operators covered by sentence 1
+shall, within a period of three months after the provisions of this Act governing notifications and
+obligations of authorization have taken effect, submit to the competent supervisory authority a
+notice of registration issued by the Federal Health Office and the consent issued by the Commission or the Federal Health Office to genetic engineering operations or releases required under the Code of Genetic Practice.
+(2) Any authorization granted before the provisions of this Act governing notifications and
+those of the Federal Immission Control Act governing obligations of authorization entered into effect, shall retain its full validity as a notification or authorization within the meaning of this Act.
+(3) Where a procedure has already commenced, the provisions of the Federal Immission Control Act in conjunction with No. 4.11 of the Annex to the Ordinance on Installations sub-
+- 30 -
+H:\Netz\gentech\GenTGengl10-95c.doc 11.04.03 14:54
+ject to Official Approval of 24 July 1985 (Federal Law Gazette I., p. 1586), last amended by Article 2 of the Ordinance of 15 July 1988 (Federal Law Gazette I., p. 1059) shall continue to apply.
+If the applicant so chooses, procedures that have already commenced may also be brought to
+an end under the provisions of this Act and the ordinances and regulatory provisions based on
+this Act.
+(4) Section 19 shall apply accordingly.
+(5) The Commission composed as stipulated in Section 4 para (1) shall be appointed by
+30 June 1991. Until the time of this appointment, the function of the Commission resulting from
+this Act, particularly conducting hearings as ordinances are being adopted, shall be performed
+by the present Commission under No. 24 of the Code of Genetic Practice. The appointments
+made at the time this Act enters into force shall continue valid.
+(6) Any procedures commenced by 21 December 1993 shall not be subject to the provisions of the First Act to Amend the Genetic Engineering Act of 16 December 1993 (Federal Law
+Gazette I., p. 2059). This shall not apply to Section 9 para (1) sentence 2 and Section 24 para
+(1); notifications pursuant to Section 9 para (1) sentence 2 shall be considered as notifications
+pursuant to Section 21 para (1a).
+Section 41a
+(Deleted)
+Section 42
+Applicability of these provisions to the other States party
+to the Agreement on the European Economic Area
+On the date the Agreement on the European Economic Area enters into force, such provisions as provide for a participation of the Member States of the European Community shall, as
+from 1 January 1995, also apply to the participation of the other States party to the Agreement
+on the European Economic Area.
+- 31 -
+H:\Netz\gentech\GenTGengl10-95c.doc 11.04.03 14:54
+* According to Article 7 No. 1 in conjunction with Article 117 of the EEA Implementing
+Statute of 27 April 1993 (Federal Law Gazette I, p. 512) the term "or of other
+States party to the Agreement on the European Economic Area" shall be inserted in Section
+14 para (5) sentence 1 after the term "Member States of the European Communities"
+from
+the day the Agreement on the European Economic Area takes effect in the Federal
+Republic of Germany.
+* According to Article 7 No. 2 in conjunction with Article 117 of the EEA Implementing
+Statute of 27 April 1993 (Federal Law Gazette I, p. 512), the term "of the European
+Communities and the other states party to the Agreement on the European Economic
+Area"
+shall be inserted in Section 16 para (6) after the terms "Member States" from the day
+the Agreement on the European Economic Area takes effect in the Federal Republic of
+Germany.
